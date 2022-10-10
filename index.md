@@ -12,10 +12,10 @@ Universitätsstr. 150<br/>
 <a href="kontakt@oliverstickel.de">kontakt@oliverstickel.de</a> / +49 (0)234 32 20633
 
 <div id="webaddress">
-  <a href="https://oliverstickel.de"><i class="fas fa-home"></i> oliverstickel.de</a> - 
+  <a href="https://oliverstickel.de"><i class="fas fa-home"></i> oliverstickel.de</a> <br/>
   <a href="https://github.com/oliverstickel/"><i class="fab fa-github"></i> gitlab.com/oliverstickel</a><br/>  
   <a href="https://git.noc.rub.de/stickoft"><i class="fab fa-gitlab"></i> git.noc.rub.de/stickoft</a><br/>  
-  <a href="@stickoft:ruhr-uni-bochum.de"><i class="fab fa-comment"></i> Matrix: @stickoft:ruhr-uni-bochum.de</a><br/>  
+  <a href="@stickoft:ruhr-uni-bochum.de"><i class="fas fa-comment"></i> Matrix: @stickoft:ruhr-uni-bochum.de</a><br/>  
 </div>
 
 ## Education
@@ -38,7 +38,7 @@ Universitätsstr. 150<br/>
 
 ToDo 
 
-My publication list is available [on Researchgate](https://www.researchgate.net/profile/Oliver-Stickel).
+Full publication list at [researchgate.net/profile/oliver-stickel](https://www.researchgate.net/profile/Oliver-Stickel).
 
 
 ## Open Access projects
