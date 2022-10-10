@@ -41,7 +41,7 @@ Fab Lab Manager & Founder
 *Full publication list at [researchgate.net/profile/oliver-stickel](https://www.researchgate.net/profile/Oliver-Stickel).*
 
 
-## Community involvement
+## Community roles
 
 I co-organized the Fab:UNIverse conference multiple times and maintain its website (it's a gathering for Fab Lab managers at German universities). I've also organized a lot of different events, temporary/mobile Makerspaces and meetups such as the annual World Usability Day Siegen. 
 
