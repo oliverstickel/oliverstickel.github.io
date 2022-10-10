@@ -13,9 +13,9 @@ Universitätsstr. 150<br/>
 
 <div id="webaddress">
   <a href="https://oliverstickel.de"><i class="fas fa-home"></i> oliverstickel.de</a> <br/>
-  <a href="https://github.com/oliverstickel/"><i class="fab fa-github"></i> gitlab.com/oliverstickel</a><br/>  
+  <a href="https://github.com/oliverstickel/"><i class="fab fa-github"></i> github.com/oliverstickel</a><br/>  
   <a href="https://git.noc.rub.de/stickoft"><i class="fab fa-gitlab"></i> git.noc.rub.de/stickoft</a><br/>  
-  <a href="@stickoft:ruhr-uni-bochum.de"><i class="fas fa-comment"></i> Matrix: @stickoft:ruhr-uni-bochum.de</a><br/>  
+  <a href="#"><i class="fas fa-comment"></i> Matrix: @stickoft:ruhr-uni-bochum.de</a><br/>  
 </div>
 
 ## Education
@@ -24,7 +24,7 @@ Universitätsstr. 150<br/>
 **M.Sc. in Human Computer Interaction** - (Socio-Technical) systems design with an emphasis on qualitative methods. *University of Siegen*, Germany.
 
 `1998-2002`
-**B.Sc in Applied Cognitive and Media Sciences** - A combination of the traditional curricula of Computer Sciences and Psychology (without the advanced engineering and the clinical aspects, respectively). Emphasis on quantitative methods. *University of Duisburg-Essen*, Germany.
+**B.Sc in Applied Cognitive and Media Sciences** - Combination of Computer Science and Psychology (without the advanced engineering and clinical aspects, respectively). Emphasis on quantitative methods. *University of Duisburg-Essen*, Germany.
 
 ## Experience
 
