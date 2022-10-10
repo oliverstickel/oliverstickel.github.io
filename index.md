@@ -16,7 +16,7 @@ Fab Lab Manager & Founder
 ## Experience
 
 `2021-present`
-**Lab Manager at Bochum Makerspace** - I'm responsible for two (sub-)labs - IT and plastic fabrication - and involved in the general management of RUB-Makerspace, a 2000sqm space full of tools, infrastructure and a team of 15 people. *Ruhr-Universität Bochum*, Germany.
+**Lab Manager at Bochum Makerspace** - I manage two (sub-)labs - IT and plastics fabrication - and am involved in the general management of RUB-Makerspace, a 2000sqm innovation space with a team of 15 people. *Ruhr-Universität Bochum*, Germany.
 
 `2019 - 2020`
 **Writer, researcher, consultant**. Book project "Handbuch Fab Labs" and consultation work for organizations interested in Maker-/innovation spaces. *Self-employed*, Germany.
@@ -47,7 +47,7 @@ I co-organized [Fab:UNIverse](fab-universe.de) multiple times and maintain its w
 
 I have been an elected member of different bodies of (self)-governance such as the Senate commission on Strategic University Development at Uni Siegen and head of the student representatives ("Fachschaftsräte") at Uni Duisburg-Essen and at Uni Siegen respectively.
 
-As a researcher, I was reviewer/chair for conferences and journals such as [CHI](https://dl.acm.org/conference/chi/proceedings), [JCSCW](https://www.springer.com/journal/10606), [C&T](https://dl.acm.org/conference/c-n-t) or [M&C](https://mensch-und-computer.de/). 
+As a researcher, I was reviewer/chair for conferences and journals like [CHI](https://dl.acm.org/conference/chi/proceedings), [JCSCW](https://www.springer.com/journal/10606), [C&T](https://dl.acm.org/conference/c-n-t) or [M&C](https://mensch-und-computer.de/). 
 
 ## Grants and funding
 
