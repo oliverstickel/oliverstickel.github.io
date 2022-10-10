@@ -6,7 +6,7 @@ title: Oliver Stickel
 Fab Lab Manager & Founder
 
 Ruhr-Universität Bochum<br/>
-Makerspace, O-Wer<br/>
+Makerspace, O-Werk<br/>
 Universitätsstr. 150<br/>
 44780 Bochum, Germany<br/>
 
@@ -58,11 +58,11 @@ Description here
 
 ToDo
 
-I co-hosted the Fab:UNIverse conference (a gathering of Fab Lab managers in German academia) multiple times and maintain the conference's web presence. I've also organized a lot of different workshops, temporary / mobile Makerspaces as well as other meetups such as the annual World Usability Day Siegen. 
+I co-hosted the Fab:UNIverse conference (a gathering of Fab Lab managers in German academia) multiple times and maintain its website. I've also organized a lot of different workshops, temporary or mobile Makerspaces and other meetups such as the annual World Usability Day Siegen. 
 
 In the past, I have been an elected member of multiple bodies of academic self-governance such as the Senate commission on Strategic University Development at Uni Siegen as well as head of the student representatives ("Fachschaftsräte") during my times as a student at Uni Duisburg-Essen and at Uni Siegen respectively. I have also served as a faculty work safety advisor. 
 
-During my time as a researcher, I was reviewer and/or chair for conferences and journals (e.g. CHI or JCSCW, C&T, M&C). 
+During my time as a researcher, I was reviewer and/or chair for conferences and journals such as [CHI](https://dl.acm.org/conference/chi/proceedings) or [JCSCW](https://www.springer.com/journal/10606), [C&T](https://dl.acm.org/conference/c-n-t) or [Mensch und Computer](https://mensch-und-computer.de/). 
 
 
 
