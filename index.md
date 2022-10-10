@@ -58,7 +58,7 @@ Description here
 
 ToDo
 
-I co-hosted the Fab:UNIverse conference (a gathering of Fab Lab managers in German academia) multiple times and maintain its website. I've also organized a lot of different workshops, temporary or mobile Makerspaces and other meetups such as the annual World Usability Day Siegen. 
+I co-organized the Fab:UNIverse conference multiple times and maintain its website (it's a gathering for Fab Lab managers at German universities). I've also organized a lot of different events, temporary/mobile Makerspaces and meetups such as the annual World Usability Day Siegen. 
 
 In the past, I have been an elected member of multiple bodies of academic self-governance such as the Senate commission on Strategic University Development at Uni Siegen as well as head of the student representatives ("Fachschaftsräte") during my times as a student at Uni Duisburg-Essen and at Uni Siegen respectively. I have also served as a faculty work safety advisor. 
 
