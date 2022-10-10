@@ -11,16 +11,7 @@ Fab Lab Manager & Founder
   <a href="https://oliverstickel.de"><i class="fas fa-home"></i> oliverstickel.de</a> <br/>
   <a href="https://github.com/oliverstickel/"><i class="fab fa-github"></i> github.com/oliverstickel</a><br/>  
   <a href="https://git.noc.rub.de/stickoft"><i class="fab fa-gitlab"></i> git.noc.rub.de/stickoft</a><br/>  
-  <a href="#"><i class="fas fa-comment"></i> Matrix: @stickoft:ruhr-uni-bochum.de</a><br/>  
 </div>
-
-## Education
-
-`2012-2015`
-**M.Sc. Human Computer Interaction** - Socio-technical systems design. Emphasis on qualitative methods. *University of Siegen*, Germany.
-
-`1998-2002`
-**B.Sc. Applied Cognitive and Media Sciences** - Combination of Computer Science and Psychology (without the advanced engineering and clinical aspects, respectively). Emphasis on quantitative methods. *University of Duisburg-Essen*, Germany.
 
 ## Experience
 
@@ -30,24 +21,25 @@ Fab Lab Manager & Founder
 `2019 - 2020`
 **Writer, researcher, consultant**. Book project "Handbuch Fab Labs" and consultation work for organizations interested in Maker-/innovation spaces. *Self-employed*, Germany.
 
+## Education
+
+`2012-2015`
+**M.Sc. Human Computer Interaction** - Socio-technical systems design. Emphasis on qualitative methods. *University of Siegen*, Germany.
+
+`1998-2002`
+**B.Sc. Applied Cognitive and Media Sciences** - Combination of Computer Science and Psychology (without the advanced engineering and clinical aspects, respectively). Emphasis on quantitative methods. *University of Duisburg-Essen*, Germany.
+
+
 ## Publications
 
-ToDo 
+**ToDo selected Pubs**
 
-Full publication list at [researchgate.net/profile/oliver-stickel](https://www.researchgate.net/profile/Oliver-Stickel).
+**Handbuch Fab Labs**
 
+**Usability Method Finder**
 
-## Open Access projects
+*Full publication list at [researchgate.net/profile/oliver-stickel](https://www.researchgate.net/profile/Oliver-Stickel).*
 
-ToDo
-
-
-## Grants and funding
-
-
-`from-to`
-**Project funding**, *Test Test*, Germany, amount?. <br/>
-Description here
 
 ## Community involvement
 
@@ -57,7 +49,36 @@ In the past, I have been an elected member of multiple bodies of academic self-g
 
 During my time as a researcher, I was reviewer and/or chair for conferences and journals such as [CHI](https://dl.acm.org/conference/chi/proceedings), [JCSCW](https://www.springer.com/journal/10606), [C&T](https://dl.acm.org/conference/c-n-t) or [Mensch und Computer](https://mensch-und-computer.de/). 
 
+## Grants and funding
 
+
+`from-to`
+**RUB-Makerspace**, *Test Test*, Germany, amount?. <br/>
+Description here
+
+`from-to`
+**SMAPS**, *Test Test*, Germany, amount?. <br/>
+Description here
+
+`from-to`
+**FAB 101**, *Test Test*, Germany, amount?. <br/>
+Description here
+
+`from-to`
+**YALLAH**, *Test Test*, Germany, amount?. <br/>
+Description here
+
+`from-to`
+**ZEIT.RAUM Siegen**, *Test Test*, Germany, amount?. <br/>
+Description here
+
+`from-to`
+**Fab Lab Siegen**, *Test Test*, Germany, amount?. <br/>
+Description here
+
+`from-to`
+**CUBES**, *Test Test*, Germany, amount?. <br/>
+Description here
 
 
 ## Awards and honors
