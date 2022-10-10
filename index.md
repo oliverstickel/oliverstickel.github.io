@@ -5,12 +5,7 @@ title: Oliver Stickel
 # Oliver Stickel
 Fab Lab Manager & Founder
 
-Ruhr-Universität Bochum<br/>
-Makerspace, O-Werk<br/>
-Universitätsstr. 150<br/>
-44780 Bochum, Germany<br/>
-
-<a href="kontakt@oliverstickel.de">kontakt@oliverstickel.de</a> / +49 (0)234 32 20633
+<a href="kontakt@oliverstickel.de">kontakt@oliverstickel.de</a> / Matrix: @stickoft:ruhr-uni-bochum.de / Tel. +49 (0)234 32 20633
 
 <div id="webaddress">
   <a href="https://oliverstickel.de"><i class="fas fa-home"></i> oliverstickel.de</a> <br/>
