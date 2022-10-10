@@ -13,8 +13,10 @@ Universitätsstr. 150<br/>
 
 <div id="webaddress">
   <a href="https://oliverstickel.de"><i class="fas fa-home"></i> oliverstickel.de</a> - 
-  <a href="https://makerspace.rub.de/team/#os"><i class="fas fa-users"></i> At RUB-Makerspace</a><br/>
-  <a href="https://www.researchgate.net/profile/Oliver-Stickel"><i class="ai ai-researchgate"></i> My Publications at Researchgate</a> - 
+  <a href="https://makerspace.rub.de/team/#os"><i class="fas fa-users"></i> At RUB-Makerspace</a><br/>  
+  <a href="https://www.researchgate.net/profile/Oliver-Stickel"><i class="ai ai-researchgate"></i> My Publications at Researchgate</a> 
+  <a href="https://git.noc.rub.de/stickoft"><i class="fab fa-gitlab"></i> Gitlab</a><br/>  
+  <a href="https://github.com/oliverstickel/"><i class="fab fa-github"></i> Github</a><br/>  
 </div>
 
 ## Education
