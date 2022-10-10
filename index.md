@@ -47,7 +47,7 @@ I co-organized [Fab:UNIverse](fab-universe.de) multiple times and maintain its w
 
 I have been an elected member of different bodies of (self)-governance such as the Senate commission on Strategic University Development at Uni Siegen and head of the student representatives ("Fachschaftsräte") at Uni Duisburg-Essen and at Uni Siegen respectively.
 
-As a researcher, I was reviewer/chair for conferences and journals such as [CHI](https://dl.acm.org/conference/chi/proceedings), [JCSCW](https://www.springer.com/journal/10606), [C&T](https://dl.acm.org/conference/c-n-t) or [Mensch und Computer](https://mensch-und-computer.de/). 
+As a researcher, I was reviewer/chair for conferences and journals such as [CHI](https://dl.acm.org/conference/chi/proceedings), [JCSCW](https://www.springer.com/journal/10606), [C&T](https://dl.acm.org/conference/c-n-t) or [M&C](https://mensch-und-computer.de/). 
 
 ## Grants and funding
 
