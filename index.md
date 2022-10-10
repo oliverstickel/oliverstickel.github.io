@@ -22,10 +22,10 @@ Universitätsstr. 150<br/>
 ## Education
 
 `2012-2015`
-**M.Sc. in Human Computer Interaction** - Socio-technical systems design with emphasis on qualitative methods. *University of Siegen*, Germany.
+**M.Sc. Human Computer Interaction** - Socio-technical systems design. Emphasis on qualitative methods. *University of Siegen*, Germany.
 
 `1998-2002`
-**B.Sc in Applied Cognitive and Media Sciences** - Combination of Computer Science and Psychology (without the advanced engineering and clinical aspects, respectively). Emphasis on quantitative methods. *University of Duisburg-Essen*, Germany.
+**B.Sc. Applied Cognitive and Media Sciences** - Combination of Computer Science and Psychology (without the advanced engineering and clinical aspects, respectively). Emphasis on quantitative methods. *University of Duisburg-Essen*, Germany.
 
 ## Experience
 
