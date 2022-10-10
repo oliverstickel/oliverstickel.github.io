@@ -43,7 +43,7 @@ Fab Lab Manager & Founder
 
 ## Community roles
 
-I co-organized the Fab:UNIverse conference multiple times and maintain its website (it's a gathering for Fab Lab managers at German universities). I've also organized a lot of different events, temporary/mobile Makerspaces and meetups such as the annual World Usability Day Siegen. 
+I co-organized [Fab:UNIverse](fab-universe.de) multiple times and maintain its website (it's a conference for Fab Lab managers at universities). I've also organized a lot of different events, temporary (Maker)spaces and meetups such as the annual World Usability Day Siegen. 
 
 In the past, I have been an elected member of multiple bodies of academic self-governance such as the Senate commission on Strategic University Development at Uni Siegen as well as head of the student representatives ("Fachschaftsräte") at Uni Duisburg-Essen and at Uni Siegen respectively.
 
