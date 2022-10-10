@@ -64,14 +64,8 @@ ToDo
 
 ToDo
 
-`2014-present`
-European Geosciences Union
-
-`2005-present`
-Geological Society of America
-
-`2003-present`
-American Geophysical Union
+`from-to`
+organization
 
 ## Languages
 
