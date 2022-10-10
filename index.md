@@ -6,6 +6,7 @@ title: Oliver Stickel
 Fab Lab Manager & Founder
 
 Ruhr-Universität Bochum<br/>
+Makerspace, O-Wer<br/>
 Universitätsstr. 150<br/>
 44780 Bochum, Germany<br/>
 
@@ -21,7 +22,7 @@ Universitätsstr. 150<br/>
 ## Education
 
 `2012-2015`
-**M.Sc. in Human Computer Interaction** - (Socio-Technical) systems design with an emphasis on qualitative methods. *University of Siegen*, Germany.
+**M.Sc. in Human Computer Interaction** - Socio-technical systems design with emphasis on qualitative methods. *University of Siegen*, Germany.
 
 `1998-2002`
 **B.Sc in Applied Cognitive and Media Sciences** - Combination of Computer Science and Psychology (without the advanced engineering and clinical aspects, respectively). Emphasis on quantitative methods. *University of Duisburg-Essen*, Germany.
@@ -29,7 +30,7 @@ Universitätsstr. 150<br/>
 ## Experience
 
 `2021-present`
-**Lab Manager at Bochum Makerspace**. RUB-Makerspace is a 2000sqm innovation space full of different tools, infrastructure and a team of 15 people. I'm responsible for two (sub-)labs (IT and plastic fabrication) and I'm involved in the general management of the space as well. *Ruhr-Universität Bochum*, Germany.
+**Lab Manager at Bochum Makerspace**. RUB-Makerspace is a 2000sqm innovation space full of different tools, infrastructure and a team of 15 people. I'm responsible for two (sub-)labs (IT and plastic fabrication) and involved in the general management of the space as well. *Ruhr-Universität Bochum*, Germany.
 
 `2019 - 2020`
 **Writer, researcher, consultant**. Book project "Handbuch Fab Labs" and consultation work for organizations interested in Maker-/innovation spaces. *Self-employed*, Germany.
