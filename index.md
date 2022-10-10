@@ -32,7 +32,7 @@ Universitätsstr. 150<br/>
 `2021-present`
 **Lab Manager at Bochum Makerspace**. RUB-Makerspace is a 2000sqm innovation space full of different tools, infrastructure and a team of 15 people. I'm responsible for two (sub-)labs (IT and plastic fabrication) and I'm involved in the general management of the space as well. *Ruhr-Universität Bochum*, Germany.
 
-`Oct. 2019 - March 2020`
+`2019 - 2020`
 **Writer, researcher, consultant**. Book project "Handbuch Fab Labs" and consultation work for organizations interested in Maker-/innovation spaces. *Self-employed*, Germany.
 
 ## Publications
@@ -58,7 +58,7 @@ Description here
 
 ToDo
 
-I co-hosted the Fab:UNIverse conference (a gathering of Fab Lab managers in German academia) multiple times and maintain the conference's web presence. I've also organized a lot of different workshops, temporary Makerspaces as well as other small-ish conferences such as the annual World Usability Day Siegen. 
+I co-hosted the Fab:UNIverse conference (a gathering of Fab Lab managers in German academia) multiple times and maintain the conference's web presence. I've also organized a lot of different workshops, temporary / mobile Makerspaces as well as other meetups such as the annual World Usability Day Siegen. 
 
 In the past, I have been an elected member of multiple bodies of academic self-governance such as the Senate commission on Strategic University Development at Uni Siegen as well as head of the student representatives ("Fachschaftsräte") during my times as a student at Uni Duisburg-Essen and at Uni Siegen respectively. I have also served as a faculty work safety advisor. 
 
