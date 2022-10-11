@@ -74,11 +74,12 @@ As a researcher, I was reviewer/chair for conferences and journals like [CHI](ht
 ## Projects and funding
 
 `2017-2020`
-**FAB 101** <br/> was a joint research project of four German universities on Fab Labs digital fabrication in academic education. I developed the core idea for the project, led the proposal and was overall project manager as well as part of the operative team. *Federal Ministry of Education and Research*, Germany, about 1.2m €. 
+**FAB 101** was a joint research project of four German universities on Fab Labs digital fabrication in academic education. I developed the core idea for the project, led the proposal and was overall project manager as well as part of the operative team.  
+*Federal Ministry of Education and Research*, Germany, about 1.2m €. 
 
 `2016-2018`
-**YALLAH** - or "You All Are Hackers" [was a student exchange project](https://yallah.exchange/). Students from Palestine and Germany visited each other for multiple stays and worked on socio-economical issues using "maker-methods" and working out of Makerspaces. I had the project idea after my own visits to Palestine as a student, led the proposal and helped to recruit and set up the staff who took over the project.  *German Academic Exchange Service (DAAD)*, Germany, about 225.000€. <br/>
-Description here
+**YALLAH** - "You All Are Hackers" [was a student exchange project](https://yallah.exchange/). Students from Palestine and Germany visited each other for multiple stays and worked on socio-economical issues using "maker-methods" and working out of Makerspaces. I had the project idea after my own visits to Palestine as a student, led the proposal and helped to recruit and set up the staff who took over the project.  
+*German Academic Exchange Service (DAAD)*, Germany, about 225.000€.
 
 `2016-2018`
 **ZEIT.RAUM Siegen** was a regional project to build a 3D-printed, interactive city model and a [regional Wiki](https://wiki.zeitraum-siegen.de/) for an installation in a local museum. I coordinated the ideation phase, wrote most of the proposals and was part of the negotiation team. Within the project, I built the first prototypes for model and wiki and recruited the staff who finished the project. *Regional societies, University of Siegen, other sources*, Germany, about 190.000€ <br/>
