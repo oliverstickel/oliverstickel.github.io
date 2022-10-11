@@ -11,6 +11,7 @@ Fab Lab Manager & Founder
   <a href="https://oliverstickel.de"><i class="fas fa-home"></i> oliverstickel.de</a> <br/>
   <a href="https://github.com/oliverstickel/"><i class="fab fa-github"></i> github.com/oliverstickel</a><br/>  
   <a href="https://git.noc.rub.de/stickoft"><i class="fab fa-gitlab"></i> git.noc.rub.de/stickoft</a><br/>  
+  <a href="https://oliverstickel.de/cv.pdf"><i class="fas fa-file-pdf"></i> oliverstickel.de/cv.pdf</a><br/>  
 </div>
 
 ## Experience
@@ -84,7 +85,7 @@ As a researcher, I was reviewer/chair for conferences and journals like [CHI](ht
 
 `2017-2020`
 **FAB 101** [was a joint research project](https://fab101.de) of four German universities on Fab Labs digital fabrication in academic education. I developed the core idea for the project, led the proposal and was overall project manager as well as part of the operative team.  
-*Federal Ministry of Education and Research, Germany, about 1.2m €.* 
+*Federal Ministry of Education and Research, Germany, about 1.2m€.* 
 
 `2016-2018`
 **YALLAH** - "You All Are Hackers" [was a student exchange project](https://yallah.exchange/). Students from Palestine and Germany visited each other for multiple stays and worked on socio-economical issues using "maker-methods". I had the project idea after my own visits to Palestine as a student, led the proposal and helped to recruit and set up the staff who took over the project.  
@@ -120,7 +121,7 @@ As a researcher, I was reviewer/chair for conferences and journals like [CHI](ht
 
 ## Teaching
 
-I really enjoy teaching and learning and consider both to be cornerstones of civilization. At Uni Siegen, I've been responsible for the practical part of the mandatory introduction to Human Computer Interaction for many years (including a mentoring up to 40 students per iteration through big, semester-long projects, cumulating in submissions to and wins in national student challenges). Additionally, I've held many different elective seminars ranging from reading classes on literature about "Making" to very practical seminars on rapid prototyping methods. I've made it a point to try and be open in teaching and have frequently had students from other faculties or external guests in my seminars. 
+I enjoy teaching and learning a lot. At Uni Siegen, I've been responsible for the practical part of the mandatory introduction to Human Computer Interaction for many years (including a mentoring up to 40 students per iteration through big, semester-long projects, cumulating in submissions to and wins in national student challenges). Additionally, I've held many different elective seminars ranging from reading classes on literature about "Making" to very practical seminars on rapid prototyping methods. I've made it a point to try and be open in teaching and have frequently had students from other faculties or external guests in my seminars. 
 
 As a thesis advisor and co-advisor, I have accompanied about 10 Bachelor and Master Students along their paths to graduation. Topics have varied from participatory-design-oriented field investigations to studies about Makerspaces in teacher training to engineering and fabrication of additive tools for industrial processes. Additionally, I've been involved in co-advising state-certified technicians as a pilot project between a university and a technical (vocational) college. 
 
