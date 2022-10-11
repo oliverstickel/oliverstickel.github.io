@@ -65,23 +65,23 @@ Thomas Ludwig, Oliver Stickel, Alexander Boden, Volkmar Pipek - [**Towards Socia
 
 `2017-2020`
 **FAB 101** [was a joint research project](https://fab101.de) of four German universities on Fab Labs digital fabrication in academic education. I developed the core idea for the project, led the proposal and was overall project manager as well as part of the operative team.  
-*Federal Ministry of Education and Research, Germany, about 1.2m €.* 
+*Federal Ministry of Education and Research, Germany, about 1.2m€.* 
 
 `2016-2018`
 **YALLAH** - "You All Are Hackers" [was a student exchange project](https://yallah.exchange/). Students from Palestine and Germany visited each other for multiple stays and worked on socio-economical issues using "maker-methods". I had the project idea after my own visits to Palestine as a student, led the proposal and helped to recruit and set up the staff who took over the project.  
-*German Academic Exchange Service (DAAD), Germany, about 225.000 €.*
+*German Academic Exchange Service (DAAD), about 225.000€.*
 
 `2016-2018`
 **ZEIT.RAUM Siegen** was a regional project to build a 3D-printed, interactive city model and a [regional Wiki](https://wiki.zeitraum-siegen.de/) for an installation in a local museum. I coordinated the ideation phase, wrote most of the proposals and was part of the negotiation team. Within the project, I built the first prototypes for model and wiki and recruited the staff who finished the project.  
-*Regional societies, University of Siegen, other sources, Germany, about 190.000 €.*
+*Regional societies, University of Siegen, other sources, about 190.000€.*
 
 `2013 - today`
 **Fab Lab Siegen** was *[my baby](https://fablab-siegen.de)* for many years and my first real experience in regards being a founder and the world of fundraising. The project is still going and has become infrastructure.  
-*Calls for student projects, donations, other sources, about 100.000 € during the first 2-3 years (later, funding strategies changed) and regionally sponsored space for many years.*
+*Calls for student projects, donations, other sources, about 100.000€ during the first 2-3 years (later, funding strategies changed) and regionally sponsored space for many years.*
 
 `2012-2015`
 **CUBES**, research project on community-based innovation in software and usability for small and medium sized enterprises. I was involved as a student, then researcher and, in the end, as (interim) project manager the [final reporting and project closing](https://www.tib.eu/de/suchen?tx_tibsearch_search%5Baction%5D=download&tx_tibsearch_search%5Bcontroller%5D=Download&tx_tibsearch_search%5Bdocid%5D=TIBKAT%3A872262936&cHash=7d56fa41baf92a721f58064874672f4a#download-mark).  
-*Federal Ministry for Economic Affairs and Energy, Germany, about 800.000 €.*
+*Federal Ministry for Economic Affairs and Energy, about 800.000€.*
 
 ## Community roles
 
@@ -115,7 +115,7 @@ Nowadays, I'm less involved in structured, academic teaching but mostly teach (a
 
 ## Skills in Keywords
 
-**Makerspaces** - Rapid Prototyping (many different methods), CAD/CAM, general (basic) coding, basic electronics and integrated systems. Also: Planning and development of team and space including operations, finances and safety. 
+**Makerspaces** - Rapid Prototyping (different methods), CAD/CAM, general (basic) coding, basic electronics and integrated systems. Space management, development and safety.
 
 **Human Centered Design** - UX design, HCI, usability methods, design thinking, convergence of agile and user centered methods. 
 
