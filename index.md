@@ -63,12 +63,12 @@ Oliver Stickel, Anke Brocker, Melanie Stilz, Antje Möbus, Iris Bockermann, Jan 
 
 Oliver Stickel, Konstantin Aal, Verena Fuchsberger, Sarah Rüller, Victoria Wenzelmann, Volkmar Pipek, Volker Wulf, Manfred Tscheligi - [**3D printing/digital fabrication for education and the common good**](http://www.digifab-commongood.fab101.de/images/2017_ws3dp_ct_proposal.pdf). Workshop ([website](http://www.digifab-commongood.fab101.de/)) at Communities & Technologies conf. 2017.
 
-Oliver Stickel, Konstantin Aal, Marén Schorch, Dominik Hornung, Alexander Boden, Volker Wulf, Volkmar Pipek - [**Computerclubs und Flüchtlingslager - Ein Diskussionsbeitrag zur Forschungs- und Bildungsarbeit aus praxistheoretischer Perspektive**](10.14361-9783839433508-008.pdf). Tagungsband Do it! Yourself? Fragen zu (Forschungs-)Praktiken des Selbermachens (2018).  
+Oliver Stickel, Konstantin Aal, Marén Schorch, Dominik Hornung, Alexander Boden, Volker Wulf, Volkmar Pipek - [**Computerclubs und Flüchtlingslager - Ein Diskussionsbeitrag zur Forschungs- und Bildungsarbeit aus praxistheoretischer Perspektive**](files/10.14361-9783839433508-008.pdf). Tagungsband Do it! Yourself? Fragen zu (Forschungs-)Praktiken des Selbermachens (2018).  
 
 
-Oliver Stickel, Corinna Ogonowkski, Timo Jacobi, Gunnar Stevens, Volkmar Pipek, Volker Wulf - [**User Integration in Agile Software Development Processes: Practices and Challenges in Small and Medium Sized Enterprises**](10.1007-978-3-319-32165-3_2.pdf). In: Cockton, G., Lárusdóttir, M., Gregory, P., Cajander, Å. (eds) - Integrating User-Centred Design in Agile Development. Human–Computer Interaction Series. Springer (2016).
+Oliver Stickel, Corinna Ogonowkski, Timo Jacobi, Gunnar Stevens, Volkmar Pipek, Volker Wulf - [**User Integration in Agile Software Development Processes: Practices and Challenges in Small and Medium Sized Enterprises**](files/10.1007-978-3-319-32165-3_2.pdf). In: Cockton, G., Lárusdóttir, M., Gregory, P., Cajander, Å. (eds) - Integrating User-Centred Design in Agile Development. Human–Computer Interaction Series. Springer (2016).
 
-Thomas Ludwig, Oliver Stickel, Alexander Boden, Volkmar Pipek - [**Towards Sociable Technologies: An Empirical Study on Designing Appropriation Infrastructures for 3D Printing**](10.1145-2598510.2598528.pdf). Proceedings of the Designing Interactive Systems Conference (DIS) 2014, pp. 835–844. 
+Thomas Ludwig, Oliver Stickel, Alexander Boden, Volkmar Pipek - [**Towards Sociable Technologies: An Empirical Study on Designing Appropriation Infrastructures for 3D Printing**](files/10.1145-2598510.2598528.pdf). Proceedings of the Designing Interactive Systems Conference (DIS) 2014, pp. 835–844. 
 
 *Selected. Full publication list at [researchgate.net/profile/oliver-stickel](https://www.researchgate.net/profile/Oliver-Stickel).*
 
