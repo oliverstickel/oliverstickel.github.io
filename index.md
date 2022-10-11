@@ -8,7 +8,7 @@ Fab Lab Manager & Founder
 <a href="kontakt@oliverstickel.de">kontakt@oliverstickel.de</a> / +49 (0)234 32 20633
 
 <div id="webaddress">
-  <a href="https://oliverstickel.de"><i class="fas fa-home"></i> oliverstickel.de </a>  <div style="color:black"> / </div>  <a href="https://oliverstickel.de/cv.pdf"><i class="fas fa-file-pdf"></i> oliverstickel.de/cv.pdf</a><br/>
+  <a href="https://oliverstickel.de"><i class="fas fa-home"></i> oliverstickel.de </a>  <span style="color:black"> / </span>  <a href="https://oliverstickel.de/cv.pdf"><i class="fas fa-file-pdf"></i> oliverstickel.de/cv.pdf</a><br/>
   <a href="https://github.com/oliverstickel/"><i class="fab fa-github"></i> github.com/oliverstickel</a><br/>  
   <a href="https://git.noc.rub.de/stickoft"><i class="fab fa-gitlab"></i> git.noc.rub.de/stickoft</a><br/>  
 </div>
@@ -87,7 +87,7 @@ Thomas Ludwig, Oliver Stickel, Alexander Boden, Volkmar Pipek - [**Towards Socia
 
 I co-organized [Fab:UNIverse](fab-universe.de) multiple times and maintain its website (it's a conference for Fab Lab managers at universities). I've also (co-)organized a lot of different events, temporary (Maker)spaces and meetups such as the Usability Day Siegen (2014-2018). 
 
-I have been an elected member of different bodies of (self)-governance such as the Senate commission on Strategic University Development at Uni Siegen and head of the student representatives ("Fachschaftsräte") at Uni Duisburg-Essen and at Uni Siegen respectively. I've also occasionally been asked to fill roles in regional and national expert committees (mostly in relation to innovation and community spaces). 
+I have been an elected member of different bodies of (self)-governance such as the Senate commission on Strategic University Development at Uni Siegen and head of the student representatives ("Fachschaftsräte") at Uni Duisburg-Essen and at Uni Siegen respectively. Occasionally, I've been asked to fill roles in regional and national expert committees (mostly in relation to innovation and community spaces). 
 
 As a researcher, I was reviewer/chair for conferences and journals like [CHI](https://dl.acm.org/conference/chi/proceedings), [JCSCW](https://www.springer.com/journal/10606), [C&T](https://dl.acm.org/conference/c-n-t) or [M&C](https://mensch-und-computer.de/). 
 
