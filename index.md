@@ -5,10 +5,10 @@ title: Oliver Stickel
 # Oliver Stickel
 Fab Lab Manager & Founder
 
-<a href="kontakt@oliverstickel.de">kontakt@oliverstickel.de</a> / +49 (0)234 32 20633
+<a href="kontakt@oliverstickel.de">kontakt@oliverstickel.de</a> | +49 (0)234 32 20633
 
 <div id="webaddress">
-  <a href="https://oliverstickel.de"><i class="fas fa-home"></i> oliverstickel.de</a> / <a href="https://oliverstickel.de/cv.pdf"><i class="fas fa-file-pdf"></i> oliverstickel.de/cv.pdf</a><br/>
+  <a href="https://oliverstickel.de"><i class="fas fa-home"></i> oliverstickel.de </a>  |  <a href="https://oliverstickel.de/cv.pdf"><i class="fas fa-file-pdf"></i> oliverstickel.de/cv.pdf</a><br/>
   <a href="https://github.com/oliverstickel/"><i class="fab fa-github"></i> github.com/oliverstickel</a><br/>  
   <a href="https://git.noc.rub.de/stickoft"><i class="fab fa-gitlab"></i> git.noc.rub.de/stickoft</a><br/>  
 </div>
@@ -43,14 +43,6 @@ Fab Lab Manager & Founder
 
 **Methods** - User-centered teachning and learning, Constructionism, mixed-methods, action and field research, participatory methods, (Maker-)spaces as a method. 
 
-## Community roles
-
-I co-organized [Fab:UNIverse](fab-universe.de) multiple times and maintain its website (it's a conference for Fab Lab managers at universities). I've also (co-)organized a lot of different events, temporary (Maker)spaces and meetups such as the Usability Day Siegen (2014-2018). 
-
-I have been an elected member of different bodies of (self)-governance such as the Senate commission on Strategic University Development at Uni Siegen and head of the student representatives ("Fachschaftsräte") at Uni Duisburg-Essen and at Uni Siegen respectively. I've also occasionally been asked to fill roles in regional and national expert committees (mostly in relation to innovation and community spaces). 
-
-As a researcher, I was reviewer/chair for conferences and journals like [CHI](https://dl.acm.org/conference/chi/proceedings), [JCSCW](https://www.springer.com/journal/10606), [C&T](https://dl.acm.org/conference/c-n-t) or [M&C](https://mensch-und-computer.de/). 
-
 ## Publications
 
 Iris Bockermann, Jan Borchers, Anke Brocker, Marcel Lahaye, Antje Moebus, Stefan Neudecker, Oliver Stickel, Melanie Stilz, Daniel Wilkens, René Bohne, Volkmar Pipek, Heidi Schelhowe - [**Handbuch Fab Labs: Einrichtung, Finanzierung, Betrieb, Forschung & Lehre**](https://www.bombini-verlag.de/shop/handbuch-fab-labs/) (an open access book on managing academic Fab Labs). Bombini-Verlag (2021). 
@@ -75,24 +67,31 @@ Thomas Ludwig, Oliver Stickel, Alexander Boden, Volkmar Pipek - [**Towards Socia
 
 `2017-2020`
 **FAB 101** [was a joint research project](https://fab101.de) of four German universities on Fab Labs digital fabrication in academic education. I developed the core idea for the project, led the proposal and was overall project manager as well as part of the operative team.  
-*Federal Ministry of Education and Research, Germany, about 1.2m€.* 
+*Federal Ministry of Education and Research, Germany, about 1.2m €.* 
 
 `2016-2018`
 **YALLAH** - "You All Are Hackers" [was a student exchange project](https://yallah.exchange/). Students from Palestine and Germany visited each other for multiple stays and worked on socio-economical issues using "maker-methods". I had the project idea after my own visits to Palestine as a student, led the proposal and helped to recruit and set up the staff who took over the project.  
-*German Academic Exchange Service (DAAD), Germany, about 225.000€.*
+*German Academic Exchange Service (DAAD), Germany, about 225.000 €.*
 
 `2016-2018`
 **ZEIT.RAUM Siegen** was a regional project to build a 3D-printed, interactive city model and a [regional Wiki](https://wiki.zeitraum-siegen.de/) for an installation in a local museum. I coordinated the ideation phase, wrote most of the proposals and was part of the negotiation team. Within the project, I built the first prototypes for model and wiki and recruited the staff who finished the project.  
-*Regional societies, University of Siegen, other sources, Germany, about 190.000€.*
+*Regional societies, University of Siegen, other sources, Germany, about 190.000 €.*
 
 `2013 - today`
 **Fab Lab Siegen** was *[my baby](https://fablab-siegen.de)* for many years and my first real experience in regards being a founder and the world of fundraising. The project is still going and has become infrastructure.  
-*Different calls for student projects, donations and other regional funding sources, about 100.000€ during the first 2-3 years (after that, funding strategies changed).*
+*Calls for student projects, donations, regional funding sources, about 100.000 € during the first 2-3 years (later, funding strategies changed).*
 
 `2012-2015`
 **CUBES**, research project on community-based innovation in software and usability for small and medium sized enterprises. I was involved as a student, then researcher and, in the end, as (interim) project manager for all aspects of the final reporting and project closing.  
-*Federal Ministry for Economic Affairs and Energy, Germany, about 800.000€.*
+*Federal Ministry for Economic Affairs and Energy, Germany, about 800.000 €.*
 
+## Community roles
+
+I co-organized [Fab:UNIverse](fab-universe.de) multiple times and maintain its website (it's a conference for Fab Lab managers at universities). I've also (co-)organized a lot of different events, temporary (Maker)spaces and meetups such as the Usability Day Siegen (2014-2018). 
+
+I have been an elected member of different bodies of (self)-governance such as the Senate commission on Strategic University Development at Uni Siegen and head of the student representatives ("Fachschaftsräte") at Uni Duisburg-Essen and at Uni Siegen respectively. I've also occasionally been asked to fill roles in regional and national expert committees (mostly in relation to innovation and community spaces). 
+
+As a researcher, I was reviewer/chair for conferences and journals like [CHI](https://dl.acm.org/conference/chi/proceedings), [JCSCW](https://www.springer.com/journal/10606), [C&T](https://dl.acm.org/conference/c-n-t) or [M&C](https://mensch-und-computer.de/). 
 
 ## Teaching
 
