@@ -24,7 +24,7 @@ Fab Lab Manager & Founder
 
 
 `2015 - 2019`
-**Researcher, project manager**. After graduating, I stayed at Uni Siegen as a researcher to continue building [Fab Lab Siegen](https://fablab-siegen.de) into a sustainable infrastructure. Apart from the Lab, I worked in in different projects (and on their funding) and was quite involved in teaching. *University of Siegen*, Germany.
+**Researcher, project manager**. After graduating, I stayed at Uni Siegen as a researcher to continue building [Fab Lab Siegen](https://fablab-siegen.de) into a sustainable infrastructure. Apart from the Lab, I worked on/in in different projects (see below) and did a lot of teaching. *University of Siegen*, Germany.
 
 `2014 - 2019`
 **Guest researcher, consultant**. Field research, consultations and development of joint project proposals in/with collaborators from the Middle East. *University of Birzeit, Univ. of Technology Oman, Goethe Institute, others*, (mostly) Palestine.
@@ -55,7 +55,7 @@ Fab Lab Manager & Founder
 
 ## Publications
 
-Iris Bockermann, Jan Borchers, Anke Brocker, Marcel Lahaye, Antje Moebus, Stefan Neudecker, Oliver Stickel, Melanie Stilz, Daniel Wilkens, René Bohne, Volkmar Pipek, Heidi Schelhowe - [**Handbuch Fab Labs: Einrichtung, Finanzierung, Betrieb, Forschung & Lehre**](https://www.bombini-verlag.de/shop/handbuch-fab-labs/). Bombini-Verlag (2021). 
+Iris Bockermann, Jan Borchers, Anke Brocker, Marcel Lahaye, Antje Moebus, Stefan Neudecker, Oliver Stickel, Melanie Stilz, Daniel Wilkens, René Bohne, Volkmar Pipek, Heidi Schelhowe - [**Handbuch Fab Labs: Einrichtung, Finanzierung, Betrieb, Forschung & Lehre**](https://www.bombini-verlag.de/shop/handbuch-fab-labs/) (an open access book on managing academic Fab Labs). Bombini-Verlag (2021). 
 
 Thomas Ludwig, Oliver Stickel, Peter Tolmie, Malte Sellmer - [**shARe-IT: Ad hoc Remote Troubleshooting through Augmented Reality**](https://link.springer.com/article/10.1007/s10606-021-09393-5). Journal on Computer Supported Cooperative Work 30, pp. 119–167 (2021). 
 
