@@ -54,13 +54,22 @@ Fab Lab Manager & Founder
 
 ## Publications
 
-**ToDo selected Pubs**
+Iris Bockermann, Jan Borchers, Anke Brocker, Marcel Lahaye, Antje Moebus, Stefan Neudecker, Oliver Stickel, Melanie Stilz, Daniel Wilkens, René Bohne, Volkmar Pipek, Heidi Schelhowe - [Handbuch Fab Labs: Einrichtung, Finanzierung, Betrieb, Forschung & Lehre](https://www.bombini-verlag.de/shop/handbuch-fab-labs/). Bombini-Verlag (2021). 
 
-**Handbuch Fab Labs**
+Thomas Ludwig, Oliver Stickel, Peter Tolmie, Malte Sellmer - [shARe-IT: Ad hoc Remote Troubleshooting through Augmented Reality](https://link.springer.com/article/10.1007/s10606-021-09393-5). Journal on Computer Supported Cooperative Work 30, pp. 119–167 (2021). 
 
-**Usability Method Finder**
+Oliver Stickel, Anke Brocker, Melanie Stilz, Antje Möbus, Iris Bockermann, Jan Borchers, Volkmar Pipek - [Fab Lab Education in German Academia](https://zenodo.org/record/1344438). Proceedings from the Fab14 conference, pp. 39-46 (2018).
 
-*Full publication list at [researchgate.net/profile/oliver-stickel](https://www.researchgate.net/profile/Oliver-Stickel).*
+Oliver Stickel, Konstantin Aal, Verena Fuchsberger, Sarah Rüller, Victoria Wenzelmann, Volkmar Pipek, Volker Wulf, Manfred Tscheligi - [3D printing/digital fabrication for education and the common good](http://www.digifab-commongood.fab101.de/images/2017_ws3dp_ct_proposal.pdf). Workshop at the Communities & Technologies conference 2017 ([Workshop Website](http://www.digifab-commongood.fab101.de/)).
+
+Oliver Stickel, Konstantin Aal, Marén Schorch, Dominik Hornung, Alexander Boden, Volker Wulf, Volkmar Pipek - [Computerclubs und Flüchtlingslager - Ein Diskussionsbeitrag zur Forschungs- und Bildungsarbeit aus praxistheoretischer Perspektive](10.14361-9783839433508-008.pdf). Tagungsband Do it! Yourself? Fragen zu (Forschungs-)Praktiken des Selbermachens (2018).  
+
+
+Oliver Stickel, Corinna Ogonowkski, Timo Jacobi, Gunnar Stevens, Volkmar Pipek, Volker Wulf - [User Integration in Agile Software Development Processes: Practices and Challenges in Small and Medium Sized Enterprises](10.1007-978-3-319-32165-3_2.pdf). In: Cockton, G., Lárusdóttir, M., Gregory, P., Cajander, Å. (eds) - Integrating User-Centred Design in Agile Development. Human–Computer Interaction Series. Springer (2016).
+
+Thomas Ludwig, Oliver Stickel, Alexander Boden, Volkmar Pipek - [Towards Sociable Technologies: An Empirical Study on Designing Appropriation Infrastructures for 3D Printing](10.1145-2598510.2598528.pdf). Proceedings of the Designing Interactive Systems Conference (DIS) 2014, pp. 835–844. 
+
+*Selected. Full publication list at [researchgate.net/profile/oliver-stickel](https://www.researchgate.net/profile/Oliver-Stickel).*
 
 
 ## Community roles
@@ -78,7 +87,7 @@ As a researcher, I was reviewer/chair for conferences and journals like [CHI](ht
 *Federal Ministry of Education and Research, Germany, about 1.2m €.* 
 
 `2016-2018`
-**YALLAH** - "You All Are Hackers" [was a student exchange project](https://yallah.exchange/). Students from Palestine and Germany visited each other for multiple stays and worked on socio-economical issues using "maker-methods" and working out of Makerspaces. I had the project idea after my own visits to Palestine as a student, led the proposal and helped to recruit and set up the staff who took over the project.  
+**YALLAH** - "You All Are Hackers" [was a student exchange project](https://yallah.exchange/). Students from Palestine and Germany visited each other for multiple stays and worked on socio-economical issues using "maker-methods". I had the project idea after my own visits to Palestine as a student, led the proposal and helped to recruit and set up the staff who took over the project.  
 *German Academic Exchange Service (DAAD), Germany, about 225.000€.*
 
 `2016-2018`
@@ -86,11 +95,11 @@ As a researcher, I was reviewer/chair for conferences and journals like [CHI](ht
 *Regional societies, University of Siegen, other sources, Germany, about 190.000€.*
 
 `2013 - today`
-**Fab Lab Siegen** was *[my baby](https://fablab-siegen.de)* for many years and my first real experience in regards being a founder and the world of fundraising. The project is still going and has become infrastructure.
+**Fab Lab Siegen** was *[my baby](https://fablab-siegen.de)* for many years and my first real experience in regards being a founder and the world of fundraising. The project is still going and has become infrastructure.  
 *Different calls for student projects, donations and other regional funding sources, about 100.000€ during the first 2-3 years (after that, funding strategies changed).*
 
 `2012-2015`
-**CUBES**, research project on community-based innovation in software development and usability for small and medium sized enterprises. I was involved as a student, then researcher and, in the end, as (interim) project manager for all aspects of the final reporting and project closing.  
+**CUBES**, research project on community-based innovation in software and usability for small and medium sized enterprises. I was involved as a student, then researcher and, in the end, as (interim) project manager for all aspects of the final reporting and project closing.  
 *Federal Ministry for Economic Affairs and Energy, Germany, about 800.000€.*
 
 ## Awards and honors
