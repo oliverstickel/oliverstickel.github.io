@@ -105,25 +105,39 @@ Description here
 
 
 
-## Memberships
+## Teaching
 
-ToDo
+I really enjoy teaching and learning and consider both to be cornerstones of civilization. At Uni Siegen, I've been responsible for the practical part of the mandatory introduction to Human Computer Interaction for many years (including a mentoring up to 40 students per iteration through big, semester-long projects, cumulating in submissions to and wins in national student challenges). I also substituted for a lot of the theoretical lecture parts and reworked the whole lecture material over the time. Additionally, I've held many different elective seminars ranging from reading classes on literature about "Making" to very practical seminars on rapid prototyping methods. I've made it a point to try and be as open and interdisciplinary in teaching as possible and have frequently had students and guests from other faculties and from outside the university in my seminars. 
 
-`from-to`
-organization
+As a thesis advisor and co-advisor, I have accompanied about 10 Bachelor and Master Students along their paths to graduation. Topics have varied from participatory-design-oriented field investigations to studies about Makerspaces in teacher training to engineering and fabrication of additive tools for industrial processes. Additionally, I've been involved in co-advising state-certified technicians as a pilot project between a university and a technical (vocational) college. 
 
-## Link
+Nowadays, I'm less involved in structured, academic teaching but mostly teach (and learn) whatever is needed to help many different Makerspace users form many different disciplines with their (many different) projects.
+
+
+## Links
 
 [makerspace.rub.de](https://makerspace.rub.de)
+
 [fablab-siegen.de](https://fablab-siegen.de)
+
 [fab101.de](https://fab101.de)
+
+[fab-universe.de](https://fab-universe.de)
+
 [yallah.exchange](https://yallah.exchange) and [exhibition.yallah.exchange](https://exhibition.yallah.exchange/ )
+
 [Interview "Deutsche Welle" about Fab Labs](https://www.dw.com/de/fablab-gemeinsam-t%C3%BCftelts-sich-leichter/a-49714943)
+
 [News article on 3D printing with children](https://www.wp.de/staedte/siegerland/kinder-drucken-in-kreuztaler-stadtbibliothek-in-3d-id11160424.html)
+
 [News article on working with refugees at Fab Lab Siegen](https://www.3d-grenzenlos.de/magazin/kurznachrichten/projekts-learnspaces-uni-siegen-fuer-fluechtlinge-27340123/)
+
 [Interview "Deutschlandfunk Kultur" on Makers](https://www.deutschlandfunkkultur.de/maker-faire-ruhr-in-dortmund-bastler-war-frueher-maker-ist-100.html)
+
 [A talk by me about Fab Lab Siegen (from way back when)](https://www.youtube.com/watch?v=DJb3l-8QlJQ)
+
 [Guest lecture on Socio-Informatics at RWTH Aachen](https://podcasts.apple.com/de/podcast/12-socio-informatiks-oliver-stickel/id1374020313?i=1000416862043&l=en)
+
 [My old blog posts on the Fab Lab Siegen website](https://fablab-siegen.de/author/oliver_dummy/)
 
 
@@ -140,6 +154,6 @@ Basic:  French
 
 Birth date: 12 June 1987
 
-I enjoy camping, kayaking 
+I enjoy camping, kayaking, cooking and good books.
 
 <br/>Last updated: October 2022<br/><br/>
