@@ -33,15 +33,23 @@ Fab Lab Manager & Founder
 `2009 - 2015`
 **TA, student researcher**. During my student times, I was a teachin assistant (mostly in HCI), assisted in different research projects (mostly with qualitative field research) and was in IT support/maintenance. *Universities of Siegen and Duisburg-Essen*, Germany.
 
+## Education
+
+`2012-2015`
+**M.Sc. Human Computer Interaction** (honors) - Socio-technical systems design based on qualitative methods. *University of Siegen*, Germany.
+
+`1998-2002`
+**B.Sc. Applied Cognitive and Media Sciences** - Combination of Computer Science and Psychology (without the advanced engineering and clinical aspects, respectively), grounded in quantitative methods. *University of Duisburg-Essen*, Germany.
+
 ## Skills in Keywords
 
 **Makerspaces** - Rapid Prototyping (many different methods), CAD/CAM, general (basic) coding, basic electronics and integrated systems. Also: Planning and development of team and space including operations, finances and safety. 
 
 **Human Centered Design** - UX design, HCI, usability methods, design thinking, convergence of agile and user centered methods. 
 
-**Projects and People** - Project development, social innovation, fundraising, agility / Skunkworks, community and team development, operations in public service. 
+**Projects and People** - Project development, social innovation, fundraising, agility / Skunkworks, community and team development, operations (with)in public service and public administration. 
 
-**Methods** - User-centered teachning and learning, Constructionism, mixed-methods, action and field research, participatory methods, (Maker-)spaces as a method. 
+**Methods** - Constructionism, human-centered teachning and learning, mixed-methods, action and field research, participatory methods and participatory action research, (Maker-)spaces as a method. 
 
 ## Publications
 
@@ -79,10 +87,10 @@ Thomas Ludwig, Oliver Stickel, Alexander Boden, Volkmar Pipek - [**Towards Socia
 
 `2013 - today`
 **Fab Lab Siegen** was *[my baby](https://fablab-siegen.de)* for many years and my first real experience in regards being a founder and the world of fundraising. The project is still going and has become infrastructure.  
-*Calls for student projects, donations, regional funding sources, about 100.000 € during the first 2-3 years (later, funding strategies changed).*
+*Calls for student projects, donations, other sources, about 100.000 € during the first 2-3 years (later, funding strategies changed) and regionally sponsored space for many years.*
 
 `2012-2015`
-**CUBES**, research project on community-based innovation in software and usability for small and medium sized enterprises. I was involved as a student, then researcher and, in the end, as (interim) project manager for all aspects of the final reporting and project closing.  
+**CUBES**, research project on community-based innovation in software and usability for small and medium sized enterprises. I was involved as a student, then researcher and, in the end, as (interim) project manager the [final reporting and project closing](https://www.tib.eu/de/suchen?tx_tibsearch_search%5Baction%5D=download&tx_tibsearch_search%5Bcontroller%5D=Download&tx_tibsearch_search%5Bdocid%5D=TIBKAT%3A872262936&cHash=7d56fa41baf92a721f58064874672f4a#download-mark).  
 *Federal Ministry for Economic Affairs and Energy, Germany, about 800.000 €.*
 
 ## Community roles
@@ -115,13 +123,6 @@ Nowadays, I'm less involved in structured, academic teaching but mostly teach (a
 `2013`
 **First Prize** *Student Usability Challenge*, German Informatics Society (GI).
 
-## Education
-
-`2012-2015`
-**M.Sc. Human Computer Interaction** (honors) - Socio-technical systems design based on qualitative methods. *University of Siegen*, Germany.
-
-`1998-2002`
-**B.Sc. Applied Cognitive and Media Sciences** - Combination of Computer Science and Psychology (without the advanced engineering and clinical aspects, respectively), grounded in quantitative methods. *University of Duisburg-Essen*, Germany.
 
 ## Languages
 
