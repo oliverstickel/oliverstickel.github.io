@@ -21,7 +21,6 @@ Fab Lab Manager & Founder
 `2019 - 2020`
 **Writer, researcher, consultant**. Book project "Handbuch Fab Labs" and consultation work for organizations interested in Maker-/innovation spaces. *Self-employed*, Germany.
 
-
 `2015 - 2019`
 **Researcher, project manager**. After graduating, I stayed at Uni Siegen as a researcher to continue building [Fab Lab Siegen](https://fablab-siegen.de) into a sustainable infrastructure. Apart from the Lab, I worked on/in in different projects (see below) and did a lot of teaching. *University of Siegen*, Germany.
 
@@ -34,14 +33,6 @@ Fab Lab Manager & Founder
 `2009 - 2015`
 **TA, student researcher**. During my student times, I was a teachin assistant (mostly in HCI), assisted in different research projects (mostly with qualitative field research) and was in IT support/maintenance. *Universities of Siegen and Duisburg-Essen*, Germany.
 
-## Education
-
-`2012-2015`
-**M.Sc. Human Computer Interaction** (honors) - Socio-technical systems design based on qualitative methods. *University of Siegen*, Germany.
-
-`1998-2002`
-**B.Sc. Applied Cognitive and Media Sciences** - Combination of Computer Science and Psychology (without the advanced engineering and clinical aspects, respectively), grounded in quantitative methods. *University of Duisburg-Essen*, Germany.
-
 ## Skills in Keywords
 
 **Makerspaces** - Rapid Prototyping (many different methods), CAD/CAM, general (basic) coding, basic electronics and integrated systems. Also: Planning and development of team and space including operations, finances and safety. 
@@ -51,6 +42,14 @@ Fab Lab Manager & Founder
 **Projects and People** - Project development, social innovation, fundraising, agility / Skunkworks, community and team development, operations in public service. 
 
 **Methods** - User-centered teachning and learning, Constructionism, mixed-methods, action and field research, participatory methods, (Maker-)spaces as a method. 
+
+## Community roles
+
+I co-organized [Fab:UNIverse](fab-universe.de) multiple times and maintain its website (it's a conference for Fab Lab managers at universities). I've also (co-)organized a lot of different events, temporary (Maker)spaces and meetups such as the Usability Day Siegen (2014-2018). 
+
+I have been an elected member of different bodies of (self)-governance such as the Senate commission on Strategic University Development at Uni Siegen and head of the student representatives ("Fachschaftsräte") at Uni Duisburg-Essen and at Uni Siegen respectively. I've also occasionally been asked to fill roles in regional and national expert committees (mostly in relation to innovation and community spaces). 
+
+As a researcher, I was reviewer/chair for conferences and journals like [CHI](https://dl.acm.org/conference/chi/proceedings), [JCSCW](https://www.springer.com/journal/10606), [C&T](https://dl.acm.org/conference/c-n-t) or [M&C](https://mensch-und-computer.de/). 
 
 ## Publications
 
@@ -71,14 +70,6 @@ Thomas Ludwig, Oliver Stickel, Alexander Boden, Volkmar Pipek - [**Towards Socia
 
 *Selected. Full publication list at [researchgate.net/profile/oliver-stickel](https://www.researchgate.net/profile/Oliver-Stickel).*
 
-
-## Community roles
-
-I co-organized [Fab:UNIverse](fab-universe.de) multiple times and maintain its website (it's a conference for Fab Lab managers at universities). I've also (co-)organized a lot of different events, temporary (Maker)spaces and meetups such as the Usability Day Siegen (2014-2018). 
-
-I have been an elected member of different bodies of (self)-governance such as the Senate commission on Strategic University Development at Uni Siegen and head of the student representatives ("Fachschaftsräte") at Uni Duisburg-Essen and at Uni Siegen respectively. I've also occasionally been asked to fill roles in regional and national expert committees (mostly in relation to innovation and community spaces). 
-
-As a researcher, I was reviewer/chair for conferences and journals like [CHI](https://dl.acm.org/conference/chi/proceedings), [JCSCW](https://www.springer.com/journal/10606), [C&T](https://dl.acm.org/conference/c-n-t) or [M&C](https://mensch-und-computer.de/). 
 
 ## Projects and funding
 
@@ -102,6 +93,15 @@ As a researcher, I was reviewer/chair for conferences and journals like [CHI](ht
 **CUBES**, research project on community-based innovation in software and usability for small and medium sized enterprises. I was involved as a student, then researcher and, in the end, as (interim) project manager for all aspects of the final reporting and project closing.  
 *Federal Ministry for Economic Affairs and Energy, Germany, about 800.000€.*
 
+
+## Teaching
+
+I enjoy teaching and learning a lot. At Uni Siegen, I've been responsible for the practical part of the mandatory introduction to Human Computer Interaction for many years (including a mentoring up to 40 students per iteration through big, semester-long projects, cumulating in submissions to and wins in national student challenges). Additionally, I've held many different elective seminars ranging from reading classes on literature about "Making" to very practical seminars on rapid prototyping methods. I've made it a point to try and be open in teaching and have frequently had students from other faculties or external guests in my seminars. 
+
+As a thesis advisor and co-advisor, I have accompanied about 10 Bachelor and Master Students along their paths to graduation. Topics have varied from participatory-design-oriented field investigations to studies about Makerspaces in teacher training to engineering and fabrication of additive tools for industrial processes. Additionally, I've been involved in co-advising state-certified technicians as a pilot project between a university and a technical (vocational) college. 
+
+Nowadays, I'm less involved in structured, academic teaching but mostly teach (and learn) whatever is needed to help many different Makerspace users form many different disciplines with their (many different) projects.
+
 ## Awards and honors
 
 `2015`
@@ -116,16 +116,21 @@ As a researcher, I was reviewer/chair for conferences and journals like [CHI](ht
 `2013`
 **First Prize** *Student Usability Challenge*, German Informatics Society (GI).
 
+## Education
 
+`2012-2015`
+**M.Sc. Human Computer Interaction** (honors) - Socio-technical systems design based on qualitative methods. *University of Siegen*, Germany.
 
-## Teaching
+`1998-2002`
+**B.Sc. Applied Cognitive and Media Sciences** - Combination of Computer Science and Psychology (without the advanced engineering and clinical aspects, respectively), grounded in quantitative methods. *University of Duisburg-Essen*, Germany.
 
-I enjoy teaching and learning a lot. At Uni Siegen, I've been responsible for the practical part of the mandatory introduction to Human Computer Interaction for many years (including a mentoring up to 40 students per iteration through big, semester-long projects, cumulating in submissions to and wins in national student challenges). Additionally, I've held many different elective seminars ranging from reading classes on literature about "Making" to very practical seminars on rapid prototyping methods. I've made it a point to try and be open in teaching and have frequently had students from other faculties or external guests in my seminars. 
+## Languages
 
-As a thesis advisor and co-advisor, I have accompanied about 10 Bachelor and Master Students along their paths to graduation. Topics have varied from participatory-design-oriented field investigations to studies about Makerspaces in teacher training to engineering and fabrication of additive tools for industrial processes. Additionally, I've been involved in co-advising state-certified technicians as a pilot project between a university and a technical (vocational) college. 
+Native: German
 
-Nowadays, I'm less involved in structured, academic teaching but mostly teach (and learn) whatever is needed to help many different Makerspace users form many different disciplines with their (many different) projects.
+Fluent: English
 
+Basic:  French
 
 ## Links
 
@@ -152,16 +157,6 @@ Nowadays, I'm less involved in structured, academic teaching but mostly teach (a
 [Guest lecture on Socio-Informatics at RWTH Aachen](https://podcasts.apple.com/de/podcast/12-socio-informatiks-oliver-stickel/id1374020313?i=1000416862043&l=en)
 
 [My old blog posts on the Fab Lab Siegen website](https://fablab-siegen.de/author/oliver_dummy/)
-
-
-
-## Languages
-
-Native: German
-
-Fluent: English
-
-Basic:  French
 
 ## Personal
 
