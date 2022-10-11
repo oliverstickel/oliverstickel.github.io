@@ -49,7 +49,7 @@ Thomas Ludwig, Oliver Stickel, Peter Tolmie, Malte Sellmer - [**shARe-IT: Ad hoc
 
 Oliver Stickel, Anke Brocker, Melanie Stilz, Antje Möbus, Iris Bockermann, Jan Borchers, Volkmar Pipek - [**Fab Lab Education in German Academia**](https://zenodo.org/record/1344438). Proceedings from the Fab14 conference, pp. 39-46 (2018).
 
-Oliver Stickel, Konstantin Aal, Verena Fuchsberger, Sarah Rüller, Victoria Wenzelmann, Volkmar Pipek, Volker Wulf, Manfred Tscheligi - [**3D printing/digital fabrication for education and the common good**](http://www.digifab-commongood.fab101.de/images/2017_ws3dp_ct_proposal.pdf). Workshop ([website](http://www.digifab-commongood.fab101.de/)) at Communities & Technologies conf. 2017.
+Oliver Stickel, Konstantin Aal, Verena Fuchsberger, Sarah Rüller, Victoria Wenzelmann, Volkmar Pipek, Volker Wulf, Manfred Tscheligi - [**3D printing/digital fabrication for education and the common good**](http://www.digifab-commongood.fab101.de/images/2017_ws3dp_ct_proposal.pdf). Workshop ([**website**](http://www.digifab-commongood.fab101.de/)) at Communities & Technologies conference 2017.
 
 Oliver Stickel, Konstantin Aal, Marén Schorch, Dominik Hornung, Alexander Boden, Volker Wulf, Volkmar Pipek - [**Computerclubs und Flüchtlingslager - Ein Diskussionsbeitrag zur Forschungs- und Bildungsarbeit aus praxistheoretischer Perspektive**](files/10.14361-9783839433508-008.pdf). Tagungsband Do it! Yourself? Fragen zu (Forschungs-)Praktiken des Selbermachens (2018).  
 
@@ -97,7 +97,7 @@ I enjoy teaching and learning a lot. At Uni Siegen, I've been responsible for th
 
 As a thesis advisor and co-advisor, I have accompanied about 10 Bachelor and Master Students along their paths to graduation. Topics have varied from participatory-design-oriented field investigations to studies about Makerspaces in teacher training to engineering and fabrication of additive tools for industrial processes. Additionally, I've been involved in co-advising state-certified technicians as a pilot project between a university and a technical (vocational) college. 
 
-Nowadays, I'm less involved in structured, academic teaching but mostly teach (and learn) whatever is needed to help many different Makerspace users form many different disciplines with their (many different) projects.
+Nowadays, I'm less involved in structured, academic teaching but mostly teach (and learn) whatever is needed to help many different Makerspace users from many different disciplines with their - many different - projects.
 
 ## Awards and honors
 
