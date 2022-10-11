@@ -74,21 +74,24 @@ As a researcher, I was reviewer/chair for conferences and journals like [CHI](ht
 ## Projects and funding
 
 `2017-2020`
-**FAB 101** was a joint research project of four German universities on Fab Labs digital fabrication in academic education. I developed the core idea for the project, led the proposal and was overall project manager as well as part of the operative team.  
-*Federal Ministry of Education and Research*, Germany, about 1.2m €. 
+**FAB 101** [was a joint research project](https://fab101.de) of four German universities on Fab Labs digital fabrication in academic education. I developed the core idea for the project, led the proposal and was overall project manager as well as part of the operative team.  
+*Federal Ministry of Education and Research, Germany, about 1.2m €.* 
 
 `2016-2018`
 **YALLAH** - "You All Are Hackers" [was a student exchange project](https://yallah.exchange/). Students from Palestine and Germany visited each other for multiple stays and worked on socio-economical issues using "maker-methods" and working out of Makerspaces. I had the project idea after my own visits to Palestine as a student, led the proposal and helped to recruit and set up the staff who took over the project.  
-*German Academic Exchange Service (DAAD)*, Germany, about 225.000€.
+*German Academic Exchange Service (DAAD), Germany, about 225.000€.*
 
 `2016-2018`
-**ZEIT.RAUM Siegen** was a regional project to build a 3D-printed, interactive city model and a [regional Wiki](https://wiki.zeitraum-siegen.de/) for an installation in a local museum. I coordinated the ideation phase, wrote most of the proposals and was part of the negotiation team. Within the project, I built the first prototypes for model and wiki and recruited the staff who finished the project. *Regional societies, University of Siegen, other sources*, Germany, about 190.000€ <br/>
+**ZEIT.RAUM Siegen** was a regional project to build a 3D-printed, interactive city model and a [regional Wiki](https://wiki.zeitraum-siegen.de/) for an installation in a local museum. I coordinated the ideation phase, wrote most of the proposals and was part of the negotiation team. Within the project, I built the first prototypes for model and wiki and recruited the staff who finished the project.  
+*Regional societies, University of Siegen, other sources, Germany, about 190.000€.*
 
 `2013 - today`
-**Fab Lab Siegen** was my "baby" for many years and my first real experience in regards being a founder and the world of fundraising. *Different calls for student projects, donations and other funding sources*, 100.000€ during the first 2-3 years (after that, project funding via research project became dominant).
+**Fab Lab Siegen** was *[my baby](https://fablab-siegen.de)* for many years and my first real experience in regards being a founder and the world of fundraising. The project is still going and has become infrastructure.
+*Different calls for student projects, donations and other regional funding sources, about 100.000€ during the first 2-3 years (after that, funding strategies changed).*
 
 `2012-2015`
-**CUBES**, research project on community-based innovation in software development and usability for small and medium sized enterprises. I was involved as a student, then researcher and, in the end, as (interim) project manager for all aspects of the final reporting and project closing. *Federal Ministry for Economic Affairs and Energy*, Germany, about 800.000€. <br/>
+**CUBES**, research project on community-based innovation in software development and usability for small and medium sized enterprises. I was involved as a student, then researcher and, in the end, as (interim) project manager for all aspects of the final reporting and project closing.  
+*Federal Ministry for Economic Affairs and Energy, Germany, about 800.000€.*
 
 ## Awards and honors
 
@@ -108,7 +111,7 @@ As a researcher, I was reviewer/chair for conferences and journals like [CHI](ht
 
 ## Teaching
 
-I really enjoy teaching and learning and consider both to be cornerstones of civilization. At Uni Siegen, I've been responsible for the practical part of the mandatory introduction to Human Computer Interaction for many years (including a mentoring up to 40 students per iteration through big, semester-long projects, cumulating in submissions to and wins in national student challenges). I also substituted for a lot of the theoretical lecture parts and reworked the whole lecture material over the time. Additionally, I've held many different elective seminars ranging from reading classes on literature about "Making" to very practical seminars on rapid prototyping methods. I've made it a point to try and be as open and interdisciplinary in teaching as possible and have frequently had students and guests from other faculties and from outside the university in my seminars. 
+I really enjoy teaching and learning and consider both to be cornerstones of civilization. At Uni Siegen, I've been responsible for the practical part of the mandatory introduction to Human Computer Interaction for many years (including a mentoring up to 40 students per iteration through big, semester-long projects, cumulating in submissions to and wins in national student challenges). Additionally, I've held many different elective seminars ranging from reading classes on literature about "Making" to very practical seminars on rapid prototyping methods. I've made it a point to try and be open in teaching and have frequently had students from other faculties or external guests in my seminars. 
 
 As a thesis advisor and co-advisor, I have accompanied about 10 Bachelor and Master Students along their paths to graduation. Topics have varied from participatory-design-oriented field investigations to studies about Makerspaces in teacher training to engineering and fabrication of additive tools for industrial processes. Additionally, I've been involved in co-advising state-certified technicians as a pilot project between a university and a technical (vocational) college. 
 
