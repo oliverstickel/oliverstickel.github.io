@@ -61,7 +61,7 @@ Thomas Ludwig, Oliver Stickel, Peter Tolmie, Malte Sellmer - [**shARe-IT: Ad hoc
 
 Oliver Stickel, Anke Brocker, Melanie Stilz, Antje Möbus, Iris Bockermann, Jan Borchers, Volkmar Pipek - [**Fab Lab Education in German Academia**](https://zenodo.org/record/1344438). Proceedings from the Fab14 conference, pp. 39-46 (2018).
 
-Oliver Stickel, Konstantin Aal, Verena Fuchsberger, Sarah Rüller, Victoria Wenzelmann, Volkmar Pipek, Volker Wulf, Manfred Tscheligi - [**3D printing/digital fabrication for education and the common good**](http://www.digifab-commongood.fab101.de/images/2017_ws3dp_ct_proposal.pdf). Workshop at the Communities & Technologies conference 2017 ([Workshop Website](http://www.digifab-commongood.fab101.de/)).
+Oliver Stickel, Konstantin Aal, Verena Fuchsberger, Sarah Rüller, Victoria Wenzelmann, Volkmar Pipek, Volker Wulf, Manfred Tscheligi - [**3D printing/digital fabrication for education and the common good**](http://www.digifab-commongood.fab101.de/images/2017_ws3dp_ct_proposal.pdf). Workshop ([website](http://www.digifab-commongood.fab101.de/)) at Communities & Technologies conf. 2017.
 
 Oliver Stickel, Konstantin Aal, Marén Schorch, Dominik Hornung, Alexander Boden, Volker Wulf, Volkmar Pipek - [**Computerclubs und Flüchtlingslager - Ein Diskussionsbeitrag zur Forschungs- und Bildungsarbeit aus praxistheoretischer Perspektive**](10.14361-9783839433508-008.pdf). Tagungsband Do it! Yourself? Fragen zu (Forschungs-)Praktiken des Selbermachens (2018).  
 
