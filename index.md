@@ -31,7 +31,7 @@ Fab Lab Manager & Founder
 **Founder and manager**. I founded [Fab Lab Siegen](https://fablab-siegen.de) and managed it on its journy from a student initiative in a literal storage room on campus outside the city to a wonder- and colorful, open and community-oriented space of about 300sqm filled with people, ideas, tools and machines right in the city center. *University and region of Siegen*, Germany.
 
 `2009 - 2015`
-**TA, student researcher**. During my student times, I was a teachin assistant (mostly in HCI), assisted in different research projects (mostly with qualitative field research) and was in IT support/maintenance. *Universities of Siegen and Duisburg-Essen*, Germany.
+**TA, student researcher**. During my student times, I was a teaching assistant (mostly in HCI), assisted in different research projects (mostly with qualitative field research) and was in IT support/maintenance. *Universities of Siegen and Duisburg-Essen*, Germany.
 
 ## Education
 
@@ -40,16 +40,6 @@ Fab Lab Manager & Founder
 
 `1998-2002`
 **B.Sc. Applied Cognitive and Media Sciences** - Combination of Computer Science and Psychology (without the advanced engineering and clinical aspects, respectively), grounded in quantitative methods. *University of Duisburg-Essen*, Germany.
-
-## Skills in Keywords
-
-**Makerspaces** - Rapid Prototyping (many different methods), CAD/CAM, general (basic) coding, basic electronics and integrated systems. Also: Planning and development of team and space including operations, finances and safety. 
-
-**Human Centered Design** - UX design, HCI, usability methods, design thinking, convergence of agile and user centered methods. 
-
-**Projects and People** - Project development, social innovation, fundraising, agility / Skunkworks, community and team development, operations (with)in public service and public administration. 
-
-**Methods** - Constructionism, human-centered teachning and learning, mixed-methods, action and field research, participatory methods and participatory action research, (Maker-)spaces as a method. 
 
 ## Publications
 
@@ -123,6 +113,15 @@ Nowadays, I'm less involved in structured, academic teaching but mostly teach (a
 `2013`
 **First Prize** *Student Usability Challenge*, German Informatics Society (GI).
 
+## Skills in Keywords
+
+**Makerspaces** - Rapid Prototyping (many different methods), CAD/CAM, general (basic) coding, basic electronics and integrated systems. Also: Planning and development of team and space including operations, finances and safety. 
+
+**Human Centered Design** - UX design, HCI, usability methods, design thinking, convergence of agile and user centered methods. 
+
+**Projects and People** - Project development, social innovation, fundraising, agility / Skunkworks, community and team development, operations (with)in public service and public administration. 
+
+**Methods** - Constructionism, human-centered teachning and learning, mixed-methods, action and field research, participatory methods and participatory action research, (Maker-)spaces as a method. 
 
 ## Languages
 
