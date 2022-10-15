@@ -41,7 +41,7 @@ Fab Lab Manager & Founder
 `1998-2002`
 **B.Sc. Applied Cognitive and Media Sciences** - Combination of Computer Science and Psychology (without the advanced engineering and clinical aspects, respectively), grounded in quantitative methods. *University of Duisburg-Essen*, Germany.
 
-## Publications
+## Selected Publications
 
 [**Handbuch Fab Labs: Einrichtung, Finanzierung, Betrieb, Forschung & Lehre**](https://www.bombini-verlag.de/shop/handbuch-fab-labs/) by Iris Bockermann, Jan Borchers, Anke Brocker, Marcel Lahaye, Antje Moebus, Stefan Neudecker, Oliver Stickel, Melanie Stilz, Daniel Wilkens, René Bohne, Volkmar Pipek, Heidi Schelhowe. *Bombini-Verlag (2021).* 
 
@@ -64,7 +64,7 @@ Fab Lab Manager & Founder
 [**Bottom-Up Kultur in Siegen: Ein Bericht über aktuelle Strukturen, Entwicklungen und Umnutzungsprozesse**](files/10.14220-digo.2014.35.1.55.pdf) by Oliver Stickel, Alexander Boden, Gunnar Stevens, Volkmar Pipek, Volker Wulf. *In: DIAGONAL - University of Siegen's annual journal 35, pp. 55–70 (2014).*   
 
 
-**Full publication list at [researchgate.net/profile/oliver-stickel](https://www.researchgate.net/profile/Oliver-Stickel).**
+*Full publication list at [researchgate.net/profile/oliver-stickel](https://www.researchgate.net/profile/Oliver-Stickel).*
 
 
 ## Projects and funding
