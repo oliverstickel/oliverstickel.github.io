@@ -55,7 +55,7 @@ Fab Lab Manager & Founder
 
 [**3D printing/digital fabrication for education and the common good**](http://www.digifab-commongood.fab101.de/images/2017_ws3dp_ct_proposal.pdf) by Oliver Stickel, Konstantin Aal, Verena Fuchsberger, Sarah Rüller, Victoria Wenzelmann, Volkmar Pipek, Volker Wulf, Manfred Tscheligi. *[**Workshop**](http://www.digifab-commongood.fab101.de/)  at Communities & Technologies conference 2017.*
 
-[**User Integration in Agile Software Development Processes: Practices and Challenges in Small and Medium Sized Enterprises**](files/10.1007-978-3-319-32165-3_2.pdf) by Oliver Stickel, Corinna Ogonowkski, Timo Jacobi, Gunnar Stevens, Volkmar Pipek, Volker Wulf. *In: Cockton, G., Lárusdóttir, M., Gregory, P., Cajander, Å. (eds) - Integrating User-Centred Design in Agile Development. Human–Computer Interaction Series. Springer (2016).*
+[**User Integration in Agile Software Development Processes: Practices and Challenges in Small and Medium Sized Enterprises**](files/10.1007-978-3-319-32165-3_2.pdf) by Oliver Stickel, Corinna Ogonowkski, Timo Jacobi, Gunnar Stevens, Volkmar Pipek, Volker Wulf. *In: Cockton, G., Lárusdóttir, M., Gregory, P., Cajander, Å. (eds) - Integrating User-Centred Design in Agile Development. Springer (2016).*
 
 [**3D Printing with Marginalized Children – An Exploration in a Palestinian Refugee Camp**](files/10.1007-978-3-319-20499-4.pdf) by Oliver Stickel, Dominik Hornung, Konstantin Aal, Markus Rohde, Volker Wulf. *Proceedings of the 14th European Conference on Computer Supported Cooperative Work (ECSCW) 2015, pp. 83-102.*
 
