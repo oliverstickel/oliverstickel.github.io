@@ -43,7 +43,7 @@ Fab Lab Manager & Founder
 
 ## Publications
 
-[**Handbuch Fab Labs: Einrichtung, Finanzierung, Betrieb, Forschung & Lehre**](https://www.bombini-verlag.de/shop/handbuch-fab-labs/) (open access book on managing academic Fab Labs) by Iris Bockermann, Jan Borchers, Anke Brocker, Marcel Lahaye, Antje Moebus, Stefan Neudecker, Oliver Stickel, Melanie Stilz, Daniel Wilkens, René Bohne, Volkmar Pipek, Heidi Schelhowe. *Bombini-Verlag (2021).* 
+[**Handbuch Fab Labs: Einrichtung, Finanzierung, Betrieb, Forschung & Lehre**](https://www.bombini-verlag.de/shop/handbuch-fab-labs/) by Iris Bockermann, Jan Borchers, Anke Brocker, Marcel Lahaye, Antje Moebus, Stefan Neudecker, Oliver Stickel, Melanie Stilz, Daniel Wilkens, René Bohne, Volkmar Pipek, Heidi Schelhowe. *Bombini-Verlag (2021).* 
 
 [**shARe-IT: Ad hoc Remote Troubleshooting through Augmented Reality**](https://link.springer.com/article/10.1007/s10606-021-09393-5) by Thomas Ludwig, Oliver Stickel, Peter Tolmie, Malte Sellmer. *Journal on Computer Supported Cooperative Work 30, pp. 119–167 (2021).* 
 
