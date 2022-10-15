@@ -8,7 +8,7 @@ Fab Lab Manager & Founder
 <a href="kontakt@oliverstickel.de">kontakt@oliverstickel.de</a> / +49 (0)234 32 20633
 
 <div id="webaddress">
-  <a href="https://oliverstickel.de"><i class="fas fa-home"></i> oliverstickel.de </a>  <span style="color:black"> / </span>  <a href="www.oliverstickel.de/cv.pdf"><i class="fas fa-file-pdf"></i> oliverstickel.de/cv.pdf</a><br/>
+  <a href="http://www.oliverstickel.de"><i class="fas fa-home"></i> oliverstickel.de </a>  <span style="color:black"> / </span>  <a href="http://www.oliverstickel.de/cv.pdf"><i class="fas fa-file-pdf"></i> oliverstickel.de/cv.pdf</a><br/>
   <a href="https://github.com/oliverstickel/"><i class="fab fa-github"></i> github.com/oliverstickel</a><br/>  
   <a href="https://git.noc.rub.de/stickoft"><i class="fab fa-gitlab"></i> git.noc.rub.de/stickoft</a><br/>  
 </div>
