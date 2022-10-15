@@ -58,6 +58,8 @@ Fab Lab Manager & Founder
 
 [**Towards Sociable Technologies: An Empirical Study on Designing Appropriation Infrastructures for 3D Printing**](files/10.1145-2598510.2598528.pdf) by Thomas Ludwig, Oliver Stickel, Alexander Boden, Volkmar Pipek. *Proceedings of the Designing Interactive Systems Conference (DIS) 2014, pp. 835–844.* 
 
+[**Bottom-Up Kultur in Siegen: Ein Bericht über aktuelle Strukturen, Entwicklungen und Umnutzungsprozesse**](files/10.14220-digo.2014.35.1.55.pdf). *In: DIAGONAL - University of Siegen's annual journal 35, pp. 55–70 (2014).*
+
 *Selected. Full publication list at [researchgate.net/profile/oliver-stickel](https://www.researchgate.net/profile/Oliver-Stickel).*
 
 
