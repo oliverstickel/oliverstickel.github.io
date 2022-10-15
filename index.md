@@ -84,7 +84,7 @@ Fab Lab Manager & Founder
 *Calls for student projects, donations, other sources, about 100.000€ during the first 2-3 years (later, funding strategies changed) and regionally sponsored space for many years.*
 
 `2012-2015`
-**CUBES**, research project on community-based innovation in software and usability for small and medium sized enterprises. I was involved as a student, then researcher and, in the end, as (interim) project manager the [final reporting and project closing](https://www.tib.eu/de/suchen?tx_tibsearch_search%5Baction%5D=download&tx_tibsearch_search%5Bcontroller%5D=Download&tx_tibsearch_search%5Bdocid%5D=TIBKAT%3A872262936&cHash=7d56fa41baf92a721f58064874672f4a#download-mark).  
+**CUBES**, research project on community-based innovation in software and usability for small and medium sized enterprises. I was involved as a student, then researcher, then (interim) project manager for the [project reporting and closing](https://www.tib.eu/de/suchen?tx_tibsearch_search%5Baction%5D=download&tx_tibsearch_search%5Bcontroller%5D=Download&tx_tibsearch_search%5Bdocid%5D=TIBKAT%3A872262936&cHash=7d56fa41baf92a721f58064874672f4a#download-mark).  
 *Federal Ministry for Economic Affairs and Energy, about 800.000€.*
 
 ## Community roles
