@@ -97,7 +97,7 @@ As a researcher, I was reviewer/chair for conferences and journals like [CHI](ht
 
 ## Teaching
 
-I enjoy teaching and learning a lot. At Uni Siegen, I've been responsible for the practical part of the mandatory introduction to Human Computer Interaction for many years (mentoring up to 40 students per iteration through big, semester-long projects, cumulating in submissions to and wins in national student challenges). Additionally, I've held many different seminars ranging from reading classes on literature about "Making" to very practical seminars on rapid prototyping methods. I've made it a point to try and be open in teaching and have frequently had students from other faculties or external guests in my seminars. 
+I enjoy teaching and learning a lot. At Uni Siegen, I've been responsible for the practical part of the mandatory introduction to Human Computer Interaction for many years (mentoring up to 40 students per iteration through big, semester-long projects ending in submissions to and wins in national student challenges). Additionally, I've held many different seminars ranging from reading classes on literature about "Making" to very practical seminars on rapid prototyping methods. I've made it a point to try and be open in teaching and have frequently had students from other faculties or external guests in my seminars. 
 
 As a thesis advisor and co-advisor, I have accompanied about 8 Bachelor and Master Students along their paths to graduation. Topics have varied from participatory-design-oriented field investigations to studies about Makerspaces in teacher training to engineering and fabrication of additive tools for industrial processes. Additionally, I've been involved in co-advising state-certified technicians as a pilot project between a university and a technical vocational college. 
 
@@ -158,6 +158,8 @@ Basic:  French
 [A talk by me about Fab Lab Siegen (from way back when)](https://www.youtube.com/watch?v=DJb3l-8QlJQ)
 
 [Guest lecture on Socio-Informatics at RWTH Aachen](https://podcasts.apple.com/de/podcast/12-socio-informatiks-oliver-stickel/id1374020313?i=1000416862043&l=en)
+
+[Usability Method Finder](https://www.usability-siegen.de/)
 
 [My old blog posts on the Fab Lab Siegen website](https://fablab-siegen.de/author/oliver_dummy/)
 
