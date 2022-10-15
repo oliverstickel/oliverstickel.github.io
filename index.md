@@ -70,7 +70,7 @@ Fab Lab Manager & Founder
 ## Projects and funding
 
 `2019-2022`
-**SMAPS** [- the center for smart production systems](https://www.smaps.org/) - is a research and infrastructure project focused on innovation through additive fabrication and smart systems for industrial tooling (mainly forming processes). I was part of the proposal team and briefly involved in the ramp-up phase (e.g. procurement).  
+**SMAPS** [- the center for smart production systems](https://www.smaps.org/) - is a research-infrastructure project on additive fabrication and smart systems for industrial tooling (mainly forming processes). I was part of the proposal team and briefly involved in the ramp-up phase (e.g. procurement).  
 *European EFRE-fund (EFRE.NRW), Germany, about 3m€* 
 
 `2017-2020`
