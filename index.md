@@ -169,4 +169,4 @@ Birth date: 12 June 1987
 
 I enjoy camping, kayaking, cooking and good books.
 
-<br/>Last updated: October 2022<br/><br/>
+<br/>*Last updated: October 2022*<br/><br/>
