@@ -63,8 +63,12 @@ Thomas Ludwig, Oliver Stickel, Alexander Boden, Volkmar Pipek - [**Towards Socia
 
 ## Projects and funding
 
+`2019-2022`
+**SMAPS** [- center for smart production systems](https://www.smaps.org/) is a research and infrastructure project focused on innovation through additive fabrication and smart systems for industrial tooling (mainly forming processes). I was part of the proposal team and briefly involved in the ramp-up phase (e.g. procurement).
+*European EFRE-fund (EFRE.NRW), Germany, about 3m€* 
+
 `2017-2020`
-**FAB 101** [was a joint research project](https://fab101.de) of four German universities on Fab Labs digital fabrication in academic education. I developed the core idea for the project, led the proposal and was overall project manager as well as part of the operative team.  
+**FAB 101** [was a joint research project](https://fab101.de) of four German universities on Fab Labs and digital fabrication in academic education. I developed the core idea for the project, led the proposal and was overall project manager as well as part of the operative team.  
 *Federal Ministry of Education and Research, Germany, about 1.2m€.* 
 
 `2016-2018`
@@ -85,7 +89,7 @@ Thomas Ludwig, Oliver Stickel, Alexander Boden, Volkmar Pipek - [**Towards Socia
 
 ## Community roles
 
-I co-organized [Fab:UNIverse](fab-universe.de) multiple times and maintain its website (it's a conference for Fab Lab managers at universities). I've also (co-)organized a lot of different events, temporary (Maker)spaces and meetups such as the Usability Day Siegen (2014-2018). 
+I co-organized [Fab:UNIverse](fab-universe.de) multiple times and maintain its website - it's a conference for Fab Lab managers at universities. I've also (co-)organized a lot of different events, temporary (Maker)spaces and meetups such as the Usability Day Siegen (2014-2018). 
 
 I have been an elected member of different bodies of (self)-governance such as the Senate commission on Strategic University Development at Uni Siegen and head of the student representatives ("Fachschaftsräte") at Uni Duisburg-Essen and at Uni Siegen respectively. Occasionally, I've been asked to fill roles in regional and national expert committees (mostly in relation to innovation and community spaces). 
 
@@ -93,9 +97,9 @@ As a researcher, I was reviewer/chair for conferences and journals like [CHI](ht
 
 ## Teaching
 
-I enjoy teaching and learning a lot. At Uni Siegen, I've been responsible for the practical part of the mandatory introduction to Human Computer Interaction for many years (including a mentoring up to 40 students per iteration through big, semester-long projects, cumulating in submissions to and wins in national student challenges). Additionally, I've held many different elective seminars ranging from reading classes on literature about "Making" to very practical seminars on rapid prototyping methods. I've made it a point to try and be open in teaching and have frequently had students from other faculties or external guests in my seminars. 
+I enjoy teaching and learning a lot. At Uni Siegen, I've been responsible for the practical part of the mandatory introduction to Human Computer Interaction for many years (mentoring up to 40 students per iteration through big, semester-long projects, cumulating in submissions to and wins in national student challenges). Additionally, I've held many different seminars ranging from reading classes on literature about "Making" to very practical seminars on rapid prototyping methods. I've made it a point to try and be open in teaching and have frequently had students from other faculties or external guests in my seminars. 
 
-As a thesis advisor and co-advisor, I have accompanied about 10 Bachelor and Master Students along their paths to graduation. Topics have varied from participatory-design-oriented field investigations to studies about Makerspaces in teacher training to engineering and fabrication of additive tools for industrial processes. Additionally, I've been involved in co-advising state-certified technicians as a pilot project between a university and a technical (vocational) college. 
+As a thesis advisor and co-advisor, I have accompanied about 8 Bachelor and Master Students along their paths to graduation. Topics have varied from participatory-design-oriented field investigations to studies about Makerspaces in teacher training to engineering and fabrication of additive tools for industrial processes. Additionally, I've been involved in co-advising state-certified technicians as a pilot project between a university and a technical vocational college. 
 
 Nowadays, I'm less involved in structured, academic teaching but mostly teach (and learn) whatever is needed to help many different Makerspace users from many different disciplines with their - many different - projects.
 
