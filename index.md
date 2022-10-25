@@ -15,7 +15,7 @@ Fab Lab Manager & Founder
 
 ## Experience
 
-`2020-present`
+`2020-today`
 **Lab Manager at Bochum Makerspace** - I manage two sub-labs (IT and plastics fabrication) and I'm involved in the general management of [RUB-Makerspace](https://makerspace.rub.de), a 2000sqm innovation space with a team of 15 people. *Ruhr-Universität Bochum*, Germany.
 
 `2019-2020`
@@ -85,7 +85,7 @@ Fab Lab Manager & Founder
 **ZEIT.RAUM Siegen** was a regional project to build a 3D-printed, interactive city model and a [regional Wiki](https://wiki.zeitraum-siegen.de/) for an installation in a local museum. I coordinated the ideation phase, wrote most of the proposals and was part of the negotiation team. In the project, I built the first prototypes for model and wiki and recruited the project staff.  
 *Regional societies, University of Siegen, other sources, about 190.000€.*
 
-`2013 - today`
+`2013-today`
 **Fab Lab Siegen** was *[my baby](https://fablab-siegen.de)* for many years and my first real experience in regards being a founder and the world of fundraising. The project is still going and has become infrastructure.  
 *Calls for student projects, donations, other sources, about 100.000€ in money during the first 2-3 years (later, funding strategies changed). The spaces for the lab were/are co-sponsored by private-public partnerships and there were/are hardware donations as well.*
 
