@@ -9,8 +9,8 @@ Fab Lab Manager & Founder
 
 <div id="webaddress">
   <a href="http://www.oliverstickel.de"><i class="fas fa-home"></i> oliverstickel.de </a>  <span style="color:black"> / </span>  <a href="http://www.oliverstickel.de/cv.pdf"><i class="fas fa-file-pdf"></i> oliverstickel.de/cv.pdf</a><br/>
-  <a href="https://github.com/oliverstickel/"><i class="fab fa-github"></i> github.com/oliverstickel</a><br/>  
-  <a href="https://git.noc.rub.de/stickoft"><i class="fab fa-gitlab"></i> git.noc.rub.de/stickoft</a><br/>  
+  <a href="https://github.com/oliverstickel/"><i class="fab fa-github"></i> github.com/oliverstickel</a> / <a href="https://git.noc.rub.de/stickoft"><i class="fab fa-gitlab"></i> git.noc.rub.de/stickoft</a><br/> 
+  <a href="https://researchgate.net/profile/oliver-stickel"><i class="fab fa-researchgate"></i> researchgate.net/profile/oliver-stickel</a><br/>  
 </div>
 
 ## Experience
