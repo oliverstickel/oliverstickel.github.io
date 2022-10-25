@@ -28,7 +28,7 @@ Fab Lab Manager & Founder
 **Guest researcher, consultant**. Field research, consultations and development of joint project proposals in/with collaborators from the Middle East. *University of Birzeit, Univ. of Technology Oman, Goethe Institute, others*, (mostly) Palestine.
 
 `2013 - 2019`
-**Founder and manager**. I founded [Fab Lab Siegen](https://fablab-siegen.de) and managed it on its journy from a student initiative in a literal storage room on campus outside the city to a wonder- and colorful, open and community-oriented space of about 300sqm filled with people, ideas, tools and machines right in the city center. *Siegen*, Germany.
+**Founder and manager**. I founded [Fab Lab Siegen](https://fablab-siegen.de) and managed it on its journey from a student initiative in a literal storage room on campus outside the city to a wonder- and colorful, open and community-oriented space of about 300sqm filled with people, ideas, tools and machines right in the city center. *Siegen*, Germany.
 
 `2009 - 2015`
 **TA, student researcher**. During my student times, I was a teaching assistant (mostly in HCI), assisted in different research projects (mostly with qualitative field research) and was in IT support/maintenance. *Universities of Siegen and Duisburg-Essen*, Germany.
@@ -70,7 +70,7 @@ Fab Lab Manager & Founder
 ## Projects and funding
 
 `2019-2022`
-**SMAPS** [- the center for smart production systems](https://www.smaps.org/) - is a research-infrastructure project on additive fabrication and smart systems for industrial tooling (mainly forming processes). I was part of the proposal team and briefly involved in the ramp-up phase (e.g. procurement).  
+**SMAPS** [- the center for smart production systems](https://www.smaps.org/) - is a research-infrastructure project on additive fabrication and smart systems for industrial tooling (mainly forming processes). I was part of the proposal team and briefly involved in the ramp-up phase (mainly procurement).  
 *European EFRE-fund (EFRE.NRW), Germany, about 3m€* 
 
 `2017-2020`
@@ -87,7 +87,7 @@ Fab Lab Manager & Founder
 
 `2013 - today`
 **Fab Lab Siegen** was *[my baby](https://fablab-siegen.de)* for many years and my first real experience in regards being a founder and the world of fundraising. The project is still going and has become infrastructure.  
-*Calls for student projects, donations, other sources, about 100.000€ during the first 2-3 years (later, funding strategies changed) and regionally sponsored space for many years.*
+*Calls for student projects, donations, other sources, about 100.000€ in money during the first 2-3 years (later, funding strategies changed). The spaces for the lab were/are co-sponsored by private-public partnerships and there were/are hardware donations as well.*
 
 `2012-2015`
 **CUBES**, research project on community-based innovation in software and usability for small and medium sized enterprises. I was involved as a student, then researcher, then (interim) project manager for the [project reporting and closing](https://www.tib.eu/de/suchen?tx_tibsearch_search%5Baction%5D=download&tx_tibsearch_search%5Bcontroller%5D=Download&tx_tibsearch_search%5Bdocid%5D=TIBKAT%3A872262936&cHash=7d56fa41baf92a721f58064874672f4a#download-mark).  
