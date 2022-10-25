@@ -132,7 +132,7 @@ Nowadays, I'm less involved in structured, academic teaching but mostly teach an
 
 **Projects and People** - Project development, social innovation, fundraising, agility / Skunkworks, community and team development, operations (with)in public service and public administration. 
 
-**Methods** - Constructionism, human-centered teachning and learning, mixed-methods, action and field research, participatory methods and participatory action research, (Maker-)spaces as a method. 
+**Methods** - Constructionism, human-centered teaching and learning, mixed-methods, action and field research, participatory methods and participatory action research, (Maker-)spaces as a method. 
 
 ## Languages
 
