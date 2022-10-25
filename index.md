@@ -70,7 +70,7 @@ Fab Lab Manager & Founder
 ## Projects and funding
 
 `2019-2022`
-**SMAPS** [- the center for smart production systems](https://www.smaps.org/) - is a research-infrastructure project on additive fabrication and smart systems for industrial tooling (mainly forming processes). I was part of the proposal team and briefly involved in the ramp-up phase (mainly procurement).  
+**SMAPS** [- the center for smart production systems](https://www.smaps.org/) - was a research-infrastructure project on additive fabrication and smart systems for industrial tooling (mainly forming processes). I was part of the proposal team and briefly involved in the ramp-up phase (mainly procurement).  
 *European EFRE-fund (EFRE.NRW), Germany, about 3m€* 
 
 `2017-2020`
@@ -90,7 +90,7 @@ Fab Lab Manager & Founder
 *Calls for student projects, donations, other sources, about 100.000€ in money during the first 2-3 years (later, funding strategies changed). The spaces for the lab were/are co-sponsored by private-public partnerships and there were/are hardware donations as well.*
 
 `2012-2015`
-**CUBES**, research project on community-based innovation in software and usability for small and medium sized enterprises. I was involved as a student, then researcher, then (interim) project manager for the [project reporting and closing](https://www.tib.eu/de/suchen?tx_tibsearch_search%5Baction%5D=download&tx_tibsearch_search%5Bcontroller%5D=Download&tx_tibsearch_search%5Bdocid%5D=TIBKAT%3A872262936&cHash=7d56fa41baf92a721f58064874672f4a#download-mark).  
+**CUBES** was a research project on community-based innovation in software and usability for small and medium sized enterprises. I was involved as a student, then researcher, then (interim) project manager for the [project reporting and closing](https://www.tib.eu/de/suchen?tx_tibsearch_search%5Baction%5D=download&tx_tibsearch_search%5Bcontroller%5D=Download&tx_tibsearch_search%5Bdocid%5D=TIBKAT%3A872262936&cHash=7d56fa41baf92a721f58064874672f4a#download-mark).  
 *Federal Ministry for Economic Affairs and Energy, about 800.000€.*
 
 ## Community roles
@@ -103,11 +103,11 @@ As a researcher, I was reviewer/chair for conferences and journals like [CHI](ht
 
 ## Teaching
 
-I enjoy teaching and learning a lot. At Uni Siegen, I've been responsible for the practical part of the mandatory introduction to Human Computer Interaction for many years (mentoring up to 40 students per iteration through big, semester-long projects ending in submissions to and wins in national student challenges). Additionally, I've held many different seminars ranging from reading classes on literature about "Making" to very practical seminars on rapid prototyping methods. I've made it a point to try and be open in teaching and have frequently had students from other faculties or external guests in my seminars. 
+I enjoy teaching and learning a lot. At Uni Siegen, I've been responsible for the practical part of the mandatory introduction to Human Computer Interaction for many years - i.e. mentoring up to 40 students per iteration through big, semester-long projects ending in submissions to and wins in national student challenges. Additionally, I've held many different seminars ranging from reading classes on literature about "Making" to very practical seminars on rapid prototyping methods. I've made it a point to try and be open in teaching and have frequently had students from other faculties or external guests in my seminars. 
 
 As a thesis advisor and co-advisor, I have accompanied about 8 Bachelor and Master Students along their paths to graduation. Topics have varied from participatory-design-oriented field investigations to studies about Makerspaces in teacher training to engineering and fabrication of additive tools for industrial processes. Additionally, I've been involved in co-advising state-certified technicians as a pilot project between a university and a technical vocational college. 
 
-Nowadays, I'm less involved in structured, academic teaching but mostly teach (and learn) whatever is needed to help many different Makerspace users from many different disciplines with their - many different - projects.
+Nowadays, I'm less involved in structured, academic teaching but mostly teach and learn whatever is needed to help many different Makerspace community members from (many different) disciplines with their - many different - projects.
 
 ## Awards and honors
 
