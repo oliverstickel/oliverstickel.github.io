@@ -184,6 +184,8 @@ Basic:  French
 
 [My old blog posts on the Fab Lab Siegen website](https://fablab-siegen.de/author/oliver_dummy/)
 
+[Fab Lab Siegen on GitHub](https://github.com/orgs/FabLabSiegen)
+
 ## Personal
 
 Birth date: 12 June 1987
