@@ -101,7 +101,7 @@ Fab Lab Manager & Founder
 *Volunteer work, hardware donations and enough local funding for student aids to cover daily opening hours.*
 
 `2013-today`
-**Fab Lab Siegen** was *[my baby](https://fablab-siegen.de)* for many years and my first real experience in regards being a founder and the world of fundraising. The project is still going and has become infrastructure.  
+**Fab Lab Siegen** was *[my baby](https://fablab-siegen.de)* for many years and my first real experience in regards being a founder and the world of fundraising. My old team is still running and growing the Lab and it has become local infrastructure.  
 *Calls for student projects, donations, other sources, about 100.000€ in money during the first 2-3 years (later, funding strategies changed). The spaces for the lab were/are co-sponsored by private-public partnerships and there were/are hardware donations as well.*
 
 `2012-2015`
