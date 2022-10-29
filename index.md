@@ -160,7 +160,7 @@ Basic:  French
 
 [makerspace.rub.de](https://makerspace.rub.de)
 
-[fablab-siegen.de](https://fablab-siegen.de)
+[fablab-siegen.de](https://fablab-siegen.de) and [Fab Lab Siegen on GitHub](https://github.com/orgs/FabLabSiegen)
 
 [fab101.de](https://fab101.de)
 
@@ -184,7 +184,6 @@ Basic:  French
 
 [My old blog posts on the Fab Lab Siegen website](https://fablab-siegen.de/author/oliver_dummy/)
 
-[Fab Lab Siegen on GitHub](https://github.com/orgs/FabLabSiegen)
 
 ## Personal
 
