@@ -93,7 +93,7 @@ Fab Lab Manager & Founder
 *German Academic Exchange Service (DAAD), about 225.000€.*
 
 `2016-2018`
-**ZEIT.RAUM Siegen** was a regional project to build a 3D-printed, interactive city model and a [regional Wiki](https://wiki.zeitraum-siegen.de/) for an installation in a local museum. I coordinated the ideation phase, wrote most of the proposals and was part of the negotiation team. In the project, I built the first prototypes for model and wiki and recruited the project staff.  
+**ZEIT.RAUM Siegen** was a regional project to [build](https://github.com/FabLabSiegen/zeitraum) a 3D-printed, interactive city model and a [regional Wiki](https://wiki.zeitraum-siegen.de/) for an installation in a local museum. I coordinated the ideation phase, wrote most of the proposals and was part of the negotiation team. In the project, I built the first prototypes for model and wiki and recruited the project staff.  
 *Regional societies, University of Siegen, other sources, about 190.000€.*
 
 `2015-2016`
