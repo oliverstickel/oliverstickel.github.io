@@ -180,7 +180,7 @@ Basic:  French
 
 [Guest lecture on Socio-Informatics at RWTH Aachen](https://podcasts.apple.com/de/podcast/12-socio-informatiks-oliver-stickel/id1374020313?i=1000416862043&l=en)
 
-[Usability Method Finder](https://www.usability-siegen.de/)
+[Usability-Methodenfinder / Usability Method Finder](https://www.usability-siegen.de/)
 
 [My old blog posts on the Fab Lab Siegen website](https://fablab-siegen.de/author/oliver_dummy/)
 
