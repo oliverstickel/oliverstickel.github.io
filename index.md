@@ -44,9 +44,11 @@ Fab Lab Manager & Founder
 
 ## Selected Publications
 
-[**Handbuch Fab Labs: Einrichtung, Finanzierung, Betrieb, Forschung & Lehre**](https://www.bombini-verlag.de/shop/handbuch-fab-labs/) by Iris Bockermann, Jan Borchers, Anke Brocker, Marcel Lahaye, Antje Moebus, Stefan Neudecker, Oliver Stickel, Melanie Stilz, Daniel Wilkens, René Bohne, Volkmar Pipek, Heidi Schelhowe. *Bombini-Verlag (2021).* 
+`2021`
+[**Handbuch Fab Labs: Einrichtung, Finanzierung, Betrieb, Forschung & Lehre**](https://www.bombini-verlag.de/shop/handbuch-fab-labs/) by Iris Bockermann, Jan Borchers, Anke Brocker, Marcel Lahaye, Antje Moebus, Stefan Neudecker, Oliver Stickel, Melanie Stilz, Daniel Wilkens, René Bohne, Volkmar Pipek, Heidi Schelhowe. *Bombini-Verlag.* 
 
-[**shARe-IT: Ad hoc Remote Troubleshooting through Augmented Reality**](https://link.springer.com/article/10.1007/s10606-021-09393-5) by Thomas Ludwig, Oliver Stickel, Peter Tolmie, Malte Sellmer. *Journal on Computer Supported Cooperative Work 30, pp. 119–167 (2021).* 
+`2021`
+[**shARe-IT: Ad hoc Remote Troubleshooting through Augmented Reality**](https://link.springer.com/article/10.1007/s10606-021-09393-5) by Thomas Ludwig, Oliver Stickel, Peter Tolmie, Malte Sellmer. *Journal on Computer Supported Cooperative Work 30, pp. 119–167.* 
 
 [**Fab:UNIverse - Makerspaces, Fab Labs and Lab Managers in Academia**](files/10.1145-3335055.3335074.pdf) by Oliver Stickel, Melanie Stilz, Anke Brocker, Jan Borchers, Volkmar Pipek. *Workshop at Fab Learn Europe Conference 2019.*
 
@@ -85,6 +87,10 @@ Fab Lab Manager & Founder
 `2016-2018`
 **ZEIT.RAUM Siegen** was a regional project to build a 3D-printed, interactive city model and a [regional Wiki](https://wiki.zeitraum-siegen.de/) for an installation in a local museum. I coordinated the ideation phase, wrote most of the proposals and was part of the negotiation team. In the project, I built the first prototypes for model and wiki and recruited the project staff.  
 *Regional societies, University of Siegen, other sources, about 190.000€.*
+
+`2015-2017`
+**Internet-Cafe4Refugees** was a project we set up when Uni Siegen housed hundreds of refugees. We provided tech support and hardware. Internet connection was provided together with the local [freifunk.net](https://freifunk.net/) community.   
+*Volunteer work, hardware donations and enough local funding for student aids to cover daily opening hours.*
 
 `2013-today`
 **Fab Lab Siegen** was *[my baby](https://fablab-siegen.de)* for many years and my first real experience in regards being a founder and the world of fundraising. The project is still going and has become infrastructure.  
