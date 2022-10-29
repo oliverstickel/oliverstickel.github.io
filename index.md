@@ -96,8 +96,8 @@ Fab Lab Manager & Founder
 **ZEIT.RAUM Siegen** was a regional project to build a 3D-printed, interactive city model and a [regional Wiki](https://wiki.zeitraum-siegen.de/) for an installation in a local museum. I coordinated the ideation phase, wrote most of the proposals and was part of the negotiation team. In the project, I built the first prototypes for model and wiki and recruited the project staff.  
 *Regional societies, University of Siegen, other sources, about 190.000€.*
 
-`2015-2017`
-**Internet-Cafe4Refugees** was a project we set up when Uni Siegen housed hundreds of refugees. We provided tech support and hardware. Internet connection was provided together with the local [freifunk.net](https://freifunk.net/) community.   
+`2015-2016`
+**Internet-Cafe4Refugees** was a project we set up when Uni Siegen housed hundreds of refugees. We provided tech support, hardware and internet connection together with the local [freifunk.net](https://freifunk.net/) community.   
 *Volunteer work, hardware donations and enough local funding for student aids to cover daily opening hours.*
 
 `2013-today`
