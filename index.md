@@ -89,7 +89,7 @@ Fab Lab Manager & Founder
 *Federal Ministry of Education and Research, Germany, about 1.2m€.* 
 
 `2016-2018`
-**YALLAH** - "You All Are Hackers" [was a student exchange project](https://yallah.exchange/). Students from Palestine and Germany visited each other for multiple stays and worked on socio-economical issues using "maker-methods". I had the project idea after my own visits to Palestine as a student, led the proposal and helped to recruit and set up the staff who took over the project.  
+**YALLAH** - "You All Are Hackers" [was a student exchange / hackathon project](https://yallah.exchange/). Students from Palestine and Germany visited each other for multiple stays, worked on socio-economical issues using "maker-methods" and created an [art exhibition](https://exhibition.yallah.exchange/ ). I had the project idea after my own visits to Palestine as a student, led the proposal and helped to recruit and set up the staff who took over the project.  
 *German Academic Exchange Service (DAAD), about 225.000€.*
 
 `2016-2018`
@@ -166,7 +166,7 @@ Basic:  French
 
 [fab-universe.de](https://fab-universe.de)
 
-[yallah.exchange](https://yallah.exchange) and [exhibition.yallah.exchange](https://exhibition.yallah.exchange/ )
+[yallah.exchange](https://yallah.exchange) and [exhibition.yallah.exchange](https://exhibition.yallah.exchange)
 
 [Interview "Deutsche Welle" about Fab Labs](https://www.dw.com/de/fablab-gemeinsam-t%C3%BCftelts-sich-leichter/a-49714943)
 
