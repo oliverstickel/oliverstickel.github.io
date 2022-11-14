@@ -75,13 +75,13 @@ Fab Lab Manager & Founder
 [**Towards Sociable Technologies: An Empirical Study on Designing Appropriation Infrastructures for 3D Printing**](files/10.1145-2598510.2598528.pdf) by Thomas Ludwig, Oliver Stickel, Alexander Boden, Volkmar Pipek. *Proceedings of the Designing Interactive Systems Conference (DIS) '14, pp. 835–844.* 
 
 
-*Full publication list at [researchgate.net/profile/oliver-stickel](https://www.researchgate.net/profile/Oliver-Stickel).*
+*Full publication list: [researchgate.net/profile/oliver-stickel](https://www.researchgate.net/profile/Oliver-Stickel).*
 
 
 ## Projects and funding
 
 `2019-2022`
-**SMAPS** [- the center for smart production systems](https://www.smaps.org/) - was a research-infrastructure project on additive fabrication and smart systems for industrial tooling (mainly forming processes). I was part of the proposal team and briefly involved in the ramp-up phase (mainly procurement).  
+**SMAPS** [- the center for smart production systems](https://www.smaps.org/) - was a research-infrastructure project on additive fabrication and smart systems for industrial tooling (mainly forming processes). I was part of the proposal team and briefly involved in the ramp-up phase (mostly procurement).  
 *European EFRE-fund (EFRE.NRW), Germany, about 3m€* 
 
 `2017-2020`
@@ -101,7 +101,7 @@ Fab Lab Manager & Founder
 *Volunteer work, hardware donations and enough local funding for student aids to cover daily opening hours.*
 
 `2013-today`
-**Fab Lab Siegen** was *[my baby](https://fablab-siegen.de)* for many years and my first real experience in regards being a founder and the world of fundraising. My old team is still running and growing the Lab and it has become local infrastructure.  
+**Fab Lab Siegen** was *[my baby](https://fablab-siegen.de)* for many years and my first real experience in regards to being a founder and the world of fundraising. My old team is still running and growing the Lab and it has become local infrastructure.  
 *Calls for student projects, donations, other sources, about 100.000€ in money during the first 2-3 years (later, funding strategies changed). The spaces for the lab were/are co-sponsored by private-public partnerships and there were/are hardware donations as well.*
 
 `2012-2015`
