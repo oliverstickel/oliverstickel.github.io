@@ -18,7 +18,7 @@ Fab Lab Manager & Founder
 **Lab Manager at Bochum Makerspace.** I lead two labs (Digital Lab and Plastics Lab) and I'm involved in the overall development of [RUB-Makerspace](https://makerspace.rub.de), a 2000sqm innovation space with a team of about 20 people. *Ruhr-Universität Bochum*, Germany.
 
 `2019-2020`
-**Writer, researcher, consultant**. Book project "Handbuch Fab Labs" and consultation work for organizations interested in Maker-/innovation spaces. *Self-employed*, Germany.
+**Writer, researcher, consultant**. Book project "[Handbuch Fab Labs](https://www.bombini-verlag.de/shop/handbuch-fab-labs/)" and consultation work for organizations interested in Maker-/innovation spaces. *Self-employed*, Germany.
 
 `2015-2019`
 **Researcher, project manager, lecturer**. After graduating, I stayed at Uni Siegen as a researcher to continue building [Fab Lab Siegen](https://fablab-siegen.de) into a sustainable infrastructure. Apart from the Lab, I worked on/in in different projects (see below), published and did a lot of teaching. *University of Siegen*, Germany.
