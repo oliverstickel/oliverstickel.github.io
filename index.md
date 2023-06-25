@@ -40,6 +40,45 @@ Fab Lab Manager & Founder
 `1998-2002`
 **B.Sc. Applied Cognitive and Media Sciences** - Combination of Computer Science and Psychology (without the advanced engineering and clinical aspects, respectively), grounded in quantitative methods. *University of Duisburg-Essen*, Germany.
 
+## Projects and funding
+
+`2023-today`
+**Maker in Residence** is an effort at RUB-Makerspace to invite interesting *Makers* from different disciplines to come, work here, share knowledge and create something (works of art, workshop concepts, etc.) that stays permanently at RUB-Makerspace.  
+*Regional donors, about 20k p.a.*
+
+`2022-2024`
+**MentorINN** is a joint project between three local universities to found [*Ruhr School of Design Thinking*](https://www.isse.ruhr-uni-bochum.de/ruhr-school-of-design-thinking/), to better implement Design Thinking in interdisciplinary teaching and to share teaching material and concepts between the universities.  
+*Stiftung Innovation in der Hochschullehre ('foundation for digital teaching in academia'), about 20k.*
+
+`2019-2022`
+**SMAPS** [- the center for smart production systems](https://www.smaps.org/) - was a research-infrastructure project on additive fabrication and smart systems for industrial tooling (mainly forming processes). I was part of the proposal team and briefly involved in the ramp-up phase (mostly procurement).  
+*European EFRE-fund (EFRE.NRW), about 3m€* 
+
+`2017-2020`
+**FAB 101** [was a joint research project](https://fab101.de) of four German universities on Fab Labs and digital fabrication in academic. It focused on cooperation, tools, education and infrastructure. I developed the core idea for the project, led the proposal and was overall project manager as well as part of the operative team.  
+*Federal Ministry of Education and Research, about 1.2m€.* 
+
+`2016-2018`
+**YALLAH** - "You All Are Hackers" [was a student exchange / hackathon project](https://yallah.exchange/). Students from Palestine and Germany visited each other for multiple stays, worked on socio-economical issues using "maker-methods" and created an [art exhibition](https://exhibition.yallah.exchange/ ). I had the project idea after my own visits to Palestine as a student, led the proposal and helped to recruit and set up the staff who took over the project.  
+*German Academic Exchange Service (DAAD), about 225.000€.*
+
+`2016-2018`
+**ZEIT.RAUM Siegen** was a project between a regional museum, three university chairs and [Fab Lab Siegen](https://fablab-siegen.de/projekte/zeitraum-siegen/) to [develop](https://github.com/FabLabSiegen/zeitraum) a 3D-printed, interactive city model and a [regional Wiki](https://wiki.zeitraum-siegen.de/) for a museum installation. I coordinated the ideation phase, wrote most of the proposals and was part of the negotiation team. In the project, I built the first prototypes for model and wiki and recruited the project staff.  
+*Regional societies, University of Siegen, other sources, about 190.000€ ([funding brochure](files/zeitraum-siegen-broschuere.pdf)).*
+
+`2015-2016`
+**Internet-Cafe4Refugees** was a project we set up when Uni Siegen housed hundreds of refugees. We provided tech support, hardware and internet connection together with the local [freifunk.net](https://freifunk.net/) community.   
+*Volunteer work, hardware donations and enough local funding for student aids to cover daily opening hours.*
+
+`2013-today`
+**Fab Lab Siegen** was *[my baby](https://fablab-siegen.de)* for many years and my first real experience in regards to being a founder and the world of fundraising. My old team is still running and growing the Lab and it has become local infrastructure.  
+*Calls for student projects, donations, other sources, about 100.000€ in money during the first 2-3 years (later, funding strategies changed). The spaces for the lab were/are co-sponsored by private-public partnerships and there were/are hardware donations as well.*
+
+`2012-2015`
+**CUBES** was a research project on community-based innovation in software and usability for small and medium sized enterprises. I was involved as a student, then researcher, then (interim) project manager for the [project reporting and closing](https://www.tib.eu/de/suchen?tx_tibsearch_search%5Baction%5D=download&tx_tibsearch_search%5Bcontroller%5D=Download&tx_tibsearch_search%5Bdocid%5D=TIBKAT%3A872262936&cHash=7d56fa41baf92a721f58064874672f4a#download-mark).  
+*Federal Ministry for Economic Affairs and Energy, about 800.000€.*
+
+
 ## Selected Publications
 
 `2021`
@@ -75,44 +114,6 @@ Fab Lab Manager & Founder
 
 *Full publication list: [researchgate.net/profile/oliver-stickel](https://www.researchgate.net/profile/Oliver-Stickel).*
 
-
-## Projects and funding
-
-`2023-today`
-**Maker in Residence** is an effort at RUB-Makerspace to invite interesting *Makers* from different disciplines to come, work here, share knowledge and create something (works of art, workshop concepts, etc.) that stays permanently at RUB-Makerspace.  
-*Regional donors, about 20k p.a.*
-
-`2022-2024`
-**MentorINN** is a joint project between three local universities to found [*Ruhr School of Design Thinking*](https://www.isse.ruhr-uni-bochum.de/ruhr-school-of-design-thinking/), to better implement Design Thinking in interdisciplinary teaching and to share teaching material and concepts between the universities.  
-*Stiftung Innovation in der Hochschullehre ('foundation for digital teaching in academia'), about 20k*
-
-`2019-2022`
-**SMAPS** [- the center for smart production systems](https://www.smaps.org/) - was a research-infrastructure project on additive fabrication and smart systems for industrial tooling (mainly forming processes). I was part of the proposal team and briefly involved in the ramp-up phase (mostly procurement).  
-*European EFRE-fund (EFRE.NRW), about 3m€* 
-
-`2017-2020`
-**FAB 101** [was a joint research project](https://fab101.de) of four German universities on Fab Labs and digital fabrication in academic. It focused on cooperation, tools, education and infrastructure. I developed the core idea for the project, led the proposal and was overall project manager as well as part of the operative team.  
-*Federal Ministry of Education and Research, about 1.2m€.* 
-
-`2016-2018`
-**YALLAH** - "You All Are Hackers" [was a student exchange / hackathon project](https://yallah.exchange/). Students from Palestine and Germany visited each other for multiple stays, worked on socio-economical issues using "maker-methods" and created an [art exhibition](https://exhibition.yallah.exchange/ ). I had the project idea after my own visits to Palestine as a student, led the proposal and helped to recruit and set up the staff who took over the project.  
-*German Academic Exchange Service (DAAD), about 225.000€.*
-
-`2016-2018`
-**ZEIT.RAUM Siegen** was a project between a regional museum, three university chairs and [Fab Lab Siegen](https://fablab-siegen.de/projekte/zeitraum-siegen/) to [develop](https://github.com/FabLabSiegen/zeitraum) a 3D-printed, interactive city model and a [regional Wiki](https://wiki.zeitraum-siegen.de/) for a museum installation. I coordinated the ideation phase, wrote most of the proposals and was part of the negotiation team. In the project, I built the first prototypes for model and wiki and recruited the project staff.  
-*Regional societies, University of Siegen, other sources, about 190.000€ ([funding brochure](files/zeitraum-siegen-broschuere.pdf)).*
-
-`2015-2016`
-**Internet-Cafe4Refugees** was a project we set up when Uni Siegen housed hundreds of refugees. We provided tech support, hardware and internet connection together with the local [freifunk.net](https://freifunk.net/) community.   
-*Volunteer work, hardware donations and enough local funding for student aids to cover daily opening hours.*
-
-`2013-today`
-**Fab Lab Siegen** was *[my baby](https://fablab-siegen.de)* for many years and my first real experience in regards to being a founder and the world of fundraising. My old team is still running and growing the Lab and it has become local infrastructure.  
-*Calls for student projects, donations, other sources, about 100.000€ in money during the first 2-3 years (later, funding strategies changed). The spaces for the lab were/are co-sponsored by private-public partnerships and there were/are hardware donations as well.*
-
-`2012-2015`
-**CUBES** was a research project on community-based innovation in software and usability for small and medium sized enterprises. I was involved as a student, then researcher, then (interim) project manager for the [project reporting and closing](https://www.tib.eu/de/suchen?tx_tibsearch_search%5Baction%5D=download&tx_tibsearch_search%5Bcontroller%5D=Download&tx_tibsearch_search%5Bdocid%5D=TIBKAT%3A872262936&cHash=7d56fa41baf92a721f58064874672f4a#download-mark).  
-*Federal Ministry for Economic Affairs and Energy, about 800.000€.*
 
 ## Community roles
 
