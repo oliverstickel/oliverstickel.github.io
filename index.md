@@ -52,7 +52,7 @@ Fab Lab Manager & Founder
 
 `2019-2022`
 **SMAPS** [- the center for smart production systems](https://www.smaps.org/) - was a research-infrastructure project on additive fabrication and smart systems for industrial tooling (mainly forming processes). I was part of the proposal team and briefly involved in the ramp-up phase (mostly procurement).  
-*European EFRE-fund (EFRE.NRW), about 3m€* 
+*European EFRE-fund (EFRE.NRW), about 3m€.* 
 
 `2017-2020`
 **FAB 101** [was a joint research project](https://fab101.de) of four German universities on Fab Labs and digital fabrication in academic. It focused on cooperation, tools, education and infrastructure. I developed the core idea for the project, led the proposal and was overall project manager as well as part of the operative team.  
