@@ -78,13 +78,13 @@ Fab Lab Manager & Founder
 
 ## Projects and funding
 
-`2023-ongoging`
+`2023-today`
 **Maker in Residence** is an effort at RUB-Makerspace to invite interesting *Makers* from different disciplines to come, work here, share knowledge and create something (works of art, workshop concepts, etc.) that stays permanently at RUB-Makerspace.  
 *Regional donors, about 20k p.a.*
 
 `2022-2024`
-**MentorINN** is a joint project between three local universities to found *Ruhr School of Design Thinking*, to better implement Design Thinking in interdisciplinary teaching and to share teaching material and concepts between the universities.  
-*Stiftung Innovation in der Hochschullehre ('foundation for digital teaching in academia', about 20k*
+**MentorINN** is a joint project between three local universities to found [*Ruhr School of Design Thinking*](https://www.isse.ruhr-uni-bochum.de/ruhr-school-of-design-thinking/), to better implement Design Thinking in interdisciplinary teaching and to share teaching material and concepts between the universities.  
+*Stiftung Innovation in der Hochschullehre ('foundation for digital teaching in academia'), about 20k*
 
 `2019-2022`
 **SMAPS** [- the center for smart production systems](https://www.smaps.org/) - was a research-infrastructure project on additive fabrication and smart systems for industrial tooling (mainly forming processes). I was part of the proposal team and briefly involved in the ramp-up phase (mostly procurement).  
