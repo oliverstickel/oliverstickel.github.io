@@ -9,15 +9,13 @@ Fab Lab Manager & Founder
 
 <div id="webaddress">
   <a href="http://www.oliverstickel.de"><i class="fas fa-home"></i> oliverstickel.de </a>  <span style="color:black"> / </span>  <a href="http://www.oliverstickel.de/cv.pdf"><i class="fas fa-file-pdf"></i> oliverstickel.de/cv.pdf</a><br/>
-  <a href="https://github.com/oliverstickel/"><i class="fab fa-github"></i> github.com/oliverstickel</a> <span style="color:black"> / </span>
-  <a href="https://git.noc.rub.de/stickoft"><i class="fab fa-gitlab"></i> git.noc.rub.de/stickoft</a><br/> 
   <a href="https://researchgate.net/profile/oliver-stickel"><i class="fab fa-researchgate"></i> researchgate.net/profile/oliver-stickel</a><br/>  
 </div>
 
 ## Experience
 
 `2020-today`
-**Lab Manager at Bochum Makerspace.** I manage two sub-labs (IT / integrated electronics and plastics fabrication) and I'm involved in the overall development of [RUB-Makerspace](https://makerspace.rub.de), a 2000sqm innovation space with a team of 15 people. *Ruhr-Universität Bochum*, Germany.
+**Lab Manager at Bochum Makerspace.** I manage two sub-labs (IT / integrated electronics and plastics fabrication) and I'm involved in the overall development of [RUB-Makerspace](https://makerspace.rub.de), a 2000sqm innovation space with a team of about 20 people. *Ruhr-Universität Bochum*, Germany.
 
 `2019-2020`
 **Writer, researcher, consultant**. Book project "Handbuch Fab Labs" and consultation work for organizations interested in Maker-/innovation spaces. *Self-employed*, Germany.
@@ -80,13 +78,21 @@ Fab Lab Manager & Founder
 
 ## Projects and funding
 
+`2023-ongoging`
+**Maker in Residence** is an effort at RUB-Makerspace to invite interesting *Makers* from different disciplines to come, work here, share knowledge and create something (works of art, workshop concepts, etc.) that stays permanently at RUB-Makerspace.  
+*Regional donors, about 20k p.a.*
+
+`2022-2024`
+**MentorINN** is a joint project between three local universities to found *Ruhr School of Design Thinking*, to better implement Design Thinking in interdisciplinary teaching and to share teaching material and concepts between the universities.  
+*Stiftung Innovation in der Hochschullehre ('foundation for digital teaching in academia', about 20k*
+
 `2019-2022`
 **SMAPS** [- the center for smart production systems](https://www.smaps.org/) - was a research-infrastructure project on additive fabrication and smart systems for industrial tooling (mainly forming processes). I was part of the proposal team and briefly involved in the ramp-up phase (mostly procurement).  
-*European EFRE-fund (EFRE.NRW), Germany, about 3m€* 
+*European EFRE-fund (EFRE.NRW), about 3m€* 
 
 `2017-2020`
 **FAB 101** [was a joint research project](https://fab101.de) of four German universities on Fab Labs and digital fabrication in academic. It focused on cooperation, tools, education and infrastructure. I developed the core idea for the project, led the proposal and was overall project manager as well as part of the operative team.  
-*Federal Ministry of Education and Research, Germany, about 1.2m€.* 
+*Federal Ministry of Education and Research, about 1.2m€.* 
 
 `2016-2018`
 **YALLAH** - "You All Are Hackers" [was a student exchange / hackathon project](https://yallah.exchange/). Students from Palestine and Germany visited each other for multiple stays, worked on socio-economical issues using "maker-methods" and created an [art exhibition](https://exhibition.yallah.exchange/ ). I had the project idea after my own visits to Palestine as a student, led the proposal and helped to recruit and set up the staff who took over the project.  
@@ -110,7 +116,7 @@ Fab Lab Manager & Founder
 
 ## Community roles
 
-I co-organized [Fab:UNIverse](fab-universe.de) multiple times and maintain its website - it's a conference for Fab Lab managers at universities. I've also (co-)organized a lot of different events, temporary (Maker)spaces and meetups such as the Usability Day Siegen (2014-2018). 
+I co-organized Fab:UNIverse multiple times - it's a conference for Fab Lab managers at universities. I've also (co-)organized a lot of different events, temporary (Maker)spaces and meetups such as the Usability Day Siegen (2014-2018). 
 
 I have been an elected member of different bodies of (self)-governance such as the Senate commission on Strategic University Development at Uni Siegen and head of the student representatives ("Fachschaftsräte") at Uni Duisburg-Essen and at Uni Siegen respectively. Occasionally, I've been asked to fill roles in regional and national expert committees (mostly in relation to innovation and community spaces). 
 
@@ -154,7 +160,7 @@ Native: German
 
 Fluent: English
 
-Basic:  French
+Rudimentary:  French
 
 ## Links
 
