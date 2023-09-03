@@ -81,7 +81,7 @@ Fab Lab Manager & Founder
 ## Projects and funding
 
 `2019-2022`
-**SMAPS** [- the center for smart production systems](https://www.smaps.org/) - was a research-infrastructure project on additive fabrication and smart systems for industrial tooling (mainly forming processes). I was part of the proposal team and briefly involved in the ramp-up phase (mostly procurement).  
+**SMAPS** [- the center for smart production systems](https://www.smaps.org/) - was a research-infrastructure project on additive fabrication and smart systems for industrial tooling (mainly forming processes). I was part of the proposal team and briefly involved in the ramp-up phase, mostly during procurement.
 *European EFRE-fund (EFRE.NRW), Germany, about 3m€* 
 
 `2017-2020`
@@ -93,7 +93,7 @@ Fab Lab Manager & Founder
 *German Academic Exchange Service (DAAD), about 225.000€.*
 
 `2016-2018`
-**ZEIT.RAUM Siegen** was a project between a regional museum, three university chairs and [Fab Lab Siegen](https://fablab-siegen.de/projekte/zeitraum-siegen/) to [develop](https://github.com/FabLabSiegen/zeitraum) a 3D-printed, interactive city model and a [regional Wiki](https://wiki.zeitraum-siegen.de/) for a museum installation. I coordinated the ideation phase, wrote most of the proposals and was part of the negotiation team. In the project, I built the first prototypes for model and wiki and recruited the project staff.  
+**ZEIT.RAUM Siegen** was a project between a museum, three academic chairs and [Fab Lab Siegen](https://fablab-siegen.de/projekte/zeitraum-siegen/) to [develop](https://github.com/FabLabSiegen/zeitraum) a 3D-printed, interactive city model and a [regional Wiki](https://wiki.zeitraum-siegen.de/) for a museum installation. I coordinated the ideation phase, wrote most of the proposals and was part of the negotiation team. In the project, I built the first prototypes for model and wiki and recruited the project staff.  
 *Regional societies, University of Siegen, other sources, about 190.000€ ([funding brochure](files/zeitraum-siegen-broschuere.pdf)).*
 
 `2015-2016`
@@ -112,13 +112,13 @@ Fab Lab Manager & Founder
 
 I co-organized [Fab:UNIverse](fab-universe.de) multiple times and maintain its website - it's a conference for Fab Lab managers at universities. I've also (co-)organized a lot of different events, temporary (Maker)spaces and meetups such as the Usability Day Siegen (2014-2018). 
 
-I have been an elected member of different bodies of (self)-governance such as the Senate commission on Strategic University Development at Uni Siegen and head of the student representatives ("Fachschaftsräte") at Uni Duisburg-Essen and at Uni Siegen respectively. Occasionally, I've been asked to fill roles in regional and national expert committees (mostly in relation to innovation and community spaces). 
+I have been an elected member of different bodies of (self)-governance such as the Senate commission on Strategic University Development at Uni Siegen and head of the student representatives ("Fachschaftsräte") at Uni Duisburg-Essen and at Uni Siegen respectively. Occasionally, I've been asked to fill roles in expert committees (mostly in relation to innovation and community spaces). 
 
 As a researcher, I was reviewer/chair for conferences and journals like [CHI](https://dl.acm.org/conference/chi/proceedings), [JCSCW](https://www.springer.com/journal/10606), [C&T](https://dl.acm.org/conference/c-n-t) or [M&C](https://mensch-und-computer.de/). 
 
 ## Teaching
 
-I enjoy teaching and learning a lot. At Uni Siegen, I've been responsible for the practical part of the mandatory introduction to Human Computer Interaction for many years - i.e. mentoring up to 40 students per iteration through big, semester-long projects ending in submissions to and wins in national student challenges. Additionally, I've held many different seminars ranging from reading classes on literature about "Making" to very practical seminars on rapid prototyping methods. I've made it a point to try and be open in teaching and have frequently had students from other faculties or external guests in my seminars. 
+I enjoy teaching and learning a lot. At Uni Siegen, I've been responsible for the practical part (and a lot of the lectures) of the annual introduction to Human Computer Interaction for many years, i.e. mentoring up to 40 students per iteration through big, semester-long projects ending in submissions to and wins in national student challenges. Additionally, I've held many different seminars ranging from reading classes on literature about "Making" to very practical seminars on rapid prototyping methods. I've made it a point to try and be open in teaching and have frequently had students from other faculties or external guests in my seminars. 
 
 As a thesis advisor and co-advisor, I have accompanied about 8 Bachelor and Master Students along their paths to graduation. Topics have varied from participatory-design-oriented field investigations to studies about Makerspaces in teacher training to engineering and fabrication of additive tools for industrial processes. Additionally, I've been involved in co-advising state-certified technicians as a pilot project between a university and a technical vocational college. 
 
@@ -154,7 +154,7 @@ Native: German
 
 Fluent: English
 
-Basic:  French
+Rudimentary:  French
 
 ## Links
 
