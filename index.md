@@ -8,7 +8,8 @@ Fab Lab Manager & Founder
 <a href="mailto:kontakt@oliverstickel.de">kontakt@oliverstickel.de</a> / +49 (0)234 5200 4912 
 
 <div id="webaddress">
-  <a href="http://www.oliverstickel.de"><i class="fas fa-home"></i> oliverstickel.de </a>  <span style="color:black"> / </span>  <a href="http://www.oliverstickel.de/cv.pdf"><i class="fas fa-file-pdf"></i> oliverstickel.de/cv.pdf</a><br/>
+  <a href="http://www.oliverstickel.de"><i class="fas fa-home"></i> oliverstickel.de </a><br/> 
+  <a href="http://www.oliverstickel.de/cv.pdf"><i class="fas fa-file-pdf"></i> oliverstickel.de/cv.pdf</a><br/>
   <a href="https://researchgate.net/profile/oliver-stickel"><i class="fab fa-researchgate"></i> researchgate.net/profile/oliver-stickel</a><br/>  
 </div>
 
