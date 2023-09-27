@@ -44,7 +44,7 @@ Fab Lab Manager & Founder
 ## Projects and funding
 
 `2023-today`
-**Maker in Residence** is an effort at RUB-Makerspace to invite interesting *Makers* from different disciplines to come, work here, share knowledge and create something - works of art, workshop concepts, etc. - that stays permanently. I co-led the first two funding rounds and managed the 2023 residency.  
+**Maker in Residence** is an effort at RUB-Makerspace to invite interesting *Makers* from different disciplines to come, work here, share knowledge and create something that stays permanently. I co-led the first two funding rounds and managed the 2023 residency.  
 *Regional donors, about 20k p.a.*
 
 `2022-2024`
