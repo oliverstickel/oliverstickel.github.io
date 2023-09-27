@@ -15,7 +15,7 @@ Fab Lab Manager & Founder
 ## Experience
 
 `2020-today`
-**Lab Manager at Bochum Makerspace.** I lead two labs (Digital Lab and Plastics Lab) and I'm involved in the overall development of [RUB-Makerspace](https://makerspace.rub.de), a 2000sqm innovation space with a team of about 20 people. *Ruhr-Universität Bochum*, Germany.
+**Lab Manager at Bochum Makerspace.** I was deputy general manager of [RUB-Makerspace](https://makerspace.rub.de) as well as lab leader for the Digital Lab and the Plastics Lab. RUB-Makerspace is a 2000sqm innovation space with a team of about 20 people and multiple (sub-)labs and workshops. *Ruhr-Universität Bochum*, Germany.
 
 `2019-2020`
 **Writer, researcher, consultant**. Book project "[Handbuch Fab Labs](https://www.bombini-verlag.de/shop/handbuch-fab-labs/)" and consultation work for organizations interested in Maker-/innovation spaces. *Self-employed*, Germany.
@@ -43,11 +43,11 @@ Fab Lab Manager & Founder
 ## Projects and funding
 
 `2023-today`
-**Maker in Residence** is an effort at RUB-Makerspace to invite interesting *Makers* from different disciplines to come, work here, share knowledge and create something - works of art, workshop concepts, etc. - that stays permanently at RUB-Makerspace.  
+**Maker in Residence** is an effort at RUB-Makerspace to invite interesting *Makers* from different disciplines to come, work here, share knowledge and create something - works of art, workshop concepts, etc. - that stays permanently. I co-led the first two funding rounds and managed the 2023 residency.  
 *Regional donors, about 20k p.a.*
 
 `2022-2024`
-**MentorINN** is a joint project between three local universities to found [*Ruhr School of Design Thinking*](https://www.isse.ruhr-uni-bochum.de/ruhr-school-of-design-thinking/), to better implement Design Thinking in interdisciplinary teaching and to share teaching material and concepts between the universities.  
+**MentorINN** is a joint project between three local universities to found [*Ruhr School of Design Thinking*](https://www.isse.ruhr-uni-bochum.de/ruhr-school-of-design-thinking/), to better implement Design Thinking in interdisciplinary teaching and to share teaching material and concepts between the universities. I was part of the proposal team and occasionally helped in the project.  
 *Stiftung Innovation in der Hochschullehre ('foundation for digital teaching in academia'), about 20k.*
 
 `2019-2022`
