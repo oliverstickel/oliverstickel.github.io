@@ -15,7 +15,7 @@ Fab Lab Manager & Founder
 
 ## Experience
 
-`2020-today`
+`2020-2023`
 **Lab Manager at Bochum Makerspace.** I was deputy general manager of [RUB-Makerspace](https://makerspace.rub.de) as well as lab leader for the Digital Lab and the Plastics Lab. RUB-Makerspace is a 2000sqm innovation space with a team of about 20 people and multiple (sub-)labs and workshops. *Ruhr-Universität Bochum*, Germany.
 
 `2019-2020`
