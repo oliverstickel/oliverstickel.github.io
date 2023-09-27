@@ -22,7 +22,7 @@ Fab Lab Manager & Founder
 **Writer, researcher, consultant**. Book project "[Handbuch Fab Labs](https://www.bombini-verlag.de/shop/handbuch-fab-labs/)" and consultation work for organizations interested in Maker-/innovation spaces. *Self-employed.*
 
 `2015-2019`
-**Researcher, project manager, lecturer**. After graduating, I stayed at Uni Siegen as a researcher to continue building [Fab Lab Siegen](https://fablab-siegen.de) into a sustainable infrastructure. Apart from the Lab, I worked on/in in different projects (see below), published and did a lot of teaching. *University of Siegen*.
+**Researcher, project manager, lecturer**. After graduating, I stayed at Uni Siegen to continue building [Fab Lab Siegen](https://fablab-siegen.de) into a sustainable infrastructure. Apart from the Lab, I worked on/in in different projects (see below), published and did a lot of teaching. *University of Siegen*.
 
 `2014-2019`
 **Guest researcher, consultant**. Field research, consultations and development of joint project proposals in/with collaborators from the Middle East. *University of Birzeit, Univ. of Technology Oman, Goethe Institute, others*, (mostly) Palestine.
