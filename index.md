@@ -38,7 +38,7 @@ Fab Lab Manager & Founder
 `2012-2015`
 **M.Sc. Human Computer Interaction** (honors) - Socio-technical systems design based on qualitative methods. *University of Siegen*, Germany.
 
-`1998-2002`
+`2009-2012`
 **B.Sc. Applied Cognitive and Media Sciences** - Combination of Computer Science and Psychology (without the advanced engineering and clinical aspects, respectively), grounded in quantitative methods. *University of Duisburg-Essen*, Germany.
 
 ## Projects and funding
