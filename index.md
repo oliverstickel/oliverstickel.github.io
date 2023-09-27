@@ -16,30 +16,30 @@ Fab Lab Manager & Founder
 ## Experience
 
 `2020-2023`
-**Lab Manager at Bochum Makerspace.** I was deputy general manager of [RUB-Makerspace](https://makerspace.rub.de) as well as lab leader for the Digital Lab and the Plastics Lab. RUB-Makerspace is a 2000sqm innovation space with a team of about 20 people and multiple (sub-)labs and workshops. *Ruhr-Universität Bochum*, Germany.
+**Lab Manager at Bochum Makerspace.** I was deputy general manager of [RUB-Makerspace](https://makerspace.rub.de) as well as lab leader for the Digital Lab and the Plastics Lab. RUB-Makerspace is a 2000sqm innovation space with a team of about 20 people and multiple (sub-)labs. *Ruhr-Universität Bochum*.
 
 `2019-2020`
-**Writer, researcher, consultant**. Book project "[Handbuch Fab Labs](https://www.bombini-verlag.de/shop/handbuch-fab-labs/)" and consultation work for organizations interested in Maker-/innovation spaces. *Self-employed*, Germany.
+**Writer, researcher, consultant**. Book project "[Handbuch Fab Labs](https://www.bombini-verlag.de/shop/handbuch-fab-labs/)" and consultation work for organizations interested in Maker-/innovation spaces. *Self-employed.*
 
 `2015-2019`
-**Researcher, project manager, lecturer**. After graduating, I stayed at Uni Siegen as a researcher to continue building [Fab Lab Siegen](https://fablab-siegen.de) into a sustainable infrastructure. Apart from the Lab, I worked on/in in different projects (see below), published and did a lot of teaching. *University of Siegen*, Germany.
+**Researcher, project manager, lecturer**. After graduating, I stayed at Uni Siegen as a researcher to continue building [Fab Lab Siegen](https://fablab-siegen.de) into a sustainable infrastructure. Apart from the Lab, I worked on/in in different projects (see below), published and did a lot of teaching. *University of Siegen*.
 
 `2014-2019`
 **Guest researcher, consultant**. Field research, consultations and development of joint project proposals in/with collaborators from the Middle East. *University of Birzeit, Univ. of Technology Oman, Goethe Institute, others*, (mostly) Palestine.
 
 `2013-2019`
-**Founder and manager**. I founded [Fab Lab Siegen](https://fablab-siegen.de) and managed it on its journey from a student initiative in a literal storage room on campus outside the city to a wonder- and colorful, open and community-oriented space of about 300sqm filled with people, ideas, tools and machines right in the city center. *Siegen*, Germany.
+**Founder and manager**. I founded [Fab Lab Siegen](https://fablab-siegen.de) and managed it on its journey from a student initiative in a literal storage room on campus outside the city to a wonder- and colorful, open and community-oriented space of about 300sqm filled with people, ideas, tools and machines right in the city center. *Siegen*.
 
 `2009-2015`
-**TA, student researcher**. During my student times, I was a teaching assistant (mostly in HCI), assisted in different research projects (mostly with qualitative field research) and was in IT and media tech support/maintenance. *Universities of Siegen and Duisburg-Essen*, Germany.
+**TA, student researcher**. During my student times, I was a teaching assistant (mostly in HCI), assisted in different research projects (mostly with qualitative field research) and was in IT and media tech support/maintenance. *Universities of Siegen and Duisburg-Essen*.
 
 ## Education
 
 `2012-2015`
-**M.Sc. Human Computer Interaction** (honors) - Socio-technical systems design based on qualitative methods. *University of Siegen*, Germany.
+**M.Sc. Human Computer Interaction** (honors) - Socio-technical systems design based on qualitative methods. *University of Siegen*.
 
 `2009-2012`
-**B.Sc. Applied Cognitive and Media Sciences** - Combination of Computer Science and Psychology (without the advanced engineering and clinical aspects, respectively), grounded in quantitative methods. *University of Duisburg-Essen*, Germany.
+**B.Sc. Applied Cognitive and Media Sciences** - Combination of Computer Science and Psychology (without the advanced engineering and clinical aspects, respectively), grounded in quantitative methods. *University of Duisburg-Essen*.
 
 ## Projects and funding
 
@@ -138,10 +138,10 @@ Nowadays, I'm less involved in structured, academic teaching but mostly teach an
 **Honorable Mention Paper Award**, "Mensch und Computer" (M&C) conference of the German Informatics Society (GI).
 
 `2015`
-**Best Graduate of the faculty**, University of Siegen, Germany.
+**Best Graduate of the faculty**, University of Siegen.
 
 `2014`
-**Scholarship** *Tallinn Summer School on research methods in Human-Computer interaction*, University of Siegen, Germany.
+**Scholarship** *Tallinn Summer School on research methods in Human-Computer interaction*, University of Siegen.
 
 `2013`
 **First Prize** *Student Usability Challenge*, German Informatics Society (GI).
