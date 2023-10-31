@@ -45,11 +45,11 @@ Fab Lab Manager & Founder
 
 `2023-today`
 **Maker in Residence** is an effort at RUB-Makerspace to invite interesting *Makers* from different disciplines to come, work here, share knowledge and create something that stays permanently. I co-led the first two funding rounds and managed the 2023 residency.  
-*Regional donors, about 20k p.a.*
+*Regional donors, 20-40.000€ p.a.*
 
 `2022-2024`
 **MentorINN** is a joint project between three local universities to found [*Ruhr School of Design Thinking*](https://www.isse.ruhr-uni-bochum.de/ruhr-school-of-design-thinking/), to better implement Design Thinking in interdisciplinary teaching and to share teaching material and concepts between the universities. I was part of the proposal team and occasionally helped in the project.  
-*Stiftung Innovation in der Hochschullehre ('foundation for digital teaching in academia'), about 20k.*
+*Stiftung Innovation in der Hochschullehre ('foundation for digital teaching in academia'), about 20.000€.*
 
 `2019-2022`
 **SMAPS** [- the center for smart production systems](https://www.smaps.org/) - was a research-infrastructure project on additive fabrication and smart systems for industrial tooling (mainly forming processes). I was part of the proposal team and briefly involved in the ramp-up and procurement phase.  
@@ -166,13 +166,13 @@ Rudimentary:  French
 
 ## Links
 
-[makerspace.rub.de](https://makerspace.rub.de)
+[makerspace.rub.de](https://makerspace.rub.de) and [RUB-Makerspace on GitLab](https://git.noc.ruhr-uni-bochum.de/makerspace/)
 
 [fablab-siegen.de](https://fablab-siegen.de) and [Fab Lab Siegen on GitHub](https://github.com/orgs/FabLabSiegen)
 
 [fab101.de](https://fab101.de)
 
-[fab-universe.de](https://fab-universe.de)
+[fab-universe.github.io/website/](https://fab-universe.github.io/website/)
 
 [yallah.exchange](https://yallah.exchange) and [exhibition.yallah.exchange](https://exhibition.yallah.exchange)
 
