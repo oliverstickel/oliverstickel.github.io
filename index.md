@@ -148,7 +148,7 @@ Nowadays, I'm less involved in structured, academic teaching but mostly teach an
 
 ## Skills in Keywords
 
-**Making** - Rapid Prototyping (many different methods), CAD/CAM, general (basic) coding, (traditional) web development, electronics and integrated systems for rapid prototyping. Makerspace operation / management / safety.
+**Making** - Makerspace operation / management / safety. Rapid Prototyping (many different methods), CAD/CAM, general (basic) coding, (traditional) web development, electronics and integrated systems for rapid prototyping, basic skills in different crafts / workshop and lab areas.
 
 **Human Centered Design** - UX design, HCI, usability methods, design thinking, convergence of agile and user centered methods. 
 
