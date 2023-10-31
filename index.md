@@ -65,7 +65,7 @@ Fab Lab Manager & Founder
 
 `2016-2018`
 **ZEIT.RAUM Siegen** was a project between a regional museum, three university chairs and [Fab Lab Siegen](https://fablab-siegen.de/projekte/zeitraum-siegen/) to [develop](https://github.com/FabLabSiegen/zeitraum) a 3D-printed, interactive city model and a [regional Wiki](https://wiki.zeitraum-siegen.de/) for a museum installation. I coordinated the ideation phase, wrote most of the proposals and was part of the negotiation team. In the project, I built the first prototypes for model and wiki and recruited the project staff.  
-*Regional societies, University of Siegen, other sources, about 190.000€ ([funding brochure](files/zeitraum-siegen-broschuere.pdf)).*
+*Regional societies, University of Siegen, other sources, about 190.000€ ([funding brochure I designed](files/zeitraum-siegen-broschuere.pdf)).*
 
 `2015-2016`
 **Internet-Cafe4Refugees** was a project we set up when Uni Siegen housed hundreds of refugees. We provided tech support, hardware and internet connection together with the local [freifunk.net](https://freifunk.net/) community.   
@@ -73,7 +73,7 @@ Fab Lab Manager & Founder
 
 `2013-today`
 **Fab Lab Siegen** was *[my baby](https://fablab-siegen.de)* for many years and my first real experience in regards to being a founder and the world of fundraising. My old team is still running and growing the Lab and it has become local infrastructure.  
-*Calls for student projects, donations, other sources, about 100.000€ in money and more in hardware donations during the first three years (later, funding strategies changed when the project became official university infrastructure). The spaces for the lab were and are co-sponsored by private-public partnerships.*
+*Calls for student projects, donations, other sources, about 100.000€ in money and more in hardware donations during the first three years. Later, funding strategies changed when the project became official university infrastructure. The spaces for the lab were and are co-sponsored by private-public partnerships.*
 
 `2012-2015`
 **CUBES** was a research project on community-based innovation in software and usability for small and medium sized enterprises. I was involved as a student, then researcher, then (interim) project manager for the [project reporting and closing](https://www.tib.eu/de/suchen?tx_tibsearch_search%5Baction%5D=download&tx_tibsearch_search%5Bcontroller%5D=Download&tx_tibsearch_search%5Bdocid%5D=TIBKAT%3A872262936&cHash=7d56fa41baf92a721f58064874672f4a#download-mark).  
