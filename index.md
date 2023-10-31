@@ -28,7 +28,7 @@ Fab Lab Manager & Founder
 **Guest researcher, consultant**. Field research, consultations and development of joint project proposals in/with collaborators from the Middle East. *University of Birzeit, Univ. of Technology Oman, Goethe Institute, others*, (mostly) Palestine.
 
 `2013-2019`
-**Founder and manager**. I founded [Fab Lab Siegen](https://fablab-siegen.de) and managed it on its journey from a student initiative in a literal storage room on campus outside the city to a wonder- and colorful, open and community-oriented space of about 300sqm filled with people, ideas, tools and machines right in the city center. *Siegen*.
+**Founder and manager**. I founded [Fab Lab Siegen](https://fablab-siegen.de) and managed it on its journey from a student initiative in a literal storage room on campus outside the city to a wonder- and colorful, open and community-oriented space of about 300sqm with a funded team and filled with people, ideas, tools and machines right in the city center. *Siegen*.
 
 `2009-2015`
 **TA, student researcher**. During my student times, I was a teaching assistant (mostly in HCI), assisted in different research projects (mostly with qualitative field research) and was in IT and media tech support/maintenance. *Universities of Siegen and Duisburg-Essen*.
