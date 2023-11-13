@@ -130,7 +130,7 @@ I enjoy teaching and learning a lot. At Uni Siegen, I've been responsible for th
 
 As a thesis advisor and co-advisor, I have accompanied about 8 Bachelor and Master Students along their paths to graduation. Topics have varied from participatory-design-oriented field investigations to studies about Makerspaces in teacher training to engineering and fabrication of additive tools for industrial processes. Additionally, I've been involved in co-advising state-certified technicians as a pilot project between a university and a technical vocational college. 
 
-Nowadays, I'm less involved in structured, academic teaching but mostly teach and learn whatever is needed to help many different Makerspace community members from (many different) disciplines with their - many different - projects.
+Nowadays, I'm less involved in structured, academic teaching but mostly teach and learn whatever is needed to help many different Makerspace community members from (many different) disciplines with their - many different - projects. I also deliver lots of safety introductions and basic orientation courses for rapid prototyping machines and infrastructure.
 
 ## Awards and honors
 
