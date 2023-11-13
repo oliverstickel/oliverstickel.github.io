@@ -118,7 +118,7 @@ Fab Lab Manager & Founder
 
 ## Community roles
 
-I co-organized Fab:UNIverse multiple times - it's a conference for Fab Lab managers at universities. I've also (co-)organized a lot of different events, temporary (Maker)spaces and meetups such as the Usability Day Siegen (2014-2018). 
+I co-organized [Fab:UNIverse](https://fab-universe.github.io/website/) multiple times and co-maintain its website. Fab:UNIverse is an annual conference for Fab Lab managers at universities in Germany. I've also (co-)organized a lot of different events, temporary (Maker)spaces and meetups such as the Usability Day Siegen (2014-2018). 
 
 I have been an elected member of different bodies of (self)-governance such as the Senate commission on Strategic University Development at Uni Siegen and head of the student representatives ("Fachschaftsräte") at Uni Duisburg-Essen and at Uni Siegen respectively. Occasionally, I've been asked to fill roles in expert committees (mostly in relation to innovation and community spaces). 
 
