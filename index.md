@@ -15,7 +15,7 @@ Fab Lab Manager & Founder
 
 ## Experience
 
-`2019-today`
+`2015-today`
 **Self-employed researcher, consultant & writer**. Consultation work for organizations interested in Fab Labs, Makerspaces and (Community) Innovation Spaces. Book project "[Handbuch Fab Labs](https://www.bombini-verlag.de/shop/handbuch-fab-labs/)".
 
 `2020-2023`
