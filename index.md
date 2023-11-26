@@ -169,13 +169,13 @@ Rudimentary:  French
 
 ## Links
 
-[makerspace.rub.de](https://makerspace.rub.de) / [GitLab](https://git.noc.ruhr-uni-bochum.de/makerspace/) / [video tour](https://www.youtube.com/watch?v=N0KiLeKibaY)
+[makerspace.rub.de](https://makerspace.rub.de) / [on GitLab](https://git.noc.ruhr-uni-bochum.de/makerspace/) / [video tour](https://www.youtube.com/watch?v=N0KiLeKibaY)
 
-[fablab-siegen.de](https://fablab-siegen.de) / [GitHub](https://github.com/orgs/FabLabSiegen) / videos: [Campus](https://www.youtube.com/watch?v=A6xB28BSVdM), ["Herrengarten"](https://www.youtube.com/shorts/nVQs8ky4XDs), [current space](https://www.youtube.com/watch?v=sX62ZnqTbbc)
+[fablab-siegen.de](https://fablab-siegen.de) / [on GitHub](https://github.com/orgs/FabLabSiegen) / videos: [2018 - on Campus](https://www.youtube.com/watch?v=A6xB28BSVdM), [2020 - "Herrengarten"](https://www.youtube.com/shorts/nVQs8ky4XDs), [2023 - current space](https://www.youtube.com/watch?v=sX62ZnqTbbc)
 
 [fab101.de](https://fab101.de)
 
-[fab-universe.de](https://fab-universe.de) / [GitHub](https://github.com/fabuniverse/)
+[fab-universe.de](https://fab-universe.de) / [on GitHub](https://github.com/fabuniverse/)
 
 [yallah.exchange](https://yallah.exchange) / [exhibition.yallah.exchange](https://exhibition.yallah.exchange)
 
