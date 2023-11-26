@@ -119,7 +119,7 @@ Fab Lab Manager & Founder
 
 ## Community roles
 
-I (co-)chaired [Fab:UNIverse](https://fab-universe.de) - the annual conference of Fab Lab managers at German universities - multiple times and help maintain its website. I've also (co-)organized many different events, temporary (Maker)spaces and meetups such as the World Usability Day Siegen (2014-2018). I'm a member of the [Verbund Offener Werkstätten](https://www.offene-werkstaetten.org), the global [Fab Lab network](https://fablabs.io) and the United Services Trade Union [ver.di](https://www.verdi.de).
+I (co-)chaired [Fab:UNIverse](https://fab-universe.de) - the annual conference of Fab Lab managers at German universities - multiple times and help maintain its website. I've also (co-)organized many different events, temporary (Maker)spaces and meetups such as the World Usability Day Siegen (2014-2018). I'm a member of the [Verbund Offener Werkstätten](https://www.offene-werkstaetten.org), the global [Fab Lab network](https://fablabs.io) and the United Services Trade Union [ver.di](https://www.verdi.de).  
 
 I have been an elected member of different bodies of (self)-governance such as the Senate commission on Strategic University Development at Uni Siegen and head of the student representatives ("Fachschaftsräte") at Uni Duisburg-Essen and at Uni Siegen respectively. Occasionally, I've been asked to join expert committees about innovation and community spaces. 
 
