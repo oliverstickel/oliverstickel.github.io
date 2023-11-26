@@ -11,6 +11,7 @@ Fab Lab Manager & Founder
   <a href="http://www.oliverstickel.de"><i class="fas fa-home"></i> oliverstickel.de </a><br/> 
   <a href="http://www.oliverstickel.de/cv.pdf"><i class="fas fa-file-pdf"></i> oliverstickel.de/cv.pdf</a><br/>
   <a href="https://researchgate.net/profile/oliver-stickel"><i class="fab fa-researchgate"></i> researchgate.net/profile/oliver-stickel</a><br/>  
+  <a href="https://github.com/oliverstickel"><i class="fab fa-github"></i> github.com/oliverstickel</a><br/> 
 </div>
 
 ## Experience
