@@ -172,7 +172,7 @@ Rudimentary:  French
 
 [fab101.de](https://fab101.de)
 
-[fab-universe.de](https://fab-universe.de)
+[fab-universe.de](https://fab-universe.de) / [on GitHub](https://github.com/fabuniverse/)
 
 [yallah.exchange](https://yallah.exchange) / [exhibition.yallah.exchange](https://exhibition.yallah.exchange)
 
