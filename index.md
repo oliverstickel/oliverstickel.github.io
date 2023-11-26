@@ -40,16 +40,16 @@ Fab Lab Manager & Founder
 **M.Sc. Human Computer Interaction** (honors) - Socio-technical systems design based on qualitative methods. *University of Siegen*.
 
 `2009-2012`
-**B.Sc. Applied Cognitive and Media Sciences** - Combination of Computer Science and Psychology (without the advanced engineering and clinical aspects, respectively), grounded in quantitative methods. *University of Duisburg-Essen*.
+**B.Sc. Applied Cognitive and Media Sciences** - Computer Science and Psychology (without the advanced engineering and clinical aspects, respectively), grounded in quantitative methods. *University of Duisburg-Essen*.
 
 ## Projects and funding
 
 `2023-today`
-**Maker in Residence** is an effort at RUB-Makerspace to invite interesting *Makers* from different disciplines to come, work here, share knowledge and create something that stays permanently. I co-led the first two funding rounds and managed the 2023 residency.  
+**Maker in Residence** is an effort at RUB-Makerspace to invite *Makers* from different disciplines to share knowledge. I co-led the first two funding rounds and managed the 2023 residency.  
 *Regional donors, 20-40.000€ p.a.*
 
 `2022-2024`
-**MentorINN** is a joint project between three local universities to found [*Ruhr School of Design Thinking*](https://www.isse.ruhr-uni-bochum.de/ruhr-school-of-design-thinking/), to better implement Design Thinking in interdisciplinary teaching and to share teaching material and concepts between the universities. I was part of the proposal team and occasionally helped in the project.  
+**MentorINN** is a project between three universities to found [*Ruhr School of Design Thinking*](https://www.isse.ruhr-uni-bochum.de/ruhr-school-of-design-thinking/), to support Design Thinking in academic teaching and to share course material. I was part of the proposal team and occasionally helped in the project.  
 *Stiftung Innovation in der Hochschullehre ('foundation for digital teaching in academia'), about 20.000€.*
 
 `2019-2022`
@@ -57,15 +57,15 @@ Fab Lab Manager & Founder
 *European EFRE-fund (EFRE.NRW), about 3m€.* 
 
 `2017-2020`
-**FAB 101** [was a joint research project](https://fab101.de) of four German universities on Fab Labs and digital fabrication in academia. It focused on cooperation, tools, education and infrastructure. I developed the core idea for the project, led the proposal and was overall project manager as well as part of the operative team.  
+**FAB 101** [was a research project](https://fab101.de) of four German universities on Fab Labs in academia. It focused on cooperation, tools, education and infrastructure. I developed the core idea, led the proposal and was overall project manager as well as part of the operative team.  
 *Federal Ministry of Education and Research, about 1.2m€.* 
 
 `2016-2018`
-**YALLAH** - "You All Are Hackers" [was a student exchange / hackathon project](https://yallah.exchange/). Students from Palestine and Germany visited each other for multiple stays, worked on socio-economical issues using "maker-methods" and created an [art exhibition](https://exhibition.yallah.exchange/ ). I had the project idea after my own visits to Palestine as a student, led the proposal and helped to recruit and set up the staff who took over the project.  
+**YALLAH** - "You All Are Hackers" [was a student exchange / hackathon project](https://yallah.exchange/). Students from Palestine and Germany visited each other, worked on socio-economical issues using "maker-methods" and created an [art exhibition](https://exhibition.yallah.exchange/). I developed the core idea after my own visits to Palestine as a student, led the proposal and helped recruit and set up the staff who took over.
 *German Academic Exchange Service (DAAD), about 225.000€.*
 
 `2016-2018`
-**ZEIT.RAUM Siegen** was a project between a regional museum, three university chairs and [Fab Lab Siegen](https://fablab-siegen.de/projekte/zeitraum-siegen/) to [develop](https://github.com/FabLabSiegen/zeitraum) a 3D-printed, interactive city model and a [regional Wiki](https://wiki.zeitraum-siegen.de/) for a museum installation. I coordinated the ideation phase, wrote most of the proposals and was part of the negotiation team. In the project, I built the first prototypes for model and wiki and recruited the project staff.  
+**ZEIT.RAUM Siegen** was a project between a museum, three university chairs and [Fab Lab Siegen](https://fablab-siegen.de/projekte/zeitraum-siegen/) to [develop](https://github.com/FabLabSiegen/zeitraum) a 3D-printed, interactive city model and a [regional Wiki](https://wiki.zeitraum-siegen.de/) for a museum installation. I coordinated the ideation phase, wrote most of the proposals, was part of the negotiation team, built the first prototypes for model and wiki and recruited the project staff.  
 *Regional societies, University of Siegen, other sources, about 190.000€ ([funding brochure I designed](files/zeitraum-siegen-broschuere.pdf)).*
 
 `2015-2016`
@@ -119,15 +119,15 @@ Fab Lab Manager & Founder
 
 ## Community roles
 
-I (co-)chaired [Fab:UNIverse](https://fab-universe.de) multiple times and help maintain its website. Fab:UNIverse is the annual conference for Fab Lab managers at universities in Germany. I've also (co-)organized a lot of different events, temporary (Maker)spaces and meetups such as the Usability Day Siegen (2014-2018). I'm a member of the Association for Open Workshops [Verbund Offener Werkstätten](https://www.offene-werkstaetten.org), the global [Fab Lab network](https://fablabs.io) and the United Services Trade Union [ver.di](https://www.verdi.de).
+I (co-)chaired [Fab:UNIverse](https://fab-universe.de) - the annual conference of Fab Lab managers at German universities - multiple times and help maintain its website. I've also (co-)organized many different events, temporary (Maker)spaces and meetups such as the World Usability Day Siegen (2014-2018). I'm a member of the [Verbund Offener Werkstätten](https://www.offene-werkstaetten.org), the global [Fab Lab network](https://fablabs.io) and the United Services Trade Union [ver.di](https://www.verdi.de).
 
-I have been an elected member of different bodies of (self)-governance such as the Senate commission on Strategic University Development at Uni Siegen and head of the student representatives ("Fachschaftsräte") at Uni Duisburg-Essen and at Uni Siegen respectively. Occasionally, I've been asked to fill roles in expert committees (mostly in relation to innovation and community spaces). 
+I have been an elected member of different bodies of (self)-governance such as the Senate commission on Strategic University Development at Uni Siegen and head of the student representatives ("Fachschaftsräte") at Uni Duisburg-Essen and at Uni Siegen respectively. Occasionally, I've been asked to join expert committees about innovation and community spaces. 
 
 As a researcher, I was reviewer/chair for conferences and journals like [CHI](https://dl.acm.org/conference/chi/proceedings), [JCSCW](https://www.springer.com/journal/10606), [C&T](https://dl.acm.org/conference/c-n-t) or [M&C](https://mensch-und-computer.de/). 
 
 ## Teaching
 
-I enjoy teaching and learning a lot. I've always made it a point to try and be open in teaching and have frequently had students from other faculties or external guests in my seminars.  At Uni Siegen, I've been responsible for the practical part (and a lot of the lectures) of the annual [introduction to Human Computer Interaction](https://hci-siegen.de/order-of-study/) for many years, i.e. mentoring up to 40 students per iteration through big, semester-long projects ending in submissions to and [wins in](https://www.uni-siegen.de/start/news/oeffentlichkeit/654454.html) national [student challenges](https://hci-siegen.de/tag/usability-challenge/). Additionally, I've held many different [seminars](https://fablab-siegen.de/veranstaltungen/lehr-angebote-fab-lab-siegen-sommersemester-2017/) ranging from reading classes on literature about "Making" to very [practical seminars](https://fablab-siegen.de/veranstaltungen/lv-3d-druck-1516/) on [rapid prototyping methods](https://fablab-siegen.de/veranstaltungen/lv-arduino-1516/). At Ruhr-Uni Bochum, I was less involved in structured, academic teaching but tought and learned whatever was needed to help many different Makerspace community members from (many different) disciplines with their - many different - projects. I've also held lots of safety and infrastructure introductions.
+I enjoy teaching and learning a lot. I've always made it a point to try and be open in teaching and have frequently had students from other faculties or external guests in my seminars.  At Uni Siegen, I've been responsible for the practical part (and a lot of the lectures) of the annual [introduction to Human Computer Interaction](https://hci-siegen.de/order-of-study/) for many years, i.e. mentoring up to 40 students per iteration through big, semester-long projects ending in submissions to and [wins in](https://www.uni-siegen.de/start/news/oeffentlichkeit/654454.html) national [student challenges](https://hci-siegen.de/tag/usability-challenge/). Additionally, I've held many different [seminars](https://fablab-siegen.de/veranstaltungen/lehr-angebote-fab-lab-siegen-sommersemester-2017/) ranging from reading classes on literature about "Making" to very [practical seminars](https://fablab-siegen.de/veranstaltungen/lv-3d-druck-1516/) on [rapid prototyping methods](https://fablab-siegen.de/veranstaltungen/lv-arduino-1516/). At Ruhr-Uni Bochum, I was less involved in structured, academic teaching but tought and learned whatever was needed to help many different Makerspace community members from (many different) disciplines with their - many different - projects. I've also held lots of safety and infrastructure introductions.  
 
 
 As a thesis advisor and co-advisor, I have accompanied about 8 Bachelor and Master Students along their paths to graduation. Topics have varied from participatory-design-oriented field investigations to studies about Makerspaces in teacher training to engineering and fabrication of additive tools for industrial processes. Additionally, I've been involved in co-advising state-certified technicians as a pilot project between a university and a technical vocational college. 
