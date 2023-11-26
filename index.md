@@ -166,17 +166,15 @@ Rudimentary:  French
 
 ## Links
 
-[makerspace.rub.de](https://makerspace.rub.de), [RUB-Makerspace on GitLab](https://git.noc.ruhr-uni-bochum.de/makerspace/), [video tour](https://www.youtube.com/watch?v=N0KiLeKibaY)
+[makerspace.rub.de](https://makerspace.rub.de) / [RUB-Makerspace on GitLab](https://git.noc.ruhr-uni-bochum.de/makerspace/) / [video tour](https://www.youtube.com/watch?v=N0KiLeKibaY)
 
-[fablab-siegen.de](https://fablab-siegen.de) and [Fab Lab Siegen on GitHub](https://github.com/orgs/FabLabSiegen)
-
-Video Tours through Fab Lab Siegen: [On campus](https://www.youtube.com/watch?v=A6xB28BSVdM), [at "Herrengarten"](https://www.youtube.com/shorts/nVQs8ky4XDs), [current space](https://www.youtube.com/watch?v=sX62ZnqTbbc).
+[fablab-siegen.de](https://fablab-siegen.de) / [Fab Lab Siegen on GitHub](https://github.com/orgs/FabLabSiegen) / video tours: [On campus](https://www.youtube.com/watch?v=A6xB28BSVdM), [at "Herrengarten"](https://www.youtube.com/shorts/nVQs8ky4XDs), [current space](https://www.youtube.com/watch?v=sX62ZnqTbbc).
 
 [fab101.de](https://fab101.de)
 
 [fab-universe.de](https://fab-universe.de)
 
-[yallah.exchange](https://yallah.exchange) and [exhibition.yallah.exchange](https://exhibition.yallah.exchange)
+[yallah.exchange](https://yallah.exchange) / [exhibition.yallah.exchange](https://exhibition.yallah.exchange)
 
 [Interview "Deutsche Welle" about Fab Labs](https://www.dw.com/de/fablab-gemeinsam-t%C3%BCftelts-sich-leichter/a-49714943)
 
@@ -190,7 +188,7 @@ Video Tours through Fab Lab Siegen: [On campus](https://www.youtube.com/watch?v=
 
 [Guest lecture on Socio-Informatics at RWTH Aachen](https://podcasts.apple.com/de/podcast/12-socio-informatiks-oliver-stickel/id1374020313?i=1000416862043&l=en)
 
-[Usability-Methodenfinder / Usability Method Finder](https://www.usability-siegen.de/)
+[Usability Method Finder](https://www.usability-siegen.de/)
 
 [My old blog posts on the Fab Lab Siegen website](https://fablab-siegen.de/author/oliver_dummy/)
 
