@@ -170,7 +170,7 @@ Rudimentary:  French
 
 [fablab-siegen.de](https://fablab-siegen.de) and [Fab Lab Siegen on GitHub](https://github.com/orgs/FabLabSiegen)
 
-Video Tours through some of the historical Fab Lab Siegen spaces: [On campus](https://www.youtube.com/watch?v=A6xB28BSVdM), [at "Herrengarten"](https://www.youtube.com/shorts/nVQs8ky4XDs), [current space](https://www.youtube.com/watch?v=sX62ZnqTbbc).
+Video Tours through Fab Lab Siegen: [On campus](https://www.youtube.com/watch?v=A6xB28BSVdM), [at "Herrengarten"](https://www.youtube.com/shorts/nVQs8ky4XDs), [current space](https://www.youtube.com/watch?v=sX62ZnqTbbc).
 
 [fab101.de](https://fab101.de)
 
