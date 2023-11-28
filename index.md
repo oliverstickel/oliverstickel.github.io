@@ -5,12 +5,12 @@ title: Oliver Stickel
 # Oliver Stickel
 Fab Lab Manager & Founder
 
-<a href="mailto:kontakt@oliverstickel.de"><i class="fas fa-user"></i> kontakt@oliverstickel.de</a> / <a href="mailto:info@meta-lab-rhein-ruhr.de"><i class="fas fa-wrench"></i> info@meta-lab-rhein-ruhr.de </a><br/> 
-<a href="tel:+4923452004912"><i class="fas fa-phone"></i> +49 (0)234 5200 4912</a> |  <i class="fas fa-fax"></i> +49 (0)32 2299 8662 337 <br/> 
+<a href="mailto:kontakt@oliverstickel.de"><i class="fas fa-user"></i> kontakt@oliverstickel.de</a> / <a href="mailto:info@meta-lab-rhein-ruhr.de"><i class="fas fa-wrench"></i> info@mlrr.de </a><br/> 
+<a href="tel:+4923452004912"><i class="fas fa-phone"></i> +49 (0)234 5200 4912</a> |  <i class="fas fa-fax"></i> 03222998662337 <br/> 
 
 <div id="webaddress">
-  <a href="http://www.oliverstickel.de"><i class="fas fa-home"></i> oliverstickel.de </a> / <a href="http://www.oliverstickel.de/cv.pdf"><i class="fas fa-file-pdf"></i> oliverstickel.de/cv.pdf</a><br/>
-  <a href="https://orcid.org/0009-0009-2787-4975"><i class="fas fa-graduation-cap"></i> ORCID </a> / <a href="https://scholar.google.de/citations?user=K1WQRFsAAAAJ"><i class="fab fa-google"></i> Google Scholar </a> / <a href="https://researchgate.net/profile/oliver-stickel"><i class="fab fa-researchgate"></i> ResearchGate </a><br/>
+  <a href="http://www.oliverstickel.de"><i class="fas fa-home"></i> oliverstickel.de </a> / <a href="http://www.oliverstickel.de/cv.pdf"><i class="fas fa-file-pdf"></i> cv.pdf</a><br/>
+  <a href="https://orcid.org/0009-0009-2787-4975"><i class="fas fa-graduation-cap"></i> ORCID </a> / <a href="https://scholar.google.de/citations?user=K1WQRFsAAAAJ"><i class="fab fa-google"></i> Scholar </a> / <a href="https://researchgate.net/profile/oliver-stickel"><i class="fab fa-researchgate"></i> ResearchGate </a><br/>
   <a href="https://github.com/oliverstickel"><i class="fab fa-github"></i> github.com/oliverstickel </a><br/> 
 </div>
 
@@ -127,7 +127,9 @@ As a researcher, I was reviewer/chair for conferences and journals like [CHI](ht
 I enjoy teaching and learning a lot. I've always made it a point to try and be open in teaching and have frequently had students from other faculties or external guests in my seminars.  At Uni Siegen, I've been responsible for the practical part (and a lot of the lectures) of the annual [introduction to Human Computer Interaction](https://hci-siegen.de/order-of-study/) for many years, i.e. mentoring up to 40 students per iteration through big, semester-long projects ending in submissions to and [wins in](https://www.uni-siegen.de/start/news/oeffentlichkeit/654454.html) national [student challenges](https://hci-siegen.de/tag/usability-challenge/). Additionally, I've held many different [seminars](https://fablab-siegen.de/veranstaltungen/lehr-angebote-fab-lab-siegen-sommersemester-2017/) ranging from reading classes on literature about "Making" to very [practical seminars](https://fablab-siegen.de/veranstaltungen/lv-3d-druck-1516/) on [rapid prototyping methods](https://fablab-siegen.de/veranstaltungen/lv-arduino-1516/).  
 
 
-At Ruhr-Uni Bochum, I was less involved in structured, academic teaching but tought and learned whatever was needed to help many different Makerspace community members from (many different) disciplines with their - many different - projects. I've also held lots of safety and infrastructure introductions.  
+At Ruhr-Uni Bochum, I was less involved in structured, academic teaching but tought and learned whatever was needed to help many different Makerspace community members from (many different) disciplines with their - many different - projects.  
+
+I've also developed and held lots of safety and infrastructure introductions.  
 
 
 As a thesis advisor and co-advisor, I have accompanied about 8 Bachelor and Master Students along their paths to graduation. Topics have varied from participatory-design-oriented field investigations to studies about Makerspaces in teacher training to engineering and fabrication of additive tools for industrial processes. Additionally, I've been involved in co-advising state-certified technicians as a pilot project between a university and a technical vocational college. 
