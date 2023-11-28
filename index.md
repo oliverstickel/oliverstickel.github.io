@@ -5,7 +5,7 @@ title: Oliver Stickel
 # Oliver Stickel
 Fab Lab Manager & Founder
 
-<a href="mailto:kontakt@oliverstickel.de">kontakt@oliverstickel.de</a> / +49 (0)234 5200 4912 
+<a href="mailto:kontakt@oliverstickel.de">kontakt@oliverstickel.de</a> / <a href="tel:+4923452004912"><i class="fas fa-phone">+49 (0)234 5200 4912</i> oliverstickel.de </a><br/> 
 
 <div id="webaddress">
   <a href="http://www.oliverstickel.de"><i class="fas fa-home"></i> oliverstickel.de </a><br/> 
