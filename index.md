@@ -200,4 +200,4 @@ Rudimentary:  French
 
 Birth date: 12 June 1987
 
-I enjoy camping, kayaking, cooking and good books.
+I enjoy camping, water, (working on) motorbikes, cooking and books.
