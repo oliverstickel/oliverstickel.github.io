@@ -114,9 +114,6 @@ Fab Lab Manager & Founder
 [**Towards Sociable Technologies: An Empirical Study on Designing Appropriation Infrastructures for 3D Printing**](files/10.1145-2598510.2598528.pdf) by Thomas Ludwig, Oliver Stickel, Alexander Boden, Volkmar Pipek. *Proceedings of the Designing Interactive Systems Conference (DIS) '14, pp. 835–844.* 
 
 
-*Full publication list: [researchgate.net/profile/oliver-stickel](https://www.researchgate.net/profile/Oliver-Stickel).*
-
-
 ## Community roles
 
 I (co-)chaired [Fab:UNIverse](https://fab-universe.de) - the annual conference of Fab Lab managers at German universities - multiple times and help maintain its website. I've also (co-)organized many different events, temporary (Maker)spaces and meetups such as the World Usability Day Siegen (2014-2018). I'm a member of the [Verbund Offener Werkstätten](https://www.offene-werkstaetten.org), the global [Fab Lab network](https://fablabs.io) and the United Services Trade Union [ver.di](https://www.verdi.de).  
