@@ -5,11 +5,11 @@ title: Oliver Stickel
 # Oliver Stickel
 Fab Lab Manager & Founder
 
-<a href="mailto:kontakt@oliverstickel.de"><i class="fas fa-envelope"></i> kontakt@oliverstickel.de</a> / <a href="tel:+4923452004912"><i class="fas fa-phone"></i> +49 (0)234 5200 4912 </a><br/> 
+<a href="mailto:kontakt@oliverstickel.de"><i class="fas fa-envelope"></i> kontakt@oliverstickel.de</a><br/> 
+<a href="tel:+4923452004912"><i class="fas fa-phone"></i> +49 (0)234 5200 4912 </a> / <a href="fax:+493222998662337"><i class="fas fa-fax"></i> +49 (0)32 2299 8662 337 </a><br/> 
 
 <div id="webaddress">
-  <a href="http://www.oliverstickel.de"><i class="fas fa-home"></i> oliverstickel.de </a><br/> 
-  <a href="http://www.oliverstickel.de/cv.pdf"><i class="fas fa-file-pdf"></i> oliverstickel.de/cv.pdf</a><br/>
+  <a href="http://www.oliverstickel.de"><i class="fas fa-home"></i> oliverstickel.de </a> / <a href="http://www.oliverstickel.de/cv.pdf"><i class="fas fa-file-pdf"></i> oliverstickel.de/cv.pdf</a><br/>
   <a href="https://researchgate.net/profile/oliver-stickel"><i class="fab fa-researchgate"></i> researchgate.net/profile/oliver-stickel</a><br/>  
   <a href="https://github.com/oliverstickel"><i class="fab fa-github"></i> github.com/oliverstickel</a><br/> 
 </div>
