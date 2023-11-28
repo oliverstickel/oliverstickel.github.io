@@ -5,7 +5,7 @@ title: Oliver Stickel
 # Oliver Stickel
 Fab Lab Manager & Founder
 
-<a href="mailto:kontakt@oliverstickel.de"><i class="fas fa-envelope"></i> kontakt@oliverstickel.de</a><br/> 
+<a href="mailto:kontakt@oliverstickel.de"><i class="fas fa-envelope"></i> kontakt@oliverstickel.de</a> / <a href="mailto:kontakt@meta-lab-rhein-ruhr.de"><i class="fas fa-envelope"></i> kontakt@meta-lab-rhein-ruhr.de</a><br/> 
 <a href="tel:+4923452004912"><i class="fas fa-phone"></i> +49 (0)234 5200 4912 </a> / <a href="fax:+493222998662337"><i class="fas fa-fax"></i> +49 (0)32 2299 8662 337 </a><br/> 
 
 <div id="webaddress">
