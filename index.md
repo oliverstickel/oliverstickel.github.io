@@ -17,7 +17,7 @@ Fab Lab Manager & Founder
 ## Experience
 
 `2015-today`
-**Self-employed researcher, consultant & writer**. Consultation work for organizations interested in Fab Labs, Makerspaces and Community Innovation Spaces. Book project "[Handbuch Fab Labs](https://www.bombini-verlag.de/shop/handbuch-fab-labs/)". Meta-Lab Rhein-Ruhr (in formation).
+**Self-employed researcher, consultant & writer**. Consultation work for organizations interested in Fab Labs, Makerspaces and Community Innovation Spaces. Public and private grant proposals. Teaching. Book project "[Handbuch Fab Labs](https://www.bombini-verlag.de/shop/handbuch-fab-labs/)". Meta-Lab Rhein-Ruhr (in formation).
 
 `2020-2023`
 **Lab leader**. I was involved in the setup of [RUB-Makerspace](https://makerspace.rub.de) as deputy general manager as well as lab leader for the Digital Lab and the Plastics Lab. RUB-Makerspace is a 2000sqm space with a team of 16 people and multiple (sub-)labs. *Ruhr-Universität Bochum*.
@@ -36,11 +36,61 @@ Fab Lab Manager & Founder
 
 ## Education
 
+`2015-2919`
+`2023-today`
+**Dissertation work** - About Fab Labs and Makerspaces as (public) infrastructures. *University of Siegen and self-employed*.
+
+
 `2012-2015`
 **M.Sc. Human Computer Interaction** (honors) - Socio-technical systems design based on qualitative methods. *University of Siegen*.
 
 `2009-2012`
 **B.Sc. Applied Cognitive and Media Sciences** - Computer Science and Psychology (without advanced engineering and clinical aspects), grounded in quantitative methods. *University of Duisburg-Essen*.
+
+## Community roles
+
+I (co-)chaired [Fab:UNIverse](https://fab-universe.de) - the annual conference of Fab Lab managers at German universities - multiple times and help maintain its website. I've also (co-)organized many different events, temporary (Maker)spaces and meetups such as the World Usability Day Siegen (2014-2018). I'm a member of the [Verbund Offener Werkstätten](https://www.offene-werkstaetten.org), the global [Fab Lab network](https://fablabs.io) and the United Services Trade Union [ver.di](https://www.verdi.de).  
+
+I have been an elected member of different bodies of (self)-governance such as the Senate commission on Strategic University Development at Uni Siegen and head of the student representatives ("Fachschaftsräte") at Uni Duisburg-Essen and at Uni Siegen respectively. Occasionally, I've been asked to join expert committees about innovation and community spaces. 
+
+As a researcher, I was reviewer/chair for conferences and journals like [CHI](https://dl.acm.org/conference/chi/proceedings), [JCSCW](https://www.springer.com/journal/10606), [C&T](https://dl.acm.org/conference/c-n-t) or [M&C](https://mensch-und-computer.de/). 
+
+## Teaching
+
+I enjoy teaching and learning a lot. I've always made it a point to try and be open in teaching and have frequently had students from other faculties or external guests in my seminars.  At Uni Siegen, I've been responsible for the practical part (and a lot of the lectures) of the annual [introduction to Human Computer Interaction](https://hci-siegen.de/order-of-study/) for many years, i.e. mentoring up to 40 students per iteration through big, semester-long projects ending in submissions to and [wins in](https://www.uni-siegen.de/start/news/oeffentlichkeit/654454.html) national [student challenges](https://hci-siegen.de/tag/usability-challenge/). Additionally, I've held many different [seminars](https://fablab-siegen.de/veranstaltungen/lehr-angebote-fab-lab-siegen-sommersemester-2017/) ranging from reading classes on literature about "Making" to very [practical seminars](https://fablab-siegen.de/veranstaltungen/lv-3d-druck-1516/) on [rapid prototyping methods](https://fablab-siegen.de/veranstaltungen/lv-arduino-1516/).  
+
+
+At Ruhr-Uni Bochum, I was less involved in structured, academic teaching but tought and learned whatever was needed to help many different Makerspace community members from (many different) disciplines with their - many different - projects.  
+
+I've also developed and held lots of safety and infrastructure introductions.  
+
+
+As a thesis advisor and co-advisor, I have accompanied about 8 Bachelor and Master Students along their paths to graduation. Topics have varied from participatory-design-oriented field investigations to studies about Makerspaces in teacher training to engineering and fabrication of additive tools for industrial processes. Additionally, I've been involved in co-advising state-certified technicians as a pilot project between a university and a technical vocational college. 
+
+## Skills in Keywords
+
+**Making** - Makerspace operation / management / safety. Rapid Prototyping (many different methods), CAD/CAM, general (basic) coding, (traditional) web development, electronics and integrated systems for rapid prototyping, basic skills in different crafts / workshop and lab areas.
+
+**Human Centered Design** - UX design, HCI, usability methods, design thinking, convergence of agile and user centered methods. 
+
+**Projects and People** - Project development, social innovation, fundraising, agility / Skunkworks, community and team development, operations (with)in public service and public administration. 
+
+**Methods** - Constructionism, human-centered teaching and learning, mixed-methods, action and field research, participatory methods and participatory action research, (Maker-)space(s) as a method.
+
+## Languages
+
+Native: German
+
+Fluent: English
+
+Rudimentary:  French
+
+## Personal
+
+Birth date: 12 June 1987
+
+I enjoy camping, water, (working on) motorbikes, cooking and books.
+
 
 ## Projects and funding
 
@@ -80,7 +130,6 @@ Fab Lab Manager & Founder
 **CUBES** was a research project on community-based innovation in software and usability for small and medium sized enterprises. I was involved as a student, then researcher, then (interim) project manager for the [project reporting and closing](https://www.tib.eu/de/suchen?tx_tibsearch_search%5Baction%5D=download&tx_tibsearch_search%5Bcontroller%5D=Download&tx_tibsearch_search%5Bdocid%5D=TIBKAT%3A872262936&cHash=7d56fa41baf92a721f58064874672f4a#download-mark).  
 *Federal Ministry for Economic Affairs and Energy, about 800.000€.*
 
-
 ## Selected Publications
 
 `2021`
@@ -113,27 +162,6 @@ Fab Lab Manager & Founder
 `2014`
 [**Towards Sociable Technologies: An Empirical Study on Designing Appropriation Infrastructures for 3D Printing**](files/10.1145-2598510.2598528.pdf) by Thomas Ludwig, Oliver Stickel, Alexander Boden, Volkmar Pipek. *Proceedings of the Designing Interactive Systems Conference (DIS) '14, pp. 835–844.* 
 
-
-## Community roles
-
-I (co-)chaired [Fab:UNIverse](https://fab-universe.de) - the annual conference of Fab Lab managers at German universities - multiple times and help maintain its website. I've also (co-)organized many different events, temporary (Maker)spaces and meetups such as the World Usability Day Siegen (2014-2018). I'm a member of the [Verbund Offener Werkstätten](https://www.offene-werkstaetten.org), the global [Fab Lab network](https://fablabs.io) and the United Services Trade Union [ver.di](https://www.verdi.de).  
-
-I have been an elected member of different bodies of (self)-governance such as the Senate commission on Strategic University Development at Uni Siegen and head of the student representatives ("Fachschaftsräte") at Uni Duisburg-Essen and at Uni Siegen respectively. Occasionally, I've been asked to join expert committees about innovation and community spaces. 
-
-As a researcher, I was reviewer/chair for conferences and journals like [CHI](https://dl.acm.org/conference/chi/proceedings), [JCSCW](https://www.springer.com/journal/10606), [C&T](https://dl.acm.org/conference/c-n-t) or [M&C](https://mensch-und-computer.de/). 
-
-## Teaching
-
-I enjoy teaching and learning a lot. I've always made it a point to try and be open in teaching and have frequently had students from other faculties or external guests in my seminars.  At Uni Siegen, I've been responsible for the practical part (and a lot of the lectures) of the annual [introduction to Human Computer Interaction](https://hci-siegen.de/order-of-study/) for many years, i.e. mentoring up to 40 students per iteration through big, semester-long projects ending in submissions to and [wins in](https://www.uni-siegen.de/start/news/oeffentlichkeit/654454.html) national [student challenges](https://hci-siegen.de/tag/usability-challenge/). Additionally, I've held many different [seminars](https://fablab-siegen.de/veranstaltungen/lehr-angebote-fab-lab-siegen-sommersemester-2017/) ranging from reading classes on literature about "Making" to very [practical seminars](https://fablab-siegen.de/veranstaltungen/lv-3d-druck-1516/) on [rapid prototyping methods](https://fablab-siegen.de/veranstaltungen/lv-arduino-1516/).  
-
-
-At Ruhr-Uni Bochum, I was less involved in structured, academic teaching but tought and learned whatever was needed to help many different Makerspace community members from (many different) disciplines with their - many different - projects.  
-
-I've also developed and held lots of safety and infrastructure introductions.  
-
-
-As a thesis advisor and co-advisor, I have accompanied about 8 Bachelor and Master Students along their paths to graduation. Topics have varied from participatory-design-oriented field investigations to studies about Makerspaces in teacher training to engineering and fabrication of additive tools for industrial processes. Additionally, I've been involved in co-advising state-certified technicians as a pilot project between a university and a technical vocational college. 
-
 ## Awards and honors
 
 `2015`
@@ -148,25 +176,7 @@ As a thesis advisor and co-advisor, I have accompanied about 8 Bachelor and Mast
 `2013`
 **First Prize** *Student Usability Challenge*, German Informatics Society (GI).
 
-## Skills in Keywords
-
-**Making** - Makerspace operation / management / safety. Rapid Prototyping (many different methods), CAD/CAM, general (basic) coding, (traditional) web development, electronics and integrated systems for rapid prototyping, basic skills in different crafts / workshop and lab areas.
-
-**Human Centered Design** - UX design, HCI, usability methods, design thinking, convergence of agile and user centered methods. 
-
-**Projects and People** - Project development, social innovation, fundraising, agility / Skunkworks, community and team development, operations (with)in public service and public administration. 
-
-**Methods** - Constructionism, human-centered teaching and learning, mixed-methods, action and field research, participatory methods and participatory action research, (Maker-)space(s) as a method.
-
-## Languages
-
-Native: German
-
-Fluent: English
-
-Rudimentary:  French
-
-## Links
+## Additional links
 
 [makerspace.rub.de](https://makerspace.rub.de) / [on GitLab](https://git.noc.ruhr-uni-bochum.de/makerspace/) / [video tour](https://www.youtube.com/watch?v=N0KiLeKibaY)
 
@@ -193,10 +203,3 @@ Rudimentary:  French
 [Usability Method Finder](https://www.usability-siegen.de/)
 
 [My old blog posts on the Fab Lab Siegen website](https://fablab-siegen.de/author/oliver_dummy/)
-
-
-## Personal
-
-Birth date: 12 June 1987
-
-I enjoy camping, water, (working on) motorbikes, cooking and books.
