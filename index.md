@@ -77,19 +77,13 @@ As a thesis advisor and co-advisor, I have accompanied about 8 Bachelor and Mast
 
 **Methods** - Constructionism, human-centered teaching and learning, mixed-methods, action and field research, participatory methods and participatory action research, (Maker-)space(s) as a method.
 
-## Languages
-
-Native: German
-
-Fluent: English
-
-Rudimentary:  French
-
 ## Personal
 
-Birth date: 12 June 1987
+Birth date: 12 June 1987  
 
-I enjoy camping, water, (working on) motorbikes, cooking and books.
+Languages: German (native), English (fluent), French (very rudimentary).  
+
+I enjoy camping, water, (working on) motorbikes, cooking and books.  
 
 
 ## Projects and funding
@@ -156,6 +150,9 @@ I enjoy camping, water, (working on) motorbikes, cooking and books.
 `2015`
 [**3D Printing with Marginalized Children – An Exploration in a Palestinian Refugee Camp**](files/10.1007-978-3-319-20499-4.pdf) by Oliver Stickel, Dominik Hornung, Konstantin Aal, Markus Rohde, Volker Wulf. *Proceedings of the 14th European Conference on Computer Supported Cooperative Work (ECSCW) '15, pp. 83-102.*
 
+`2015`
+[**Praktiken der Nutzerintegration im Entwicklungsprozess von KMU**](files/10.1515-9783110443929-012.pdf) by Oliver Stickel, Corinna Ogonowski, Timo Jakobi, Gunnar Stevens, Volkmar Pipek, Volker Wulf. *Tagungsband der Mensch & Computer Konferenz (MuC) '15, pp. 103-112.*
+
 `2014`
 [**Bottom-Up Kultur in Siegen: Ein Bericht über aktuelle Strukturen, Entwicklungen und Umnutzungsprozesse**](files/10.14220-digo.2014.35.1.55.pdf) by Oliver Stickel, Alexander Boden, Gunnar Stevens, Volkmar Pipek, Volker Wulf. *In: DIAGONAL - University of Siegen's annual journal 35, pp. 55–70 (2014).*   
 
@@ -165,10 +162,13 @@ I enjoy camping, water, (working on) motorbikes, cooking and books.
 ## Awards and honors
 
 `2015`
-**Honorable Mention Paper Award**, "Mensch und Computer" (M&C) conference of the German Informatics Society (GI).
+**Honorable Mention Paper Award**, "Mensch und Computer" (M&C) conference of the German Informatics Society (GI) for *Praktiken der Nutzerintegration im Entwicklungsprozess von KMU* (see above).
 
 `2015`
-**Best Graduate of the faculty**, University of Siegen.
+**Arthur-Woll award** for an exemplary master's thesis , University of Siegen and association for the support of the economic faculty.
+
+`2015`
+**pwc award** for best graduate of the faculty, University of Siegen and PricewaterhouseCoopers.
 
 `2014`
 **Scholarship** *Tallinn Summer School on research methods in Human-Computer interaction*, University of Siegen.
