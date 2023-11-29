@@ -32,7 +32,7 @@ Fab Lab Manager & Founder
 **Founder and manager**. I founded [Fab Lab Siegen](https://fablab-siegen.de) and managed it on its journey from a student initiative in a literal storage room on campus outside the city through many locations to a big, wonderful, colorful, open and community-oriented space with a funded team and filled with people, ideas, tools and machines right in the city center. *Siegen*.
 
 `2009-2015`
-**TA, student researcher**. During my student times, I was a teaching assistant (mostly in HCI), assisted in different research projects (mostly with qualitative field research) and was in IT and media tech support/maintenance. *Universities of Siegen and Duisburg-Essen*.
+**TA, student researcher**. Teaching assistant (mostly in HCI), research assistant (mostly with qualitative field work), IT and media tech support/maintenance. *Universities of Siegen and Duisburg-Essen*.
 
 ## Education
 
