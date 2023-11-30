@@ -37,7 +37,7 @@ Fab Lab Manager & Founder
 
 ## Education
 
-`2015-today`
+`2015-today (sporadic)`
 **Dissertation work** - About Fab Labs and Makerspaces as (public) infrastructures. *University of Siegen and self-employed*.
 
 
