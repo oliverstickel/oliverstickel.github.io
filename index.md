@@ -3,7 +3,7 @@ layout: cv
 title: Oliver Stickel
 ---
 # Oliver Stickel
-Fab Lab Manager & Founder
+Fab Lab manager, researcher, founder
 
 <a href="mailto:kontakt@oliverstickel.de"><i class="fas fa-user"></i> kontakt@oliverstickel.de</a> / <a href="mailto:info@meta-lab-rhein-ruhr.de"><i class="fas fa-wrench"></i> info@mlrr.de </a><br/> 
 <a href="tel:+4923452004912"><i class="fas fa-phone"></i> +49 (0)234 5200 4912</a> |  <i class="fas fa-fax"></i> 03222998662337 <br/> 
