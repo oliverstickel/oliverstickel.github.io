@@ -102,7 +102,7 @@ I enjoy camping, water, (working on) motorbikes, cooking and books.
 *European EFRE-fund (EFRE.NRW), about 3m€.* 
 
 `2017-2020`
-**FAB 101** [was a research project](https://fab101.de) of four German universities on Fab Labs in academia. It focused on cooperation, tools, education and infrastructure. I developed the core idea, led the proposal and was overall project manager as well as part of the operative team.  
+**FAB 101** [was a research project](https://fab101.de) of four German universities on Fab Labs in academia. It focused on cooperation, tools, education and infrastructure. I developed the core idea, led the proposal, was project manager and part of the operative team.  
 *Federal Ministry of Education and Research, about 1.2m€.* 
 
 `2016-2018`
