@@ -122,7 +122,52 @@ I enjoy camping, water, (working on) motorbikes, cooking and books.
 **CUBES** was a research project on community-based innovation in software and usability for small and medium sized enterprises. I was involved as a student, then researcher, then (interim) project manager for the [project reporting and closing](https://www.tib.eu/de/suchen?tx_tibsearch_search%5Baction%5D=download&tx_tibsearch_search%5Bcontroller%5D=Download&tx_tibsearch_search%5Bdocid%5D=TIBKAT%3A872262936&cHash=7d56fa41baf92a721f58064874672f4a#download-mark).  
 *Federal Ministry for Economic Affairs and Energy, about 800.000€.*
 
-## Selected Publications
+## Awards and honors
+
+`2015`
+**Honorable Mention Paper Award**, "Mensch und Computer" (M&C) conference of the German Informatics Society (GI) for *Praktiken der Nutzerintegration im Entwicklungsprozess von KMU* (see below).
+
+`2015`
+**Arthur-Woll award** for an exemplary master's thesis , University of Siegen and association for the support of the economic faculty.
+
+`2015`
+**pwc award** for best graduate of the faculty, University of Siegen and PricewaterhouseCoopers.
+
+`2014`
+**Scholarship** *Tallinn Summer School on research methods in Human-Computer interaction*, University of Siegen.
+
+`2013`
+**First Prize** *Student Usability Challenge*, German Informatics Society (GI).
+
+## Additional links
+
+[makerspace.rub.de](https://makerspace.rub.de) / [on GitLab](https://git.noc.ruhr-uni-bochum.de/makerspace/) / [video tour](https://www.youtube.com/watch?v=N0KiLeKibaY)
+
+[fablab-siegen.de](https://fablab-siegen.de) / [on GitHub](https://github.com/orgs/FabLabSiegen) / videos: [2018 - on Campus](https://www.youtube.com/watch?v=A6xB28BSVdM), [2020 - "Herrengarten"](https://www.youtube.com/shorts/nVQs8ky4XDs), [2023 - current space](https://www.youtube.com/watch?v=sX62ZnqTbbc)
+
+[fab101.de](https://fab101.de)
+
+[fab-universe.de](https://fab-universe.de) / [on GitHub](https://github.com/fabuniverse/)
+
+[yallah.exchange](https://yallah.exchange) / [exhibition.yallah.exchange](https://exhibition.yallah.exchange)
+
+[Interview "Deutsche Welle" about Fab Labs](https://www.dw.com/de/fablab-gemeinsam-t%C3%BCftelts-sich-leichter/a-49714943)
+
+[News article on 3D printing with children](https://www.wp.de/staedte/siegerland/kinder-drucken-in-kreuztaler-stadtbibliothek-in-3d-id11160424.html)
+
+[News article on working with refugees at Fab Lab Siegen](https://www.3d-grenzenlos.de/magazin/kurznachrichten/projekts-learnspaces-uni-siegen-fuer-fluechtlinge-27340123/)
+
+[Interview "Deutschlandfunk Kultur" on Makers](https://www.deutschlandfunkkultur.de/maker-faire-ruhr-in-dortmund-bastler-war-frueher-maker-ist-100.html)
+
+[A talk by me about Fab Lab Siegen (from way back when)](https://www.youtube.com/watch?v=DJb3l-8QlJQ)
+
+[Guest lecture on Socio-Informatics at RWTH Aachen](https://podcasts.apple.com/de/podcast/12-socio-informatiks-oliver-stickel/id1374020313?i=1000416862043&l=en)
+
+[Usability Method Finder](https://www.usability-siegen.de/)
+
+[My old blog posts on the Fab Lab Siegen website](https://fablab-siegen.de/author/oliver_dummy/)
+
+## Publications
 
 `2021`
 [**Handbuch Fab Labs: Einrichtung, Finanzierung, Betrieb, Forschung & Lehre**](https://www.bombini-verlag.de/shop/handbuch-fab-labs/) by Iris Bockermann, Jan Borchers, Anke Brocker, Marcel Lahaye, Antje Moebus, Stefan Neudecker, Oliver Stickel, Melanie Stilz, Daniel Wilkens, René Bohne, Volkmar Pipek, Heidi Schelhowe. *Bombini-Verlag.* 
@@ -193,48 +238,3 @@ I enjoy camping, water, (working on) motorbikes, cooking and books.
 
 `2014`
 [**Come_IN: Expanding Computer Clubs Towards Tinkering and Making**](https://www.researchgate.net/profile/Oliver-Stickel/publication/267481683_Come_IN_Expanding_Computer_Clubs_Towards_Tinkering_and_Making/links/5450b4db0cf249aa53dac3d6/Come-IN-Expanding-Computer-Clubs-Towards-Tinkering-and-Making.pdf?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InB1YmxpY2F0aW9uIiwicGFnZSI6InB1YmxpY2F0aW9uIn19) by Oliver Stickel, Dominik Hornung, Volkmar Pipek, Volker Wulf. *Workshop Proceedings of the NordiCHI '14.* 
-
-## Awards and honors
-
-`2015`
-**Honorable Mention Paper Award**, "Mensch und Computer" (M&C) conference of the German Informatics Society (GI) for *Praktiken der Nutzerintegration im Entwicklungsprozess von KMU* (see above).
-
-`2015`
-**Arthur-Woll award** for an exemplary master's thesis , University of Siegen and association for the support of the economic faculty.
-
-`2015`
-**pwc award** for best graduate of the faculty, University of Siegen and PricewaterhouseCoopers.
-
-`2014`
-**Scholarship** *Tallinn Summer School on research methods in Human-Computer interaction*, University of Siegen.
-
-`2013`
-**First Prize** *Student Usability Challenge*, German Informatics Society (GI).
-
-## Additional links
-
-[makerspace.rub.de](https://makerspace.rub.de) / [on GitLab](https://git.noc.ruhr-uni-bochum.de/makerspace/) / [video tour](https://www.youtube.com/watch?v=N0KiLeKibaY)
-
-[fablab-siegen.de](https://fablab-siegen.de) / [on GitHub](https://github.com/orgs/FabLabSiegen) / videos: [2018 - on Campus](https://www.youtube.com/watch?v=A6xB28BSVdM), [2020 - "Herrengarten"](https://www.youtube.com/shorts/nVQs8ky4XDs), [2023 - current space](https://www.youtube.com/watch?v=sX62ZnqTbbc)
-
-[fab101.de](https://fab101.de)
-
-[fab-universe.de](https://fab-universe.de) / [on GitHub](https://github.com/fabuniverse/)
-
-[yallah.exchange](https://yallah.exchange) / [exhibition.yallah.exchange](https://exhibition.yallah.exchange)
-
-[Interview "Deutsche Welle" about Fab Labs](https://www.dw.com/de/fablab-gemeinsam-t%C3%BCftelts-sich-leichter/a-49714943)
-
-[News article on 3D printing with children](https://www.wp.de/staedte/siegerland/kinder-drucken-in-kreuztaler-stadtbibliothek-in-3d-id11160424.html)
-
-[News article on working with refugees at Fab Lab Siegen](https://www.3d-grenzenlos.de/magazin/kurznachrichten/projekts-learnspaces-uni-siegen-fuer-fluechtlinge-27340123/)
-
-[Interview "Deutschlandfunk Kultur" on Makers](https://www.deutschlandfunkkultur.de/maker-faire-ruhr-in-dortmund-bastler-war-frueher-maker-ist-100.html)
-
-[A talk by me about Fab Lab Siegen (from way back when)](https://www.youtube.com/watch?v=DJb3l-8QlJQ)
-
-[Guest lecture on Socio-Informatics at RWTH Aachen](https://podcasts.apple.com/de/podcast/12-socio-informatiks-oliver-stickel/id1374020313?i=1000416862043&l=en)
-
-[Usability Method Finder](https://www.usability-siegen.de/)
-
-[My old blog posts on the Fab Lab Siegen website](https://fablab-siegen.de/author/oliver_dummy/)
