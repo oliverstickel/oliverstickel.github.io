@@ -9,7 +9,8 @@ Fab Lab Manager & Founder
 <a href="tel:+4923452004912"><i class="fas fa-phone"></i> +49 (0)234 5200 4912</a> |  <i class="fas fa-fax"></i> 03222998662337 <br/> 
 
 <div id="webaddress">
-  <a href="http://www.oliverstickel.de"><i class="fas fa-home"></i> oliverstickel.de </a> / <a href="http://www.oliverstickel.de/cv.pdf"><i class="fas fa-file-pdf"></i> cv.pdf</a> / <a href="http://www.oliverstickel.de/cv-onepage.pdf"><i class="fas fa-file-pdf"></i> cv-onepage.pdf</a><br/>
+  <a href="http://www.oliverstickel.de"><i class="fas fa-home"></i> oliverstickel.de </a><br/> 
+  <a href="http://www.oliverstickel.de/cv-full.pdf"><i class="fas fa-file-pdf"></i> cv-full.pdf</a> / <a href="http://www.oliverstickel.de/cv-onepage.pdf"><i class="fas fa-file-pdf"></i> cv-onepage.pdf</a><br/>
   <a href="https://orcid.org/0009-0009-2787-4975"><i class="fas fa-graduation-cap"></i> ORCID </a> / <a href="https://scholar.google.de/citations?user=K1WQRFsAAAAJ"><i class="fab fa-google"></i> Scholar </a> / <a href="https://researchgate.net/profile/oliver-stickel"><i class="fab fa-researchgate"></i> ResearchGate </a><br/>
   <a href="https://github.com/oliverstickel"><i class="fab fa-github"></i> github.com/oliverstickel </a><br/> 
 </div>
@@ -138,8 +139,14 @@ I enjoy camping, water, (working on) motorbikes, cooking and books.
 `2018`
 [**Computerclubs und Flüchtlingslager - Ein Diskussionsbeitrag zur Forschungs- und Bildungsarbeit aus praxistheoretischer Perspektive**](files/10.14361-9783839433508-008.pdf) by Oliver Stickel, Konstantin Aal, Marén Schorch, Dominik Hornung, Alexander Boden, Volker Wulf, Volkmar Pipek. *Tagungsband Do it! Yourself? Fragen zu (Forschungs-)Praktiken des Selbermachens.*  
 
+`2018`
+[**Fab Labs and Interdisciplinary Academic Teaching: A research agenda**](files/10.1145-3213818.3213835.pdf) by Oliver Stickel, Melanie Stilz, Volkmar Pipek. *Profeedings from the Fab Learn Europe Conference '18, pp. 104-105.*
+
 `2017`
-[**3D printing/digital fabrication for education and the common good**](http://www.digifab-commongood.fab101.de/images/2017_ws3dp_ct_proposal.pdf) by Oliver Stickel, Konstantin Aal, Verena Fuchsberger, Sarah Rüller, Victoria Wenzelmann, Volkmar Pipek, Volker Wulf, Manfred Tscheligi. *[**Workshop**](http://www.digifab-commongood.fab101.de/)  at Communities & Technologies conference '17.*
+[**3D printing/digital fabrication for education and the common good**](http://www.digifab-commongood.fab101.de/images/2017_ws3dp_ct_proposal.pdf) by Oliver Stickel, Konstantin Aal, Verena Fuchsberger, Sarah Rüller, Victoria Wenzelmann, Volkmar Pipek, Volker Wulf, Manfred Tscheligi. *[**Workshop**](http://www.digifab-commongood.fab101.de/) at Communities & Technologies conference '17.*
+
+`2017`
+[**MuC-Makerspace: Academic practices in Community Innovation and (Digital) Fabrication**](https://dl.gi.de/bitstream/handle/20.500.12116/3232/2017_WS16_429.pdf?sequence=1&isAllowed=y) by Oliver Stickel, Melanie Stilz, Volkmar Pipek. *Workshopband der Mensch & Computer Konferenz (MuC) '17.*
 
 `2016`
 [**User Integration in Agile Software Development Processes: Practices and Challenges in Small and Medium Sized Enterprises**](files/10.1007-978-3-319-32165-3_2.pdf) by Oliver Stickel, Corinna Ogonowkski, Timo Jacobi, Gunnar Stevens, Volkmar Pipek, Volker Wulf. *In: Cockton, G., Lárusdóttir, M., Gregory, P., Cajander, Å. (eds) - Integrating User-Centred Design in Agile Development. Springer.*
@@ -148,13 +155,44 @@ I enjoy camping, water, (working on) motorbikes, cooking and books.
 [**3D Printing with Marginalized Children – An Exploration in a Palestinian Refugee Camp**](files/10.1007-978-3-319-20499-4.pdf) by Oliver Stickel, Dominik Hornung, Konstantin Aal, Markus Rohde, Volker Wulf. *Proceedings of the 14th European Conference on Computer Supported Cooperative Work (ECSCW) '15, pp. 83-102.*
 
 `2015`
+[**Appropriating digital fabrication technologies—a comparative study of two 3d printing communities**](https://www.researchgate.net/profile/Oliver-Stickel/publication/280223623_Appropriating_Digital_Fabrication_Technologies_-_A_comparative_study_of_two_3D_Printing_Communities/links/55adfa1b08aed9b7dcdb06a4/Appropriating-Digital-Fabrication-Technologies-A-comparative-study-of-two-3D-Printing-Communities.pdf?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InB1YmxpY2F0aW9uIiwicGFnZSI6InB1YmxpY2F0aW9uIn19) by Thomas Ludwig, Oliver Stickel, Alexander Boden, Volkmar Pipek, Volker Wulf. *Proceedings of the iConference '15.* 
+
+`2015`
 [**Praktiken der Nutzerintegration im Entwicklungsprozess von KMU**](files/10.1515-9783110443929-012.pdf) by Oliver Stickel, Corinna Ogonowski, Timo Jakobi, Gunnar Stevens, Volkmar Pipek, Volker Wulf. *Tagungsband der Mensch & Computer Konferenz (MuC) '15, pp. 103-112.*
+
+`2015`
+[**Die richtige Frage zur richtigen Zeit: Ereignisbedingte Fragebogen-Studien mittels und über Smartphone-Apps**](https://dl.gi.de/bitstream/handle/20.500.12116/8125/Dax_etal_2015.pdf?sequence=2) by Julian Dax, Thomas Ludwig, Oliver Stickel, Volkmar Pipek. *Workshopband der Mensch & Computer Konferenz (MuC) '15.*
+
 
 `2014`
 [**Bottom-Up Kultur in Siegen: Ein Bericht über aktuelle Strukturen, Entwicklungen und Umnutzungsprozesse**](files/10.14220-digo.2014.35.1.55.pdf) by Oliver Stickel, Alexander Boden, Gunnar Stevens, Volkmar Pipek, Volker Wulf. *In: DIAGONAL - University of Siegen's annual journal 35, pp. 55–70 (2014).*   
 
 `2014`
 [**Towards Sociable Technologies: An Empirical Study on Designing Appropriation Infrastructures for 3D Printing**](files/10.1145-2598510.2598528.pdf) by Thomas Ludwig, Oliver Stickel, Alexander Boden, Volkmar Pipek. *Proceedings of the Designing Interactive Systems Conference (DIS) '14, pp. 835–844.* 
+
+`2014`
+[**Computer supported urban gardening**](http://hci-siegen.de/wp-uploads/2014/05/3-draft-urban-gardening-paper.pdf) by Oliver Stickel, Thomas Ludwig. *Proceedings of the Designing Interactive Systems Conference (DIS) '14, pp. 77–80.*
+
+`2014`
+[**Nutzerintegration in Softwareprojekte durch Multi-Channel Feedback.**](https://dl.gi.de/bitstream/handle/20.500.12116/7532/Draxler_Stickel_Winter_Stevens_2014.pdf?sequence=2&isAllowed=y) by Sebastian Draxler, Oliver Stickel, Dominique Winter, Gunnar Stevens. *Tagungsband der Mensch & Computer Konferenz (MuC) '14, pp. 175-184.*
+
+`2014`
+[**Playful, collaborative approaches to 3D modeling and 3D printing**](https://dl.gi.de/bitstream/handle/20.500.12116/7577/von-Rekowski_Boden_Stickel_Hornung_Stevens_2014.pdf?sequence=2&isAllowed=n) by Thomas von Rekowski, Alexander Boden, Oliver Stickel, Dominik Hornung, Gunnar Stevens. *Tagungsband der Mensch & Computer Konferenz (MuC) '14, pp. 363-366.*
+
+`2014`
+[**Computer im Grünen: IT-Systeme zur Unterstützung urbaner Gärten**](https://dl.gi.de/bitstream/handle/20.500.12116/7557/Stickel_Ludwig_Pipek_2014.pdf?sequence=2&isAllowed=y) by Oliver Stickel, Thomas Ludwig, Volkmar Pipek. *Tagungsband der Mensch & Computer Konferenz (MuC) '14, pp. 303-306.*
+
+`2014`
+[**3D Printers as Potential Boundary Negotiating Artifacts for Third Places**](https://www.researchgate.net/profile/Oliver-Stickel/publication/262535718_3D_Printers_as_Potential_Boundary_Negotiating_Artifacts_for_Third_Places/links/53d894380cf2631430c324fa/3D-Printers-as-Potential-Boundary-Negotiating-Artifacts-for-Third-Places.pdf?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InB1YmxpY2F0aW9uIiwicGFnZSI6InB1YmxpY2F0aW9uIn19) by Thomas Ludwig, Oliver Stickel, Volkmar Pipek. *Workshop Proceedings of the Designing Interactive Systems Conference (DIS) '14.*
+
+`2014`
+[**Come_in@ palestine: adapting a german computer club concept to a palestinian refugee camp**](https://www.researchgate.net/profile/Konstantin-Aal/publication/264503740_Come_INPalestine_Adapting_a_German_Computer_Club_Concept_to_a_Palestinian_Refugee_Camp/links/53f9ee7a0cf20a45496ab466/Come-INPalestine-Adapting-a-German-Computer-Club-Concept-to-a-Palestinian-Refugee-Camp.pdf) by Konstantin Aal, George Yerousis, Kai Schubert, Dominik Hornung, Oliver Stickel, Volker Wulf. *Proceedings of the 5th ACM international conference on Collaboration across boundaries: culture, distance & technology '14, pp. 111-120.* 
+
+`2014`
+[**Customer Feedback and UCD in Agile Software Development**](https://www.researchgate.net/profile/Oliver-Stickel/publication/267481136_Customer_Feedback_and_UCD_in_Agile_Software_Development/links/5450b43e0cf201441e938e65/Customer-Feedback-and-UCD-in-Agile-Software-Development.pdf) by Oliver Stickel, Sebastian Draxler, Gunnar Stevens. *Workshop Proceedings of the NordiCHI '14.* 
+
+`2014`
+[**Come_IN: Expanding Computer Clubs Towards Tinkering and Making**](https://www.researchgate.net/profile/Oliver-Stickel/publication/267481683_Come_IN_Expanding_Computer_Clubs_Towards_Tinkering_and_Making/links/5450b4db0cf249aa53dac3d6/Come-IN-Expanding-Computer-Clubs-Towards-Tinkering-and-Making.pdf?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InB1YmxpY2F0aW9uIiwicGFnZSI6InB1YmxpY2F0aW9uIn19) by Oliver Stickel, Dominik Hornung, Volkmar Pipek, Volker Wulf. *Workshop Proceedings of the NordiCHI '14.* 
 
 ## Awards and honors
 
