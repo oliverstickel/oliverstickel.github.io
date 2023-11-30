@@ -183,9 +183,11 @@ I enjoy camping, water, (working on) motorbikes, cooking and books.
 `2015`
 [**Die richtige Frage zur richtigen Zeit: Ereignisbedingte Fragebogen-Studien mittels und über Smartphone-Apps**](https://dl.gi.de/bitstream/handle/20.500.12116/8125/Dax_etal_2015.pdf?sequence=2) by Julian Dax, Thomas Ludwig, Oliver Stickel, Volkmar Pipek. *Workshopband der Mensch & Computer Konferenz (MuC) '15.*
 
+`2015`
+[**Educating the next generation of Makers - 3D Printing with marginalized refugee children: Exploring Making and digital fabrication from a HCI perspective through an exploratory field study in refugee camps in the West Banks**](files/10.13140-2.1.2839.5848.pdf) by Oliver Stickel. *Master Thesis at the institute for Information Systems and New Media \& the CSCW research group, University of Siegen.*
 
 `2014`
-[**Bottom-Up Kultur in Siegen: Ein Bericht über aktuelle Strukturen, Entwicklungen und Umnutzungsprozesse**](files/10.14220-digo.2014.35.1.55.pdf) by Oliver Stickel, Alexander Boden, Gunnar Stevens, Volkmar Pipek, Volker Wulf. *In: DIAGONAL - University of Siegen's annual journal 35, pp. 55–70 (2014).*   
+[**Bottom-Up Kultur in Siegen: Ein Bericht über aktuelle Strukturen, Entwicklungen und Umnutzungsprozesse**](files/10.14220-digo.2014.35.1.55.pdf) by Oliver Stickel, Alexander Boden, Gunnar Stevens, Volkmar Pipek, Volker Wulf. *In: DIAGONAL - University of Siegen's annual journal 35, pp. 55–70.*   
 
 `2014`
 [**Towards Sociable Technologies: An Empirical Study on Designing Appropriation Infrastructures for 3D Printing**](files/10.1145-2598510.2598528.pdf) by Thomas Ludwig, Oliver Stickel, Alexander Boden, Volkmar Pipek. *Proceedings of the Designing Interactive Systems Conference (DIS) '14, pp. 835–844.* 
@@ -213,6 +215,9 @@ I enjoy camping, water, (working on) motorbikes, cooking and books.
 
 `2014`
 [**Come_IN: Expanding Computer Clubs Towards Tinkering and Making**](https://www.researchgate.net/profile/Oliver-Stickel/publication/267481683_Come_IN_Expanding_Computer_Clubs_Towards_Tinkering_and_Making/links/5450b4db0cf249aa53dac3d6/Come-IN-Expanding-Computer-Clubs-Towards-Tinkering-and-Making.pdf?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InB1YmxpY2F0aW9uIiwicGFnZSI6InB1YmxpY2F0aW9uIn19) by Oliver Stickel, Dominik Hornung, Volkmar Pipek, Volker Wulf. *Workshop Proceedings of the NordiCHI '14.* 
+
+`2012`
+[**Page navigation in touch based interfaces**](files/ba-thesis.pdf) by Oliver Stickel. *Bachelor Thesis at the Interactive Systems research group, University of Duisburg-Essen.*
 
 
 ## Additional links
