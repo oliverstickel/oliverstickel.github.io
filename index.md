@@ -53,7 +53,7 @@ I (co-)chaired [Fab:UNIverse](https://fab-universe.de) - the annual conference o
 
 I was reviewer/chair for conferences and journals like [CHI](https://dl.acm.org/conference/chi/proceedings), [JCSCW](https://www.springer.com/journal/10606), [C&T](https://dl.acm.org/conference/c-n-t) or [M&C](https://mensch-und-computer.de/). Occasionally, I've been asked to join expert committees about community innovation spaces. I've also been an elected member of different bodies of (self)-governance such as the Senate commission on Strategic University Development at Uni Siegen and head of the student representatives ("Fachschaftsräte") at Uni Duisburg-Essen and Uni Siegen respectively. 
 
-*Memberships:* [Verbund Offener Werkstätten](https://www.offene-werkstaetten.org), global [Fab Lab network](https://fablabs.io), [Chaos Computer Club](https://www.ccc.de/), [ver.di](https://www.verdi.de). Past: [UPA](https://germanupa.de/), [GIG](https://globalinnovationgathering.org/), [Hasi](https://hackspace-siegen.de/).  
+*Memberships:* [Verbund Offener Werkstätten](https://www.offene-werkstaetten.org), global [Fab Lab network](https://fablabs.io), [Chaos Computer Club](https://www.ccc.de/), [ver.di](https://www.verdi.de). *Past:* [UPA](https://germanupa.de/), [GIG](https://globalinnovationgathering.org/), [Hasi](https://hackspace-siegen.de/).  
 
 ## Teaching
 
