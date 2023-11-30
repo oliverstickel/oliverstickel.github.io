@@ -21,7 +21,7 @@ Fab Lab manager, researcher, founder
 **Self-employed researcher, consultant, educator**. Consultation work for organizations interested in Fab Labs, Makerspaces and Community Innovation Spaces. Public and private grant proposals. Teaching. Book project "[Handbuch Fab Labs](https://www.bombini-verlag.de/shop/handbuch-fab-labs/)". Meta-Lab Rhein-Ruhr (in formation).
 
 `2020-2023`
-**Lab leade and co-developer**. I was involved in the setup of [RUB-Makerspace](https://makerspace.rub.de) as deputy general manager as well as lab leader for the Digital Lab and the Plastics Lab. RUB-Makerspace is a 2000sqm space with a team of 16 people and multiple (sub-)labs. *Ruhr-Universität Bochum*.
+**Lab leader**. I was involved in the setup of [RUB-Makerspace](https://makerspace.rub.de) as deputy general manager as well as lab leader for the Digital Lab and the Plastics Lab. RUB-Makerspace is a 2000sqm space with a team of 16 people and multiple (sub-)labs. *Ruhr-Universität Bochum*.
 
 `2015-2019`
 **Researcher, project manager, lecturer**. After graduating, I stayed at Uni Siegen to continue building [Fab Lab Siegen](https://fablab-siegen.de) into a sustainable infrastructure. Apart from the Lab, I worked on/in in different projects (see below), published and did a lot of teaching. *University of Siegen*.
