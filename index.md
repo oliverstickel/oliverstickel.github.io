@@ -24,7 +24,7 @@ Fab Lab manager, researcher, founder
 **Lab leader**. I was involved in the setup of [RUB-Makerspace](https://makerspace.rub.de) as deputy general manager as well as lab leader for the Digital Lab and the Plastics Lab. RUB-Makerspace is a 2000sqm space with a team of 16 people and multiple (sub-)labs. *Ruhr-Universität Bochum*.
 
 `2015-2019`
-**Researcher, project manager, lecturer**. After graduating, I stayed at Uni Siegen to continue building [Fab Lab Siegen](https://fablab-siegen.de) into a sustainable infrastructure. Apart from the Lab, I worked on/in in different projects (see below), published and did a lot of teaching. *University of Siegen*.
+**Researcher, project manager, educator**. After graduating, I stayed at Uni Siegen to continue building [Fab Lab Siegen](https://fablab-siegen.de) into a sustainable infrastructure. Apart from the Lab, I worked on/in in different projects (see below), published and did a lot of teaching. *University of Siegen*.
 
 `2014-2019`
 **Guest researcher, consultant**. Field research, consultations and development of joint project proposals in/with collaborators from the Middle East. *University of Birzeit, Univ. of Technology Oman, Goethe Institute, others*, (mostly) Palestine.
