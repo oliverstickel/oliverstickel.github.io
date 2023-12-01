@@ -49,9 +49,9 @@ Fab Lab manager, researcher, founder
 
 ## Community roles
 
-I (co-)chaired [Fab:UNIverse](https://fab-universe.de) - the annual conference of Fab Lab managers at German universities - multiple times and help maintain its website. I've also (co-)organized many different events, temporary (Maker)spaces and meetups such as the World Usability Day Siegen (2014-2018).  
+I (co-)chaired [Fab:UNIverse](https://fab-universe.de) - the annual conference of Fab Lab managers at German universities - multiple times and help maintain its website. I've also (co-)organized many different gatherings such as temporary (Maker)spaces at other events or meetups like the World Usability Day Siegen (2014-2018).  
 
-I was reviewer/chair for conferences and journals like [CHI](https://dl.acm.org/conference/chi/proceedings), [JCSCW](https://www.springer.com/journal/10606), [C&T](https://dl.acm.org/conference/c-n-t) or [M&C](https://mensch-und-computer.de/). Occasionally, I've been asked to join expert committees about community innovation spaces. I've also been an elected member of different bodies of (self)-governance such as the Senate commission on Strategic University Development at Uni Siegen and head of the student representatives ("Fachschaftsräte") at Uni Duisburg-Essen and Uni Siegen respectively. 
+In academic service, I was reviewer/chair for conferences and journals like [CHI](https://dl.acm.org/conference/chi/proceedings), [JCSCW](https://www.springer.com/journal/10606), [C&T](https://dl.acm.org/conference/c-n-t) or [M&C](https://mensch-und-computer.de/). Occasionally, I've been asked to join committees, mostly on (community) innovation spaces or student issues. I've also been an elected member of different bodies of (self)-governance such as the Senate commission on Strategic University Development and examination boards at Uni Siegen or head of the student representatives ("Fachschaftsräte") at Uni Duisburg-Essen and Uni Siegen respectively. 
 
 *Memberships:* [Verbund Offener Werkstätten](https://www.offene-werkstaetten.org), global [Fab Lab network](https://fablabs.io), [Chaos Computer Club](https://www.ccc.de/), [ver.di](https://www.verdi.de). *Past:* [UPA](https://germanupa.de/), [GIG](https://globalinnovationgathering.org/), [Hasi](https://hackspace-siegen.de/).  
 
