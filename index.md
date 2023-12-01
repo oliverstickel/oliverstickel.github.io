@@ -157,10 +157,10 @@ I enjoy camping, water, (working on) motorbikes, cooking and books.
 [**Fab Lab Education in German Academia**](https://zenodo.org/record/1344438) by Oliver Stickel, Anke Brocker, Melanie Stilz, Antje Möbus, Iris Bockermann, Jan Borchers, Volkmar Pipek. *Proceedings from the Fab14 Conference '18, pp. 39-46.*
 
 `2018`
-[**Computerclubs und Flüchtlingslager - Ein Diskussionsbeitrag zur Forschungs- und Bildungsarbeit aus praxistheoretischer Perspektive**](files/10.14361-9783839433508-008.pdf) by Oliver Stickel, Konstantin Aal, Marén Schorch, Dominik Hornung, Alexander Boden, Volker Wulf, Volkmar Pipek. *Tagungsband Do it! Yourself? Fragen zu (Forschungs-)Praktiken des Selbermachens.*  
-
-`2018`
 [**Fab Labs and Interdisciplinary Academic Teaching: A research agenda**](files/10.1145-3213818.3213835.pdf) by Oliver Stickel, Melanie Stilz, Volkmar Pipek. *Profeedings from the Fab Learn Europe Conference '18, pp. 104-105.*
+
+`2017`
+[**Computerclubs und Flüchtlingslager - Ein Diskussionsbeitrag zur Forschungs- und Bildungsarbeit aus praxistheoretischer Perspektive**](files/10.14361-9783839433508-008.pdf) by Oliver Stickel, Konstantin Aal, Marén Schorch, Dominik Hornung, Alexander Boden, Volker Wulf, Volkmar Pipek. *In: Langreiter, N., Löffler, K. (eds.) - Do it! Yourself? Fragen zu (Forschungs-)Praktiken des Selbermachens. transcript*  
 
 `2017`
 [**3D printing/digital fabrication for education and the common good**](http://www.digifab-commongood.fab101.de/images/2017_ws3dp_ct_proposal.pdf) by Oliver Stickel, Konstantin Aal, Verena Fuchsberger, Sarah Rüller, Victoria Wenzelmann, Volkmar Pipek, Volker Wulf, Manfred Tscheligi. *[**Workshop**](http://www.digifab-commongood.fab101.de/) at Communities & Technologies conference '17.*
