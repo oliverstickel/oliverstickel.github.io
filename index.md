@@ -64,7 +64,7 @@ At Uni Siegen, I've been responsible for the practical part (and a lot of the le
 
 At Ruhr-Uni Bochum, I was less involved in structured, academic teaching but tought and learned whatever was needed to help many different Makerspace community members from (many different) disciplines with their - many different - projects.  
 
-As a thesis advisor and co-advisor, I have accompanied about 8 Bachelor and Master Students along their paths to graduation. Topics have varied from participatory-design-oriented field investigations to studies about Makerspaces in teacher training to engineering and fabrication of additive tools for industrial processes. Additionally, I've been involved in co-advising state-certified technicians as a pilot project between a university and a technical vocational college. I've also occasionally contributed to revisions of examination regulations and similar regulatory structures.     
+As a thesis advisor and co-advisor, I have accompanied about 8 Bachelor and Master Students along their paths to graduation. Topics have varied from participatory-design-oriented field investigations to studies about Makerspaces in teacher training to engineering and fabrication of additive tools for industrial processes. Additionally, I've been involved in co-advising state-certified technicians as a pilot project between a university and a technical vocational college. Occasionally, I've contributed to revisions of examination regulations and similar regulatory structures.     
 
 I've also developed and held lots of safety and infrastructure introductions. 
 
