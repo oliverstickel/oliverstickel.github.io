@@ -131,7 +131,7 @@ I enjoy camping, water, (working on) motorbikes, cooking and books.
 **Honorable Mention Paper Award**, "Mensch und Computer" (M&C) conference of the German Informatics Society (GI) for *Praktiken der Nutzerintegration im Entwicklungsprozess von KMU* (see below).
 
 `2015`
-**Arthur-Woll award** for an exemplary master's thesis , University of Siegen and association for the support of the economic faculty.
+**Arthur-Woll award** for an exemplary master thesis , University of Siegen and association for the support of the economic faculty.
 
 `2015`
 **pwc award** for best graduate of the faculty, University of Siegen and PricewaterhouseCoopers.
@@ -184,7 +184,7 @@ I enjoy camping, water, (working on) motorbikes, cooking and books.
 [**Die richtige Frage zur richtigen Zeit: Ereignisbedingte Fragebogen-Studien mittels und über Smartphone-Apps**](https://dl.gi.de/bitstream/handle/20.500.12116/8125/Dax_etal_2015.pdf?sequence=2) by Julian Dax, Thomas Ludwig, Oliver Stickel, Volkmar Pipek. *Workshopband der Mensch & Computer Konferenz (MuC) '15.*
 
 `2015`
-[**Educating the next generation of Makers - 3D Printing with marginalized refugee children: Exploring Making and digital fabrication from a HCI perspective through an exploratory field study in refugee camps in the West Bank**](files/10.13140-2.1.2839.5848.pdf) by Oliver Stickel. *Master Thesis at the institute for Information Systems and New Media & the CSCW research group, University of Siegen.*
+[**Educating the next generation of Makers - 3D Printing with marginalized refugee children: Exploring Making and digital fabrication from a HCI perspective through an exploratory field study in refugee camps in the West Bank**](files/10.13140-2.1.2839.5848.pdf). *My master thesis at the institute for Information Systems and New Media & the CSCW research group, University of Siegen.*
 
 `2014`
 [**Bottom-Up Kultur in Siegen: Ein Bericht über aktuelle Strukturen, Entwicklungen und Umnutzungsprozesse**](files/10.14220-digo.2014.35.1.55.pdf) by Oliver Stickel, Alexander Boden, Gunnar Stevens, Volkmar Pipek, Volker Wulf. *In: Habscheid, S., Hoch, G. , Schröteler-v. Brandt, H., Stein, V. (eds.) - DIAGONAL Jahrgang 2014: Umnutzung - Alte Sachen, neue Zwecke. V&R unipress.*
@@ -217,7 +217,7 @@ I enjoy camping, water, (working on) motorbikes, cooking and books.
 [**Come_IN: Expanding Computer Clubs Towards Tinkering and Making**](https://www.researchgate.net/profile/Oliver-Stickel/publication/267481683_Come_IN_Expanding_Computer_Clubs_Towards_Tinkering_and_Making/links/5450b4db0cf249aa53dac3d6/Come-IN-Expanding-Computer-Clubs-Towards-Tinkering-and-Making.pdf?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InB1YmxpY2F0aW9uIiwicGFnZSI6InB1YmxpY2F0aW9uIn19) by Oliver Stickel, Dominik Hornung, Volkmar Pipek, Volker Wulf. *Workshop Proceedings of the NordiCHI '14.* 
 
 `2012`
-[**Page navigation in touch based interfaces**](files/ba-thesis.pdf) by Oliver Stickel. *Bachelor Thesis at the Interactive Systems research group, University of Duisburg-Essen.*
+[**Page navigation in touch based interfaces**](files/ba-thesis.pdf). *My bachelor thesis at the Interactive Systems research group, University of Duisburg-Essen.*
 
 
 ## Additional links
