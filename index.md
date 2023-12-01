@@ -246,16 +246,5 @@ I enjoy camping, water, (working on) motorbikes, cooking and books.
 
 [Usability Method Finder](https://www.usability-siegen.de/)
 
-[My old blog posts on the Fab Lab Siegen website](https://fablab-siegen.de/author/oliver_dummy/)
+[My old blog posts on the Fab Lab Siegen website](https://fablab-siegen.de/author/oliver_dummy/)  
 
-
-
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-BDELQCZMY7"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-BDELQCZMY7');
-</script>
