@@ -82,7 +82,7 @@ I've also developed and held lots of safety and infrastructure introductions.
 
 Birth date: 12 June 1987  
 
-Languages: German (native), English (fluent), French (very rudimentary).  
+Languages: German: native, English: fluent, French: rudimentaire, Latin: obliviscebam.  
 
 I enjoy camping, water, (working on) motorbikes, cooking and books.  
 
