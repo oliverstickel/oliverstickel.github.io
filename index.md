@@ -265,7 +265,7 @@ These might or might not be continued at some point. Thoughts and feedback are w
 ## Talks & slides
 
 `2023`
-[Introduction to soldering](files/slides/2022-soldering.pdf)  
+[Introduction to soldering](files/slides/2023-soldering.pdf)  
 
 `2022`
 [Build your own air quality sensor](files/slides/2022-luftdatensensor.pdf) ([web-view](https://makerspace.ruhr-uni-bochum.de/slides/ws-luftdaten/))  
