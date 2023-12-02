@@ -151,7 +151,7 @@ I enjoy camping, water, (working on) motorbikes, cooking and books.
 [**shARe-IT: Ad hoc Remote Troubleshooting through Augmented Reality**](https://link.springer.com/article/10.1007/s10606-021-09393-5) by Thomas Ludwig, Oliver Stickel, Peter Tolmie, Malte Sellmer. *Journal on Computer Supported Cooperative Work 30, pp. 119–167.* 
 
 `2019`
-[**Fab:UNIverse - Makerspaces, Fab Labs and Lab Managers in Academia**](files/10.1145-3335055.3335074.pdf) ([slides here](files/slides/2019-fab101-fablearn.pdf)) by Oliver Stickel, Melanie Stilz, Anke Brocker, Jan Borchers, Volkmar Pipek. *Workshop at Fab Learn Europe Conference '19.*
+[**Fab:UNIverse - Makerspaces, Fab Labs and Lab Managers in Academia**](files/10.1145-3335055.3335074.pdf) (slides [here](files/slides/2019-fab101-fablearn.pdf)) by Oliver Stickel, Melanie Stilz, Anke Brocker, Jan Borchers, Volkmar Pipek. *Workshop at Fab Learn Europe Conference '19.*
 
 `2018`
 [**Fab Lab Education in German Academia**](https://zenodo.org/record/1344438) by Oliver Stickel, Anke Brocker, Melanie Stilz, Antje Möbus, Iris Bockermann, Jan Borchers, Volkmar Pipek. *Proceedings from the Fab14 Conference '18, pp. 39-46.*
@@ -179,7 +179,7 @@ I enjoy camping, water, (working on) motorbikes, cooking and books.
 [**Usability Quartett (Neuauflage und Erweiterung)**](https://germanupa.de/berufsverband-german-upa/aktuelles/usability-quartett-neuer-auflage) by GermanUPA, Oliver Stickel, Alisha Tilsner, Elisabeth Schwerdtner, Susanne Speh, Cindy Waldinger. *Method Cards, GermanUPA (see [pitch](files/usability-quartett-pitch.pdf)).*
 
 `2016`
-**Report series for SME on understanding users ([1](files/cubes-brochure1-nutzer-verstehen.pdf), [2](files/cubes-brochure2-feedbacktool-FAME.pdf), [3](files/cubes-brochure3-partS.pdf))** by Oliver Stickel, Sebastian Draxler, Volkmar Pipek et al. *Publication series "Wissenschaft trifft Praxis" (see ["Mittelstand Digital: Downloads"](https://www.mittelstand-digital.de/MD/Navigation/DE/Downloads/medienraum.html). BMWI / BMWK.*
+**Report series for SME on understanding users ([1](files/cubes-brochure1-nutzer-verstehen.pdf), [2](files/cubes-brochure2-feedbacktool-FAME.pdf), [3](files/cubes-brochure3-partS.pdf))** by Oliver Stickel, Sebastian Draxler, Volkmar Pipek et al. *Publication series "Wissenschaft trifft Praxis" - ["Mittelstand Digital"](https://www.mittelstand-digital.de/MD/Navigation/DE/Downloads/medienraum.html). BMWI / BMWK.*
 
 `2015`
 [**3D Printing with Marginalized Children – An Exploration in a Palestinian Refugee Camp**](files/10.1007-978-3-319-20499-4.pdf) by Oliver Stickel, Dominik Hornung, Konstantin Aal, Markus Rohde, Volker Wulf. *Proceedings of the 14th European Conference on Computer Supported Cooperative Work (ECSCW) '15, pp. 83-102.*
@@ -209,7 +209,7 @@ I enjoy camping, water, (working on) motorbikes, cooking and books.
 [**Towards Sociable Technologies: An Empirical Study on Designing Appropriation Infrastructures for 3D Printing**](files/10.1145-2598510.2598528.pdf) by Thomas Ludwig, Oliver Stickel, Alexander Boden, Volkmar Pipek. *Proceedings of the Designing Interactive Systems Conference (DIS) '14, pp. 835–844.* 
 
 `2014`
-[**Computer supported urban gardening**](http://hci-siegen.de/wp-uploads/2014/05/3-draft-urban-gardening-paper.pdf) ([poster here](files/2014-poster-csug.pdf)) by Oliver Stickel, Thomas Ludwig. *Proceedings of the Designing Interactive Systems Conference (DIS) '14, pp. 77–80.*
+[**Computer supported urban gardening**](http://hci-siegen.de/wp-uploads/2014/05/3-draft-urban-gardening-paper.pdf) (poster [here](files/2014-poster-csug.pdf)) by Oliver Stickel, Thomas Ludwig. *Proceedings of the Designing Interactive Systems Conference (DIS) '14, pp. 77–80.*
 
 `2014`
 [**Nutzerintegration in Softwareprojekte durch Multi-Channel Feedback.**](https://dl.gi.de/bitstream/handle/20.500.12116/7532/Draxler_Stickel_Winter_Stevens_2014.pdf?sequence=2&isAllowed=y) by Sebastian Draxler, Oliver Stickel, Dominique Winter, Gunnar Stevens. *Tagungsband der Mensch & Computer Konferenz (MuC) '14, pp. 175-184.*
