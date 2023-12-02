@@ -265,11 +265,11 @@ These might or might not be continued at some point. Thoughts and feedback are w
 
 `2022`
 [Build your own air quality sensor](files/slides/2022-luftdatensensor.pdf) ([web-view](https://makerspace.ruhr-uni-bochum.de/slides/ws-luftdaten/))  
-[Mixed Reality](files/slides/2022-mr.pdf)  
+[Introduction to Mixed Reality](files/slides/2022-mr.pdf)  
 [Microcontroller Basics](files/slides/2022-microcontroller.pdf) ([web-view](https://makerspace.ruhr-uni-bochum.de/slides/ws-microcontroller/))  
 [Introduction to CAD (two days)](files/slides/2022-cad.pdf)  
 [Introduction to measuring for electronics](files/slides/2022-messen.pdf)  
-[Making PCBs](files/slides/2022-pcbs.pdf)  
+[Introduction to making PCBs](files/slides/2022-pcbs.pdf)  
 [Introduction to CNC milling](files/slides/2022-cnc.pdf)  
 
 `2021`
