@@ -286,7 +286,7 @@ These might or might not be continued at some point. Thoughts and feedback are w
 [Das Schaffen in Fab Labs](files/slides/2019_das-schaffen-in-fab-labs.pdf)
 
 `2018`
-[Fab Labs and additive manufacturing seminar session](2018_additive-manufacturing-in-fablabs.pdf)  
+[Fab Labs and additive manufacturing seminar session](files/slides/2018_additive-manufacturing-in-fablabs.pdf)  
 [Socio-Informatics](files/slides/2018-socio-informatics.pdf)
 
 `2017`
