@@ -236,7 +236,7 @@ I enjoy camping, water, (working on) motorbikes, cooking and books.
 [**Page navigation in touch based interfaces**](files/ba-thesis.pdf). *My bachelor thesis at the Interactive Systems research group, University of Duisburg-Essen.*
 
 `2005`
-[**XESCOE - x-tendable environment for soundcard operated experiments**](files/2005-xescoe-documentation.pdf) ([user handbook](files/2005-xescoe-handbook.pdf), [slides](files/slides/2005-xescoe.pdf)) by Benedikt Rudoloph, Oliver Stickel, Niklas Reisser. *Land Baden-Württemberg via Landesbildungsserver.*
+[**XESCOE - x-tendable environment for soundcard operated experiments**](files/2005-xescoe-documentation.pdf) ([user handbook](files/2005-xescoe-handbook.pdf), [slides](files/slides/2005-xescoe-slides.pdf)) by Benedikt Rudoloph, Oliver Stickel, Niklas Reisser. *Land Baden-Württemberg via Landesbildungsserver.*
 
 
 
