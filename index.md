@@ -203,7 +203,7 @@ I enjoy camping, water, (working on) motorbikes, cooking and books.
 [**Bottom-Up Kultur in Siegen: Ein Bericht über aktuelle Strukturen, Entwicklungen und Umnutzungsprozesse**](files/10.14220-digo.2014.35.1.55.pdf) by Oliver Stickel, Alexander Boden, Gunnar Stevens, Volkmar Pipek, Volker Wulf. *In: Habscheid, S., Hoch, G. , Schröteler-v. Brandt, H., Stein, V. (eds.) - DIAGONAL Jahrgang 2014: Umnutzung - Alte Sachen, neue Zwecke. V&R unipress.*
 
 `2014`
-[**Beteilige Deine Nutzer! Fallstudie eines systematischen Vorgehens zur Integration von Nutzer-Feedback in agilen Entwicklungsprozessen**](files/beteilige-deine-nutzer.pdf) by Sebastian Draxler, Oliver Stickel, Frank Rosswog, Gunnar Stevens. *Wissenschaft trifft Praxis, issue on "User Experience - Positives Erleben betrieblicher IT", pp. 36-45. BMWI / BMWK.*
+[**Beteilige Deine Nutzer! Fallstudie eines systematischen Vorgehens zur Integration von Nutzer-Feedback in agilen Entwicklungsprozessen**](files/beteilige-deine-nutzer.pdf) by Sebastian Draxler, Oliver Stickel, Frank Rosswog, Gunnar Stevens. *Wissenschaft trifft Praxis, issue on [User Experience - Positives Erleben betrieblicher IT](https://newsletter.mittelstand-digital.de/MDN/Redaktion/DE/Newsletter/2014/08/Meldungen/user-experience.html), pp. 36-45. BMWI / BMWK.*
 
 `2014`
 [**Towards Sociable Technologies: An Empirical Study on Designing Appropriation Infrastructures for 3D Printing**](files/10.1145-2598510.2598528.pdf) by Thomas Ludwig, Oliver Stickel, Alexander Boden, Volkmar Pipek. *Proceedings of the Designing Interactive Systems Conference (DIS) '14, pp. 835–844.* 
