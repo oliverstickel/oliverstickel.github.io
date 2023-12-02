@@ -244,7 +244,11 @@ I enjoy camping, water, (working on) motorbikes, cooking and books.
 
 These might or might not be continued at some point. Thoughts and feedback are welcome!  
 
-[Towards a conceptual model of HCI and Making](files/unpublished_hci-and-making-researchagenda.pdf) and [HCI motivations for establishing, positioning and operating a Fab Lab](files/unpublished_hci-motivation-for-fablabs.pdf) and [poster draft on HCI and Fab Labs](files/unpublished_poster-hci-fablabs.pdf)  
+[Towards a conceptual model of HCI and Making](files/unpublished_hci-and-making-researchagenda.pdf)  
+
+[HCI motivations for establishing, positioning and operating a Fab Lab](files/unpublished_hci-motivation-for-fablabs.pdf)  
+
+[poster draft on HCI and Fab Labs](files/unpublished_poster-hci-fablabs.pdf)  
 
 [On self-expression through 3D printing / digital fabrication](files/unpublished_self-expression-through-digifab.pdf)  
 
