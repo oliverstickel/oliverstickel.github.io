@@ -252,9 +252,9 @@ These might or might not be continued at some point. Thoughts and feedback are w
 
 [On better interfaces for (educational) 3D modeling tools](files/unpublished_better-tools-for-3d-modeling.pdf)  
 
-[Proposed contribution on the institutionalization of shared machine shops / Fab Labs](files/unpublished_institutionalization-shared-machineshops.pdf)  
+[Der große Bruder in uns?](files/unpublished_2010-orwellish.pdf)  
 
-[Der große Bruder in uns - Kurzessay in Reaktion auf [Facebook’s Gone Rogue; It’s Time for an Open Alternative](https://www.wired.com/2010/05/facebook-rogue/)](files/unpublished_2010-orwellish.pdf)  
+[Proposed contribution on the institutionalization of shared machine shops / Fab Labs](files/unpublished_institutionalization-shared-machineshops.pdf)  
 
 [Proposal for a cultural probe study about domestic digital fabrication](files/unpublished_domestic-3d-printing.pdf)   
 
