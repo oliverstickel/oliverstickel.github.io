@@ -258,7 +258,7 @@ These might or might not be continued at some point. Thoughts and feedback are w
 
 [Der große Bruder in uns?](files/unpublished_2010-orwellish.pdf)  
 
-[Proposed contribution on the institutionalization of shared machine shops / Fab Labs](files/unpublished_institutionalization-shared-machineshops.pdf)  
+[Study proposal on the institutionalization of shared machine shops](files/unpublished_institutionalization-shared-machineshops.pdf)  
 
 [Proposal for a cultural probe study about domestic digital fabrication](files/unpublished_domestic-3d-printing.pdf)   
 
