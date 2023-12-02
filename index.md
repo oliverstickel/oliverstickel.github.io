@@ -323,7 +323,7 @@ Workshop Usability & User Experience: [one day](files/slides/2015-uux-workshop.p
 [On User Experience](files/slides/2012-ux.pdf) 
 
 `2011`
-[Educational game "Food Balance"](files/slides/2011-foodbalance-game.pdf) (poster [here](files/slides/2011-foodbalance-poster.pdf))  
+[Educational game "Food Balance"](files/slides/2011-foodbalance-game.pdf) (poster [here](files/2011-foodbalance-poster.pdf))  
 [Cindy Sherman](files/slides/2011-cindysherman.pdf)  
 [Pathological Internet Use](files/slides/2011-pathological-internet-use.pdf)  
 [3D animation project "Star Trek TOS"](files/slides/2011-star-trek-tos-animation-slides.pdf) (animation [here](files/3d/star-trek-tos-animation.mp4))
