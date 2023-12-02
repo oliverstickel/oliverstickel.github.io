@@ -167,7 +167,7 @@ I enjoy camping, water, (working on) motorbikes, cooking and books.
 [**Computerclubs und Flüchtlingslager - Ein Diskussionsbeitrag zur Forschungs- und Bildungsarbeit aus praxistheoretischer Perspektive**](files/10.14361-9783839433508-008.pdf) by Oliver Stickel, Konstantin Aal, Marén Schorch, Dominik Hornung, Alexander Boden, Volker Wulf, Volkmar Pipek. *In: Langreiter, N., Löffler, K. (eds.) - Do it! Yourself? Fragen zu (Forschungs-)Praktiken des Selbermachens. transcript.*  
 
 `2017`
-[**3D printing/digital fabrication for education and the common good**](http://www.digifab-commongood.fab101.de/images/2017_ws3dp_ct_proposal.pdf) by Oliver Stickel, Konstantin Aal, Verena Fuchsberger, Sarah Rüller, Victoria Wenzelmann, Volkmar Pipek, Volker Wulf, Manfred Tscheligi. *[**Workshop**](http://www.digifab-commongood.fab101.de/) at Communities & Technologies conference '17.*
+[**3D printing/digital fabrication for education and the common good**](http://www.digifab-commongood.fab101.de/images/2017_ws3dp_ct_proposal.pdf) by Oliver Stickel, Konstantin Aal, Verena Fuchsberger, Sarah Rüller, Victoria Wenzelmann, Volkmar Pipek, Volker Wulf, Manfred Tscheligi. *[Workshop](http://www.digifab-commongood.fab101.de/) at Communities & Technologies conference '17.*
 
 `2017`
 [**MuC-Makerspace: Academic practices in Community Innovation and (Digital) Fabrication**](https://dl.gi.de/bitstream/handle/20.500.12116/3232/2017_WS16_429.pdf?sequence=1&isAllowed=y) by Oliver Stickel, Melanie Stilz, Volkmar Pipek. *Workshopband der Mensch & Computer Konferenz (MuC) '17.*
