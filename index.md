@@ -334,7 +334,7 @@ Workshop Usability & User Experience: [one day](files/slides/2015-uux-workshop.p
 
 ## Additional links
 
-***Other files:*** Linked files from above and more are available [here](https://github.com/oliverstickel/oliverstickel.github.io/tree/master/files).
+***Other files:*** Linked files from above and more [are available here](https://github.com/oliverstickel/oliverstickel.github.io/tree/master/files).
 
 [makerspace.rub.de](https://makerspace.rub.de) / [on GitLab](https://git.noc.ruhr-uni-bochum.de/makerspace/) / [video tour](https://www.youtube.com/watch?v=N0KiLeKibaY)
 
