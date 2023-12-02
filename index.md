@@ -293,7 +293,7 @@ These might or might not be continued at some point. Thoughts and feedback are w
 2017: Introduction to HCI (semester-long lecture) - [German](files/slides/2017-introduction-to-hci_de.pdf) / [English](files/slides/2017-introduction-to-hci_en.pdf)
 
 `2016`
-[Fab Lab Siegen](files/slides/2016-fablabsiegen.pdf)
+[Fab Lab Siegen](files/slides/2016-fablabsiegen.pdf)  
 [Interaction Design with Arduino (semester-long seminar, German)](files/slides/2016-interaction-design-with-arduino.pdf)
 
 `2015`
@@ -302,7 +302,7 @@ Workshop Usability & User Experience: [one day](files/slides/2015-uux-workshop.p
 [Industrie 4.0 meets Making](files/slides/2015-industrie40-meets-making.pdf)
 
 `2014`
-[Makers at Palestine (large file, many images)](files/slides/2014-makers-at-palestine.pdf)
+[Makers at Palestine](files/slides/2014-makers-at-palestine.pdf)
 
 `2013`
 [Social Flashcards](files/slides/2013-social-flashcards-slides.pdf)  
@@ -319,7 +319,7 @@ Workshop Usability & User Experience: [one day](files/slides/2015-uux-workshop.p
 [On User Experience](files/slides/2012-ux.pdf) 
 
 `2011`
-[Educational game "Food Balance"](files/slides/2011-foodbalance-game.pdf) (poster [here](files/slides/2011-foodbalance-poster.pdf))
+[Educational game "Food Balance"](files/slides/2011-foodbalance-game.pdf) (poster [here](files/slides/2011-foodbalance-poster.pdf))  
 [Cindy Sherman](files/slides/2011-cindysherman.pdf)  
 [Pathological Internet Use](files/slides/2011-pathological-internet-use.pdf)  
 [3D animation project "Star Trek TOS"](files/slides/2011-star-trek-tos-animation-slides.pdf) (animation [here](files/3d/star-trek-tos-animation.mp4))
