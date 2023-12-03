@@ -248,7 +248,7 @@ These might or might not be continued at some point. Thoughts and feedback are w
 
 [HCI motivations for establishing, positioning and operating a Fab Lab](files/unpublished_hci-motivation-for-fablabs.pdf)  
 
-[poster draft on HCI and Fab Labs](files/unpublished_poster-hci-fablabs.pdf)  
+[Poster draft on HCI and Fab Labs](files/unpublished_poster-hci-fablabs.pdf)  
 
 [On self-expression through 3D printing / digital fabrication](files/unpublished_self-expression-through-digifab.pdf)  
 
@@ -294,7 +294,7 @@ These might or might not be continued at some point. Thoughts and feedback are w
 [Project ZEIT.RAUM Siegen](files/slides/2017-zeitraum.pdf)  
 [Wissenschaftstheorie](files/slides/2017-wissenschaftstheorie.pdf)  
 [Kinder-Uni zum Entstehen von Produkten](files/slides/2017-kinderuni-fablab.pdf)  
-2017: Introduction to HCI (semester-long lecture) - [German](files/slides/2017-introduction-to-hci_de.pdf) / [English](files/slides/2017-introduction-to-hci_en.pdf)
+Introduction to HCI (semester-long lecture): [German](files/slides/2017-introduction-to-hci_de.pdf) / [English](files/slides/2017-introduction-to-hci_en.pdf)
 
 `2016`
 [Fab Lab Siegen](files/slides/2016-fablabsiegen.pdf)  
