@@ -151,7 +151,7 @@ I enjoy camping, water, (working on) motorbikes, cooking and books.
 [**shARe-IT: Ad hoc Remote Troubleshooting through Augmented Reality**](https://link.springer.com/article/10.1007/s10606-021-09393-5) by Thomas Ludwig, Oliver Stickel, Peter Tolmie, Malte Sellmer. *Journal on Computer Supported Cooperative Work 30, pp. 119–167.* 
 
 `2019`
-[**Fab:UNIverse - Makerspaces, Fab Labs and Lab Managers in Academia**](files/10.1145-3335055.3335074.pdf) (slides [here](files/slides/2019-fab101-fablearn.pdf)) by Oliver Stickel, Melanie Stilz, Anke Brocker, Jan Borchers, Volkmar Pipek. *Workshop at Fab Learn Europe Conference '19.*
+[**Fab:UNIverse - Makerspaces, Fab Labs and Lab Managers in Academia**](files/10.1145-3335055.3335074.pdf) ([slides](files/slides/2019-fab101-fablearn.pdf)) by Oliver Stickel, Melanie Stilz, Anke Brocker, Jan Borchers, Volkmar Pipek. *Workshop at Fab Learn Europe Conference '19.*
 
 `2018`
 [**Fab Lab Education in German Academia**](https://zenodo.org/record/1344438) by Oliver Stickel, Anke Brocker, Melanie Stilz, Antje Möbus, Iris Bockermann, Jan Borchers, Volkmar Pipek. *Proceedings from the Fab14 Conference '18, pp. 39-46.*
@@ -185,10 +185,10 @@ I enjoy camping, water, (working on) motorbikes, cooking and books.
 [**3D Printing with Marginalized Children – An Exploration in a Palestinian Refugee Camp**](files/10.1007-978-3-319-20499-4.pdf) by Oliver Stickel, Dominik Hornung, Konstantin Aal, Markus Rohde, Volker Wulf. *Proceedings of the 14th European Conference on Computer Supported Cooperative Work (ECSCW) '15, pp. 83-102.*
 
 `2015`
-[**Appropriating digital fabrication technologies—a comparative study of two 3d printing communities**](https://www.researchgate.net/profile/Oliver-Stickel/publication/280223623_Appropriating_Digital_Fabrication_Technologies_-_A_comparative_study_of_two_3D_Printing_Communities/links/55adfa1b08aed9b7dcdb06a4/Appropriating-Digital-Fabrication-Technologies-A-comparative-study-of-two-3D-Printing-Communities.pdf?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InB1YmxpY2F0aW9uIiwicGFnZSI6InB1YmxpY2F0aW9uIn19) (slides [here](files/slides/2015_iconf_3dp_slides.pdf)) by Thomas Ludwig, Oliver Stickel, Alexander Boden, Volkmar Pipek, Volker Wulf. *Proceedings of the iConference '15.* 
+[**Appropriating digital fabrication technologies—a comparative study of two 3d printing communities**](https://www.researchgate.net/profile/Oliver-Stickel/publication/280223623_Appropriating_Digital_Fabrication_Technologies_-_A_comparative_study_of_two_3D_Printing_Communities/links/55adfa1b08aed9b7dcdb06a4/Appropriating-Digital-Fabrication-Technologies-A-comparative-study-of-two-3D-Printing-Communities.pdf?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InB1YmxpY2F0aW9uIiwicGFnZSI6InB1YmxpY2F0aW9uIn19) ([slides](files/slides/2015_iconf_3dp_slides.pdf)) by Thomas Ludwig, Oliver Stickel, Alexander Boden, Volkmar Pipek, Volker Wulf. *Proceedings of the iConference '15.* 
 
 `2015`
-[**Praktiken der Nutzerintegration im Entwicklungsprozess von KMU**](files/10.1515-9783110443929-012.pdf) (slides [here](files/slides/2015_muc-praktiken.pdf)) by Oliver Stickel, Corinna Ogonowski, Timo Jakobi, Gunnar Stevens, Volkmar Pipek, Volker Wulf. *Tagungsband der Mensch & Computer Konferenz (MuC) '15, pp. 103-112.*
+[**Praktiken der Nutzerintegration im Entwicklungsprozess von KMU**](files/10.1515-9783110443929-012.pdf) ([slides](files/slides/2015_muc-praktiken.pdf)) by Oliver Stickel, Corinna Ogonowski, Timo Jakobi, Gunnar Stevens, Volkmar Pipek, Volker Wulf. *Tagungsband der Mensch & Computer Konferenz (MuC) '15, pp. 103-112.*
 
 `2015`
 [**Die richtige Frage zur richtigen Zeit: Ereignisbedingte Fragebogen-Studien mittels und über Smartphone-Apps**](https://dl.gi.de/bitstream/handle/20.500.12116/8125/Dax_etal_2015.pdf?sequence=2) by Julian Dax, Thomas Ludwig, Oliver Stickel, Volkmar Pipek. *Workshopband der Mensch & Computer Konferenz (MuC) '15.*
@@ -215,13 +215,13 @@ I enjoy camping, water, (working on) motorbikes, cooking and books.
 [**Nutzerintegration in Softwareprojekte durch Multi-Channel Feedback.**](https://dl.gi.de/bitstream/handle/20.500.12116/7532/Draxler_Stickel_Winter_Stevens_2014.pdf?sequence=2&isAllowed=y) by Sebastian Draxler, Oliver Stickel, Dominique Winter, Gunnar Stevens. *Tagungsband der Mensch & Computer Konferenz (MuC) '14, pp. 175-184.*
 
 `2014`
-[**Playful, collaborative approaches to 3D modeling and 3D printing**](https://dl.gi.de/bitstream/handle/20.500.12116/7577/von-Rekowski_Boden_Stickel_Hornung_Stevens_2014.pdf?sequence=2&isAllowed=n) (poster [here](files/2014-poster-playful3dprinting.pdf)) by Thomas von Rekowski, Alexander Boden, Oliver Stickel, Dominik Hornung, Gunnar Stevens. *Tagungsband der Mensch & Computer Konferenz (MuC) '14, pp. 363-366.*
+[**Playful, collaborative approaches to 3D modeling and 3D printing**](https://dl.gi.de/bitstream/handle/20.500.12116/7577/von-Rekowski_Boden_Stickel_Hornung_Stevens_2014.pdf?sequence=2&isAllowed=n) ([poster](files/2014-poster-playful3dprinting.pdf)) by Thomas von Rekowski, Alexander Boden, Oliver Stickel, Dominik Hornung, Gunnar Stevens. *Tagungsband der Mensch & Computer Konferenz (MuC) '14, pp. 363-366.*
 
 `2014`
 [**Computer im Grünen: IT-Systeme zur Unterstützung urbaner Gärten**](https://dl.gi.de/bitstream/handle/20.500.12116/7557/Stickel_Ludwig_Pipek_2014.pdf?sequence=2&isAllowed=y) by Oliver Stickel, Thomas Ludwig, Volkmar Pipek. *Tagungsband der Mensch & Computer Konferenz (MuC) '14, pp. 303-306.*
 
 `2014`
-[**3D Printers as Potential Boundary Negotiating Artifacts for Third Places**](https://www.researchgate.net/profile/Oliver-Stickel/publication/262535718_3D_Printers_as_Potential_Boundary_Negotiating_Artifacts_for_Third_Places/links/53d894380cf2631430c324fa/3D-Printers-as-Potential-Boundary-Negotiating-Artifacts-for-Third-Places.pdf?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InB1YmxpY2F0aW9uIiwicGFnZSI6InB1YmxpY2F0aW9uIn19) ([slides here](files/slides/2014-3dprinters-boundary-objects.pdf)) by Thomas Ludwig, Oliver Stickel, Volkmar Pipek. *Workshop Proceedings of the Designing Interactive Systems Conference (DIS) '14.*
+[**3D Printers as Potential Boundary Negotiating Artifacts for Third Places**](https://www.researchgate.net/profile/Oliver-Stickel/publication/262535718_3D_Printers_as_Potential_Boundary_Negotiating_Artifacts_for_Third_Places/links/53d894380cf2631430c324fa/3D-Printers-as-Potential-Boundary-Negotiating-Artifacts-for-Third-Places.pdf?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InB1YmxpY2F0aW9uIiwicGFnZSI6InB1YmxpY2F0aW9uIn19) ([slides](files/slides/2014-3dprinters-boundary-objects.pdf)) by Thomas Ludwig, Oliver Stickel, Volkmar Pipek. *Workshop Proceedings of the Designing Interactive Systems Conference (DIS) '14.*
 
 `2014`
 [**Come_in@ palestine: adapting a german computer club concept to a palestinian refugee camp**](https://www.researchgate.net/profile/Konstantin-Aal/publication/264503740_Come_INPalestine_Adapting_a_German_Computer_Club_Concept_to_a_Palestinian_Refugee_Camp/links/53f9ee7a0cf20a45496ab466/Come-INPalestine-Adapting-a-German-Computer-Club-Concept-to-a-Palestinian-Refugee-Camp.pdf) by Konstantin Aal, George Yerousis, Kai Schubert, Dominik Hornung, Oliver Stickel, Volker Wulf. *Proceedings of the conference on Collaboration Across Boundaries (CABS): culture, distance & technology '14, pp. 111-120.* 
@@ -264,6 +264,9 @@ These might or might not be continued at some point. Thoughts and feedback are w
 
 ## Talks & slides
 
+
+
+
 `2023`
 [Introduction to soldering](files/slides/2023-soldering.pdf)  
 
@@ -283,6 +286,7 @@ These might or might not be continued at some point. Thoughts and feedback are w
 `2019`
 [WTF is Fab Lab (Siegen)?](files/slides/2019-wtf-fablab.pdf) (extended version: [What is a Fab Lab](files/slides/2019-what-is-a-fablab.pdf))  
 [Prototyping with Arduino (semester-long seminar, English)](files/slides/2019-prototyping-with-arduino_en.pdf)  
+[Makerspaces, Fab Labs and Lab Managers in Academia](files/slides/2019-fab101-fablearn.pdf)  
 [Das Schaffen in Fab Labs](files/slides/2019_das-schaffen-in-fab-labs.pdf)
 
 `2018`
@@ -301,12 +305,15 @@ Introduction to HCI (semester-long lecture): [German](files/slides/2017-introduc
 [Interaction Design with Arduino (semester-long seminar, German)](files/slides/2016-interaction-design-with-arduino.pdf)
 
 `2015`
-Workshop Usability & User Experience: [one day](files/slides/2015-uux-workshop.pdf) / [two days](files/slides/2015-uux-workshop-2d.pdf)  
+Workshop on Usability & User Experience: [one day](files/slides/2015-uux-workshop.pdf) / [two days](files/slides/2015-uux-workshop-2d.pdf)  
 [3D printing (semester-long seminar)](files/slides/2015-3d-druck-seminar.pdf)  
-[Industrie 4.0 meets Making](files/slides/2015-industrie40-meets-making.pdf)
+[Industrie 4.0 meets Making](files/slides/2015-industrie40-meets-making.pdf)  
+[Appropriating digital fabrication: A comparative study of 2 3D printing communities](files/slides/2015_iconf_3dp_slides.pdf)  
+[Praktiken der Nutzerintegration im Entwicklungsprozess von KMU](files/slides/2015_muc-praktiken.pdf)  
 
 `2014`
-[Makers at Palestine](files/slides/2014-makers-at-palestine.pdf)
+[Makers at Palestine](files/slides/2014-makers-at-palestine.pdf)  
+[3D printers as boundary (negotiating) artifacts](files/slides/2014-3dprinters-boundary-objects.pdf)
 
 `2013`
 [Social Flashcards](files/slides/2013-social-flashcards-slides.pdf)  
