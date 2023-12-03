@@ -308,8 +308,8 @@ General (safety) introduction to RUB-Makerspace [German](files/slides/2023-siu-r
 [Project FAB101](files/slides/2017-fab101.pdf)  
 [Project ZEIT.RAUM Siegen](files/slides/2017-zeitraum.pdf)  
 [Wissenschaftstheorie](files/slides/2017-wissenschaftstheorie.pdf)  
-[Kinder-Uni zum Entstehen von Produkten](files/slides/2017-kinderuni-fablab.pdf)  
-Introduction to HCI (semester-long lecture): [German](files/slides/2017-introduction-to-hci_de.pdf) / [English](files/slides/2017-introduction-to-hci_en.pdf)
+[Children's university talk on how to make stuff](files/slides/2017-kinderuni-fablab.pdf)  
+Introduction to HCI (semester-long lecture & tutorial): [German](files/slides/2017-introduction-to-hci_de.pdf) / [English](files/slides/2017-introduction-to-hci_en.pdf)
 
 `2016`
 [Fab Lab Siegen](files/slides/2016-fablabsiegen.pdf)  
@@ -317,20 +317,20 @@ Introduction to HCI (semester-long lecture): [German](files/slides/2017-introduc
 
 `2015`
 Workshop on Usability & User Experience: [one day](files/slides/2015-uux-workshop.pdf) / [two days](files/slides/2015-uux-workshop-2d.pdf)  
-[3D printing (semester-long seminar)](files/slides/2015-3d-druck-seminar.pdf)  
-[Making@Palestine lightning talk & 3D printing for beginners workshop at re:publica 2016](http://archiv-15.re-publica.com/en/member/3257) (slides see "2014: "Makers at Palestine" and 3D printing seminar)  
+[3D printing (semester-long seminar, German)](files/slides/2015-3d-druck-seminar.pdf)  
+[Making@Palestine lightning talk & 3D printing for beginners workshop at re:publica 2016](http://archiv-15.re-publica.com/en/member/3257)  
 [Industrie 4.0 meets Making](files/slides/2015-industrie40-meets-making.pdf)  
-[Appropriating digital fabrication: A comparative study of 2 3D printing communities](files/slides/2015_iconf_3dp_slides.pdf)  
+[Appropriating digital fabrication: A comparative study of two 3D printing communities](files/slides/2015_iconf_3dp_slides.pdf)  
 [Praktiken der Nutzerintegration im Entwicklungsprozess von KMU](files/slides/2015_muc-praktiken.pdf)  
 
 `2014`
 [Makers at Palestine](files/slides/2014-makers-at-palestine.pdf) (talk at [Hackspace Siegen](https://hasi.it/), among others)  
-[Video of a talk about Fab Lab Siegen at WUD Siegen 2014](https://www.youtube.com/watch?v=DJb3l-8QlJQ)
+[Video of a talk about Fab Lab Siegen at WUD Siegen 2014](https://www.youtube.com/watch?v=DJb3l-8QlJQ)  
 [3D printers as boundary (negotiating) artifacts](files/slides/2014-3dprinters-boundary-objects.pdf)  
 
 `2013`
-[Social Flashcards](files/slides/2013-social-flashcards-slides.pdf)  
-[Synchrone und asynchrone Kooperation](files/slides/2013-syncasync.pdf)  
+[Social Flashcards learning app concept](files/slides/2013-social-flashcards-slides.pdf)  
+[Synchronous and asynchronous collaboration](files/slides/2013-syncasync.pdf)  
 [HackDock - a 3d printed Macbook accessory](files/slides/2013-hackdock.pdf)  
 [KUSi - launch of the Siegen usability competence center](files/slides/2013-kusi.pdf)  
 [Tutorial development for an exergame for the elderly](files/2013-istoppfalls-tutorial.pdf)  
@@ -343,7 +343,7 @@ Workshop on Usability & User Experience: [one day](files/slides/2015-uux-worksho
 [On User Experience](files/slides/2012-ux.pdf) 
 
 `2011`
-[Educational game "Food Balance"](files/slides/2011-foodbalance-game.pdf) ([poster](files/2011-foodbalance-poster.pdf))  
+[Educational game prototype "Food Balance"](files/slides/2011-foodbalance-game.pdf) ([poster](files/2011-foodbalance-poster.pdf))  
 [Cindy Sherman](files/slides/2011-cindysherman.pdf)  
 [Pathological Internet Use](files/slides/2011-pathological-internet-use.pdf)  
 [3D animation project "Star Trek TOS"](files/slides/2011-star-trek-tos-animation-slides.pdf) ([the animation](files/3d/star-trek-tos-animation.mp4))
@@ -353,8 +353,6 @@ Workshop on Usability & User Experience: [one day](files/slides/2015-uux-worksho
 [Das (schwarze) Quadrat](files/slides/2010-quadrat.pdf)  
 [The perfect thing - Imco lighters](files/slides/2010-tpt-imco.pdf)  
 [(Web-)Typografie](files/slides/2010-webtypo.pdf) ([Handout](files/slides/2010-webtypo-handout.pdf)) 
-
-[A talk by me about Fab Lab Siegen (from way back when)](https://www.youtube.com/watch?v=DJb3l-8QlJQ)
 
 ## Additional links
 
