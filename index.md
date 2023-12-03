@@ -161,7 +161,7 @@ I enjoy camping, water, (working on) motorbikes, cooking and books.
 
 
 `2018`
-[**Fab Labs and Interdisciplinary Academic Teaching: A research agenda**](files/10.1145-3213818.3213835.pdf) (poster [here](files/2018_fablearn_fab101_poster.pdf)) by Oliver Stickel, Melanie Stilz, Volkmar Pipek. *Proceedings from the Fab Learn Europe Conference '18, pp. 104-105.*
+[**Fab Labs and Interdisciplinary Academic Teaching: A research agenda**](files/10.1145-3213818.3213835.pdf) ([poster](files/2018_fablearn_fab101_poster.pdf)) by Oliver Stickel, Melanie Stilz, Volkmar Pipek. *Proceedings from the Fab Learn Europe Conference '18, pp. 104-105.*
 
 `2017`
 [**Computerclubs und Flüchtlingslager - Ein Diskussionsbeitrag zur Forschungs- und Bildungsarbeit aus praxistheoretischer Perspektive**](files/10.14361-9783839433508-008.pdf) by Oliver Stickel, Konstantin Aal, Marén Schorch, Dominik Hornung, Alexander Boden, Volker Wulf, Volkmar Pipek. *In: Langreiter, N., Löffler, K. (eds.) - Do it! Yourself? Fragen zu (Forschungs-)Praktiken des Selbermachens. transcript.*  
@@ -174,6 +174,9 @@ I enjoy camping, water, (working on) motorbikes, cooking and books.
 
 `2016`
 [**User Integration in Agile Software Development Processes: Practices and Challenges in Small and Medium Sized Enterprises**](files/10.1007-978-3-319-32165-3_2.pdf) by Oliver Stickel, Corinna Ogonowkski, Timo Jacobi, Gunnar Stevens, Volkmar Pipek, Volker Wulf. *In: Cockton, G., Lárusdóttir, M., Gregory, P., Cajander, Å. (eds) - Integrating User-Centred Design in Agile Development. Springer.*
+
+`2016`
+[**Infrastructuring & Digital Fabrication**](https://subs.emis.de/LNI/Proceedings/Proceedings259.html) by Oliver Stickel, Volkmar Pipek. *In: Mayr, H., Pinzger, M. (eds.) - proceedings INFORMATIK 2016 - Lecture Notes in Informatics (LNI). GI.*
 
 `2016`
 [**Usability Quartett (Neuauflage und Erweiterung)**](https://germanupa.de/berufsverband-german-upa/aktuelles/usability-quartett-neuer-auflage) by GermanUPA, Oliver Stickel, Alisha Tilsner, Elisabeth Schwerdtner, Susanne Speh, Cindy Waldinger. *Method Cards, GermanUPA (see [pitch](files/usability-quartett-pitch.pdf)).*
@@ -209,7 +212,7 @@ I enjoy camping, water, (working on) motorbikes, cooking and books.
 [**Towards Sociable Technologies: An Empirical Study on Designing Appropriation Infrastructures for 3D Printing**](files/10.1145-2598510.2598528.pdf) by Thomas Ludwig, Oliver Stickel, Alexander Boden, Volkmar Pipek. *Proceedings of the Designing Interactive Systems Conference (DIS) '14, pp. 835–844.* 
 
 `2014`
-[**Computer supported urban gardening**](http://hci-siegen.de/wp-uploads/2014/05/3-draft-urban-gardening-paper.pdf) (poster [here](files/2014-poster-csug.pdf)) by Oliver Stickel, Thomas Ludwig. *Proceedings of the Designing Interactive Systems Conference (DIS) '14, pp. 77–80.*
+[**Computer supported urban gardening**](http://hci-siegen.de/wp-uploads/2014/05/3-draft-urban-gardening-paper.pdf) ([poster](files/2014-poster-csug.pdf)) by Oliver Stickel, Thomas Ludwig. *Proceedings of the Designing Interactive Systems Conference (DIS) '14, pp. 77–80.*
 
 `2014`
 [**Nutzerintegration in Softwareprojekte durch Multi-Channel Feedback.**](https://dl.gi.de/bitstream/handle/20.500.12116/7532/Draxler_Stickel_Winter_Stevens_2014.pdf?sequence=2&isAllowed=y) by Sebastian Draxler, Oliver Stickel, Dominique Winter, Gunnar Stevens. *Tagungsband der Mensch & Computer Konferenz (MuC) '14, pp. 175-184.*
@@ -234,6 +237,9 @@ I enjoy camping, water, (working on) motorbikes, cooking and books.
 
 `2012`
 [**Page navigation in touch based interfaces**](files/ba-thesis.pdf). *My bachelor thesis at the Interactive Systems research group, University of Duisburg-Essen.*
+
+`2006`
+**[Tu nicht so erwachsen](files/tunichtsoerwachsen.jpg)!** by Filip Bubenheimer, Oliver Stickel (eds.) et al. *[Graduation](files/friedrich-pisst.jpg) book. Self-published (300pcs).*  
 
 `2005`
 [**XESCOE - x-tendable environment for soundcard operated experiments**](files/2005-xescoe-documentation.pdf) ([user handbook](files/2005-xescoe-handbook.pdf), [slides](files/slides/2005-xescoe-slides.pdf)) by Benedikt Rudoloph, Oliver Stickel, Niklas Reisser. *Land Baden-Württemberg at [Landesbildungsserver](https://de.wikipedia.org/wiki/Landesbildungsserver_Baden-W%C3%BCrttemberg) (went offline in 2019).*
@@ -281,7 +287,8 @@ These might or might not be continued at some point. Thoughts and feedback are w
 
 `2021`
 [How to develop workshops in/for Makerspaces](files/slides/2021-workshops-in-makerspaces.pdf)  
-[Safety instructions Digital Lab](files/slides/2021-unterweisung-digitallabor.pdf) ([web-view](https://makerspace.ruhr-uni-bochum.de/slides/unterweisung-digitallabor/))
+[Safety instructions Digital Lab](files/slides/2021-unterweisung-digitallabor.pdf) ([web-view](https://makerspace.ruhr-uni-bochum.de/slides/unterweisung-digitallabor/))  
+[Insights into RUB-Makerspace](https://hci.rwth-aachen.de/amm-210721) (Q&A and 360-tour through RUB-Makerspace at Aachen Maker Meetup)
 
 `2019`
 [WTF is Fab Lab (Siegen)?](files/slides/2019-wtf-fablab.pdf) (extended version: [What is a Fab Lab](files/slides/2019-what-is-a-fablab.pdf))  
@@ -291,7 +298,7 @@ These might or might not be continued at some point. Thoughts and feedback are w
 
 `2018`
 [Fab Labs and additive manufacturing seminar session](files/slides/2018_additive-manufacturing-in-fablabs.pdf)  
-[Socio-Informatics](files/slides/2018-socio-informatics.pdf)
+[Socio-Informatics](files/slides/2018-socio-informatics.pdf) guest lecture for [Current Topics in Media Computing and Human–Computer Interaction](https://hci.rwth-aachen.de/cthci-ss2018) at RWTH Aachen ([podcast](https://podcasts.apple.com/us/podcast/12-socio-informatiks-oliver-stickel/id1374020313?i=1000416862043))  
 
 `2017`
 [Project FAB101](files/slides/2017-fab101.pdf)  
@@ -330,10 +337,10 @@ Workshop on Usability & User Experience: [one day](files/slides/2015-uux-worksho
 [On User Experience](files/slides/2012-ux.pdf) 
 
 `2011`
-[Educational game "Food Balance"](files/slides/2011-foodbalance-game.pdf) (poster [here](files/2011-foodbalance-poster.pdf))  
+[Educational game "Food Balance"](files/slides/2011-foodbalance-game.pdf) ([poster](files/2011-foodbalance-poster.pdf))  
 [Cindy Sherman](files/slides/2011-cindysherman.pdf)  
 [Pathological Internet Use](files/slides/2011-pathological-internet-use.pdf)  
-[3D animation project "Star Trek TOS"](files/slides/2011-star-trek-tos-animation-slides.pdf) (animation [here](files/3d/star-trek-tos-animation.mp4))
+[3D animation project "Star Trek TOS"](files/slides/2011-star-trek-tos-animation-slides.pdf) ([the animation](files/3d/star-trek-tos-animation.mp4))
 
 `2010`
 [OpArt](files/slides/2010-opart.pdf)  
