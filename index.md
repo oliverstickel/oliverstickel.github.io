@@ -176,7 +176,7 @@ I enjoy camping, water, (working on) motorbikes, cooking and books.
 [**User Integration in Agile Software Development Processes: Practices and Challenges in Small and Medium Sized Enterprises**](files/10.1007-978-3-319-32165-3_2.pdf) by Oliver Stickel, Corinna Ogonowkski, Timo Jacobi, Gunnar Stevens, Volkmar Pipek, Volker Wulf. *In: Cockton, G., Lárusdóttir, M., Gregory, P., Cajander, Å. (eds) - Integrating User-Centred Design in Agile Development. Springer.*
 
 `2016`
-[**Infrastructuring & Digital Fabrication**](https://subs.emis.de/LNI/Proceedings/Proceedings259.html) by Oliver Stickel, Volkmar Pipek. *In: Mayr, H., Pinzger, M. (eds.) - proceedings INFORMATIK 2016 - Lecture Notes in Informatics (LNI). GI.*
+[**Infrastructuring & Digital Fabrication**](https://subs.emis.de/LNI/Proceedings/Proceedings259.html) by Oliver Stickel, Volkmar Pipek. *In: Mayr, H., Pinzger, M. (eds.) - INFORMATIK 2016, Lecture Notes in Informatics (LNI). Gesellschaft für Informatik.*
 
 `2016`
 [**Usability Quartett (Neuauflage und Erweiterung)**](https://germanupa.de/berufsverband-german-upa/aktuelles/usability-quartett-neuer-auflage) by GermanUPA, Oliver Stickel, Alisha Tilsner, Elisabeth Schwerdtner, Susanne Speh, Cindy Waldinger. *Method Cards, GermanUPA (see [pitch](files/usability-quartett-pitch.pdf)).*
