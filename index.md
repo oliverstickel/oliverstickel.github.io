@@ -360,7 +360,7 @@ Workshop on Usability & User Experience: [one day](files/slides/2015-uux-worksho
 
 [makerspace.rub.de](https://makerspace.rub.de) / [on GitLab](https://git.noc.ruhr-uni-bochum.de/makerspace/) / [video tour](https://www.youtube.com/watch?v=N0KiLeKibaY)
 
-[fablab-siegen.de](https://fablab-siegen.de) / [on GitHub](https://github.com/orgs/FabLabSiegen) / videos: [2018 - on Campus](https://www.youtube.com/watch?v=A6xB28BSVdM) / [2020 - "Herrengarten"](https://www.youtube.com/shorts/nVQs8ky4XDs) / [2023 - current space](https://www.youtube.com/watch?v=sX62ZnqTbbc) / [2021: Interview with Fab Lab Siegen's community manager](https://www.youtube.com/watch?v=DE94E3Z-R3c)
+[fablab-siegen.de](https://fablab-siegen.de) / [on GitHub](https://github.com/orgs/FabLabSiegen) / ***videos:*** [2018 - on Campus](https://www.youtube.com/watch?v=A6xB28BSVdM) / [2020 - "Herrengarten"](https://www.youtube.com/shorts/nVQs8ky4XDs) / [2023 - current space](https://www.youtube.com/watch?v=sX62ZnqTbbc) / [2021: Interview with Fab Lab Siegen's community manager](https://www.youtube.com/watch?v=DE94E3Z-R3c)
 
 [fab101.de](https://fab101.de) / [on GitHub](https://github.com/FabLabSiegen/fab101-docs)
 
