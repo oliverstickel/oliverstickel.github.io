@@ -370,11 +370,13 @@ Workshop on Usability & User Experience: [one day](files/slides/2015-uux-worksho
 
 [yallah.exchange](https://yallah.exchange) / [exhibition.yallah.exchange](https://exhibition.yallah.exchange)
 
-[News article on RUB-Makerspace at Mark51/7](https://www.waz.de/staedte/bochum/exklusiv-blick-auf-mark-51-7-wahnsinn-was-sich-getan-hat-id239011815.html)  
+[WAZ news article on RUB-Makerspace at Mark51/7](https://www.waz.de/staedte/bochum/exklusiv-blick-auf-mark-51-7-wahnsinn-was-sich-getan-hat-id239011815.html) 
+
+["Nachtbetrieb auf Mark 51/7" with a look at RUB-Makerspace on pp. 8-9](https://ruhrtal-verlag.de/wp-content/uploads/halloboOST_011_5.pdf)   
 
 [Interview "Deutsche Welle" about Fab Labs](https://www.dw.com/de/fablab-gemeinsam-t%C3%BCftelts-sich-leichter/a-49714943)
 
-[News article on 3D printing with children](https://www.wp.de/staedte/siegerland/kinder-drucken-in-kreuztaler-stadtbibliothek-in-3d-id11160424.html)
+[WP news article on 3D printing with children](https://www.wp.de/staedte/siegerland/kinder-drucken-in-kreuztaler-stadtbibliothek-in-3d-id11160424.html)  
 
 [News article on working with refugees at Fab Lab Siegen](https://www.3d-grenzenlos.de/magazin/kurznachrichten/projekts-learnspaces-uni-siegen-fuer-fluechtlinge-27340123/)
 
