@@ -202,6 +202,10 @@ I enjoy camping, water, (working on) motorbikes, cooking and books.
 `2015`
 [**Educating the next generation of Makers - 3D Printing with marginalized refugee children: Exploring Making and digital fabrication from a HCI perspective through an exploratory field study in refugee camps in the West Bank**](files/10.13140-2.1.2839.5848.pdf). *My master thesis at the institute for Information Systems and New Media & the CSCW research group, University of Siegen.*
 
+`2015`
+[**(Open) Usability Method Toolkit**](https://www.usability-siegen.de/). *Open library of Usability and User Experience methods, originally in German as "CUBES-Methodenfinder". Has since been expanded on and translated by students at Fab Lab Siegen.*  
+
+
 `2014`
 [**Bottom-Up Kultur in Siegen: Ein Bericht über aktuelle Strukturen, Entwicklungen und Umnutzungsprozesse**](files/10.14220-digo.2014.35.1.55.pdf) by Oliver Stickel, Alexander Boden, Gunnar Stevens, Volkmar Pipek, Volker Wulf. *In: Habscheid, S., Hoch, G. , Schröteler-v. Brandt, H., Stein, V. (eds.) - DIAGONAL Jahrgang 2014: Umnutzung - Alte Sachen, neue Zwecke. V&R unipress.*
 
@@ -314,13 +318,15 @@ Introduction to HCI (semester-long lecture): [German](files/slides/2017-introduc
 `2015`
 Workshop on Usability & User Experience: [one day](files/slides/2015-uux-workshop.pdf) / [two days](files/slides/2015-uux-workshop-2d.pdf)  
 [3D printing (semester-long seminar)](files/slides/2015-3d-druck-seminar.pdf)  
+[Making@Palestine lightning talk & 3D printing for beginners workshop at re:publica 2016](http://archiv-15.re-publica.com/en/member/3257) (slides see "2014: "Makers at Palestine" and 3D printing seminar)  
 [Industrie 4.0 meets Making](files/slides/2015-industrie40-meets-making.pdf)  
 [Appropriating digital fabrication: A comparative study of 2 3D printing communities](files/slides/2015_iconf_3dp_slides.pdf)  
 [Praktiken der Nutzerintegration im Entwicklungsprozess von KMU](files/slides/2015_muc-praktiken.pdf)  
 
 `2014`
-[Makers at Palestine](files/slides/2014-makers-at-palestine.pdf)  
-[3D printers as boundary (negotiating) artifacts](files/slides/2014-3dprinters-boundary-objects.pdf)
+[Makers at Palestine](files/slides/2014-makers-at-palestine.pdf) (talk at [Hackspace Siegen](https://hasi.it/), among others)  
+[Video of a talk about Fab Lab Siegen at WUD Siegen 2014](https://www.youtube.com/watch?v=DJb3l-8QlJQ)
+[3D printers as boundary (negotiating) artifacts](files/slides/2014-3dprinters-boundary-objects.pdf)  
 
 `2013`
 [Social Flashcards](files/slides/2013-social-flashcards-slides.pdf)  
@@ -348,7 +354,7 @@ Workshop on Usability & User Experience: [one day](files/slides/2015-uux-worksho
 [The perfect thing - Imco lighters](files/slides/2010-tpt-imco.pdf)  
 [(Web-)Typografie](files/slides/2010-webtypo.pdf) ([Handout](files/slides/2010-webtypo-handout.pdf)) 
 
-
+[A talk by me about Fab Lab Siegen (from way back when)](https://www.youtube.com/watch?v=DJb3l-8QlJQ)
 
 ## Additional links
 
@@ -356,13 +362,15 @@ Workshop on Usability & User Experience: [one day](files/slides/2015-uux-worksho
 
 [makerspace.rub.de](https://makerspace.rub.de) / [on GitLab](https://git.noc.ruhr-uni-bochum.de/makerspace/) / [video tour](https://www.youtube.com/watch?v=N0KiLeKibaY)
 
-[fablab-siegen.de](https://fablab-siegen.de) / [on GitHub](https://github.com/orgs/FabLabSiegen) / videos: [2018 - on Campus](https://www.youtube.com/watch?v=A6xB28BSVdM), [2020 - "Herrengarten"](https://www.youtube.com/shorts/nVQs8ky4XDs), [2023 - current space](https://www.youtube.com/watch?v=sX62ZnqTbbc)
+[fablab-siegen.de](https://fablab-siegen.de) / [on GitHub](https://github.com/orgs/FabLabSiegen) / videos: [2018 - on Campus](https://www.youtube.com/watch?v=A6xB28BSVdM) / [2020 - "Herrengarten"](https://www.youtube.com/shorts/nVQs8ky4XDs) / [2023 - current space](https://www.youtube.com/watch?v=sX62ZnqTbbc) / [2021: Interview with Fab Lab Siegen's community manager](https://www.youtube.com/watch?v=DE94E3Z-R3c)
 
-[fab101.de](https://fab101.de)
+[fab101.de](https://fab101.de) / [on GitHub](https://github.com/FabLabSiegen/fab101-docs)
 
 [fab-universe.de](https://fab-universe.de) / [on GitHub](https://github.com/fabuniverse/)
 
 [yallah.exchange](https://yallah.exchange) / [exhibition.yallah.exchange](https://exhibition.yallah.exchange)
+
+[News article on RUB-Makerspace at Mark51/7](https://www.waz.de/staedte/bochum/exklusiv-blick-auf-mark-51-7-wahnsinn-was-sich-getan-hat-id239011815.html)  
 
 [Interview "Deutsche Welle" about Fab Labs](https://www.dw.com/de/fablab-gemeinsam-t%C3%BCftelts-sich-leichter/a-49714943)
 
@@ -371,10 +379,6 @@ Workshop on Usability & User Experience: [one day](files/slides/2015-uux-worksho
 [News article on working with refugees at Fab Lab Siegen](https://www.3d-grenzenlos.de/magazin/kurznachrichten/projekts-learnspaces-uni-siegen-fuer-fluechtlinge-27340123/)
 
 [Interview "Deutschlandfunk Kultur" on Makers](https://www.deutschlandfunkkultur.de/maker-faire-ruhr-in-dortmund-bastler-war-frueher-maker-ist-100.html)
-
-[A talk by me about Fab Lab Siegen (from way back when)](https://www.youtube.com/watch?v=DJb3l-8QlJQ)
-
-[Guest lecture on Socio-Informatics at RWTH Aachen](https://podcasts.apple.com/de/podcast/12-socio-informatiks-oliver-stickel/id1374020313?i=1000416862043&l=en)  
 
 [Usability Method Finder](https://www.usability-siegen.de/)  
 
