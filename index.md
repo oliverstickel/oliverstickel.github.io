@@ -278,7 +278,7 @@ Like most real work, the materials linked here have not been created alone. Than
 
 `2023`
 [Introduction to soldering](files/slides/2023-soldering.pdf)  
-General (safety) introduction to RUB-Makerspace [German](files/slides/2023-siu-rub-makerspace_de.pdf) / [English](files/slides/2023-siu-rub-makerspace_en.pdf)
+General Fab Lab / Makerspace introduction and safety: [German](files/slides/2023-siu-rub-makerspace_de.pdf) / [English](files/slides/2023-siu-rub-makerspace_en.pdf)
 
 `2022`
 [Build your own air quality sensor](files/slides/2022-luftdatensensor.pdf) ([web-view](https://makerspace.ruhr-uni-bochum.de/slides/ws-luftdaten/))  
@@ -291,8 +291,8 @@ General (safety) introduction to RUB-Makerspace [German](files/slides/2023-siu-r
 
 `2021`
 [How to develop workshops in/for Makerspaces](files/slides/2021-workshops-in-makerspaces.pdf)  
-[Safety instructions Digital Lab](files/slides/2021-unterweisung-digitallabor.pdf) ([web-view](https://makerspace.ruhr-uni-bochum.de/slides/unterweisung-digitallabor/))  
-[Insights into RUB-Makerspace](https://hci.rwth-aachen.de/amm-210721) (Q&A and 360-tour through RUB-Makerspace at Aachen Maker Meetup)
+[Introduction to and safety in the digital/electronics lab](files/slides/2021-unterweisung-digitallabor.pdf) ([web-view](https://makerspace.ruhr-uni-bochum.de/slides/unterweisung-digitallabor/))  
+[Q&A and 360-tour through RUB-Makerspace at Aachen Maker Meetup](https://hci.rwth-aachen.de/amm-210721)
 
 `2019`
 [WTF is Fab Lab (Siegen)?](files/slides/2019-wtf-fablab.pdf) (extended version: [What is a Fab Lab](files/slides/2019-what-is-a-fablab.pdf))  
