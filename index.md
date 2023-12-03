@@ -243,10 +243,10 @@ I enjoy camping, water, (working on) motorbikes, cooking and books.
 [**Page navigation in touch based interfaces**](files/ba-thesis.pdf). *My bachelor thesis at the Interactive Systems research group, University of Duisburg-Essen.*
 
 `2006`
-**Tu nicht so erwachsen! [(Excerpt)](files/tunichtsoerwachsen-auszuege.pdf)** by Isabel Arnold, Johannes Bauer, Filip Bubenheimer, Julia Eib, Sarah Gekeler, Tobias Keinath, Luisa Klink, Jakob Köster, Jonka Mezger, Tien Loc Nguyen, Oliver Stickel, Sonja Zimmermann (eds.). *[Graduation](files/friedrich-pisst.jpg) book. Self-published (300pcs).*  
+**Tu nicht so erwachsen! [(excerpt)](files/tunichtsoerwachsen-auszuege.pdf)** by Isabel Arnold, Johannes Bauer, Filip Bubenheimer, Julia Eib, Sarah Gekeler, Tobias Keinath, Luisa Klink, Jakob Köster, Jonka Mezger, Tien Loc Nguyen, Oliver Stickel, Sonja Zimmermann (eds.). *[Graduation](files/friedrich-pisst.jpg) book. Self-published (300pcs).*  
 
 `2005`
-[**XESCOE - x-tendable environment for soundcard operated experiments**](files/2005-xescoe-documentation.pdf) ([user handbook](files/2005-xescoe-handbook.pdf), [slides](files/slides/2005-xescoe-slides.pdf)) by Benedikt Rudoloph, Oliver Stickel, Niklas Reisser. *Land Baden-Württemberg at [Landesbildungsserver](https://de.wikipedia.org/wiki/Landesbildungsserver_Baden-W%C3%BCrttemberg) (went offline in 2019).*
+[**XESCOE - x-tendable environment for soundcard operated experiments**](files/2005-xescoe-documentation.pdf) ([user handbook](files/2005-xescoe-handbook.pdf), [slides](files/slides/2005-xescoe-slides.pdf)) by Benedikt Rudoloph, Oliver Stickel, Niklas Reisser. *Land Baden-Württemberg at [Landesbildungsserver](https://de.wikipedia.org/wiki/Landesbildungsserver_Baden-W%C3%BCrttemberg) (offline since 2019).*
 
 
 
