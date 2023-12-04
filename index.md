@@ -118,7 +118,7 @@ I enjoy camping, water, (working on) motorbikes, cooking and books.
 *Volunteer work, hardware donations and enough local funding for student aids to cover daily opening hours.*
 
 `2013-today`
-**Fab Lab Siegen** [*was my baby](https://fablab-siegen.de)* for many years and my first real experience in regards to being a founder and the world of fundraising. My old team is still running and growing the Lab and it has become [local](files/flyer-lab-in-der-stadt.pdf) infrastructure.  
+**Fab Lab Siegen** [*was my baby*](https://fablab-siegen.de) for many years and my first real experience in regards to being a founder and the world of fundraising. My old team is still running and growing the Lab and it has become [local](files/flyer-lab-in-der-stadt.pdf) infrastructure.  
 *Calls for student projects, donations, other sources, about 100.000€ in money and more in hardware donations during the first three years. Later, funding strategies changed when the project became official university infrastructure. The spaces for the lab were and are co-sponsored by private-public partnerships.*
 
 `2012-2015`
