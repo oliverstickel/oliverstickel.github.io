@@ -387,5 +387,5 @@ Interviews: ["Deutschlandfunk Kultur": Makers](https://www.deutschlandfunkkultur
 
 News articles: [RUB-Makerspace at Mark51/7](https://www.waz.de/staedte/bochum/exklusiv-blick-auf-mark-51-7-wahnsinn-was-sich-getan-hat-id239011815.html), ["Nachtbetrieb auf Mark 51/7" with a look at RUB-Makerspace on pp. 8-9](https://ruhrtal-verlag.de/wp-content/uploads/halloboOST_011_5.pdf), [3D printing with children](https://www.wp.de/staedte/siegerland/kinder-drucken-in-kreuztaler-stadtbibliothek-in-3d-id11160424.html), [working with refugees at Fab Lab Siegen](https://www.3d-grenzenlos.de/magazin/kurznachrichten/projekts-learnspaces-uni-siegen-fuer-fluechtlinge-27340123/), [Fab Lab Siegen moving into the city center](https://siegerland18.rssing.com/chan-16077931/article8552-live.html)
 
-[My old blog posts on the Fab Lab Siegen website](https://fablab-siegen.de/author/oliver_dummy/)  
+[My old blog posts on the Fab Lab Siegen website](https://fablab-siegen.de/author/oliver_dummy/)   
 
