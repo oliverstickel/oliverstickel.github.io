@@ -292,18 +292,18 @@ General Fab Lab / Makerspace introduction and safety: [German](files/slides/2023
 `2021`
 [How to develop workshops in/for Makerspaces](files/slides/2021-workshops-in-makerspaces.pdf)  
 [Introduction to and safety in digital/electronics labs](files/slides/2021-unterweisung-digitallabor.pdf) ([web-view](https://makerspace.ruhr-uni-bochum.de/slides/unterweisung-digitallabor/))  
-[Guest lecture & workshop on Arduino for *Female Entrepreneurs at RUB*](https://face.rub.de/projektseminarmakerspace/) (see 2019 Arduino seminar slides)  
+[Guest lecture & workshop on Arduino for *Female Entrepreneurs at RUB*](https://face.rub.de/projektseminarmakerspace/)  
 [Q&A and 360-tour through RUB-Makerspace at Aachen Maker Meetup](https://hci.rwth-aachen.de/amm-210721)
 
 `2019`
 [WTF is Fab Lab (Siegen)?](files/slides/2019-wtf-fablab.pdf) (extended version: [What is a Fab Lab](files/slides/2019-what-is-a-fablab.pdf))  
 [Prototyping with Arduino (semester-long seminar, English)](files/slides/2019-prototyping-with-arduino_en.pdf)  
 [Makerspaces, Fab Labs and Lab Managers in Academia](files/slides/2019-fab101-fablearn.pdf)  
-[Fab Lab stories](files/slides/2019-fablabs.pdf) guest lecture for [Folkwang Fab Diplom](https://id.folkwang-uni.de/projekte/folkwang-fabdiplom-2019/) at Folkwang Universität  
+[Fab Lab](files/slides/2019-fablabs.pdf) guest lecture for [Folkwang Fab Diplom](https://id.folkwang-uni.de/projekte/folkwang-fabdiplom-2019/) at Folkwang Universität  
 [Talk & workshop on Fab Labs as culture labs](files/slides/2019_das-schaffen-in-fab-labs.pdf)
 
 `2018`
-[Fab Labs and 3D printing](files/slides/2018_additive-manufacturing-in-fablabs.pdf) guest lecture for the faculty of engineering at Uni Siegen  
+[Fab Labs & 3D printing](files/slides/2018_additive-manufacturing-in-fablabs.pdf) guest lecture, faculty of engineering at Uni Siegen  
 Guest lecture & workshop on [*Arduino in a nutshell*](https://hci.rwth-aachen.de/arduino) with the [Media Computing Group](https://hci.rwth-aachen.de/) from RWTH Aachen at Folkwang Universität  
 [Socio-Informatics](files/slides/2018-socio-informatics.pdf) guest lecture for [Current Topics in Media Computing and HCI](https://hci.rwth-aachen.de/cthci-ss2018) at RWTH Aachen ([podcast](https://podcasts.apple.com/us/podcast/12-socio-informatiks-oliver-stickel/id1374020313?i=1000416862043))  
 
