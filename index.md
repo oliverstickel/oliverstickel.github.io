@@ -298,10 +298,12 @@ General Fab Lab / Makerspace introduction and safety: [German](files/slides/2023
 [WTF is Fab Lab (Siegen)?](files/slides/2019-wtf-fablab.pdf) (extended version: [What is a Fab Lab](files/slides/2019-what-is-a-fablab.pdf))  
 [Prototyping with Arduino (semester-long seminar, English)](files/slides/2019-prototyping-with-arduino_en.pdf)  
 [Makerspaces, Fab Labs and Lab Managers in Academia](files/slides/2019-fab101-fablearn.pdf)  
+[Fab Lab stories](files/slides/2019-fablabs.pdf) guest lecture for [Folkwang Fab Diplom](https://id.folkwang-uni.de/projekte/folkwang-fabdiplom-2019/) at Folkwang Universität  
 [Das Schaffen in Fab Labs](files/slides/2019_das-schaffen-in-fab-labs.pdf)
 
 `2018`
 [Fab Labs and additive manufacturing seminar session](files/slides/2018_additive-manufacturing-in-fablabs.pdf)  
+Guest lecture & workshop on [*Arduino in a nutshell*](https://hci.rwth-aachen.de/arduino) with the [Media Computing Group](https://hci.rwth-aachen.de/) from RWTH Aachen at Folkwang Universität  
 [Socio-Informatics](files/slides/2018-socio-informatics.pdf) guest lecture for [Current Topics in Media Computing and HCI](https://hci.rwth-aachen.de/cthci-ss2018) at RWTH Aachen ([podcast](https://podcasts.apple.com/us/podcast/12-socio-informatiks-oliver-stickel/id1374020313?i=1000416862043))  
 
 `2017`
