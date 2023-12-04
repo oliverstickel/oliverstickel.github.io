@@ -311,8 +311,8 @@ Guest lecture & workshop on [*Arduino in a nutshell*](https://hci.rwth-aachen.de
 [Project FAB101](files/slides/2017-fab101.pdf)  
 [Project ZEIT.RAUM Siegen](files/slides/2017-zeitraum.pdf)  
 [Wissenschaftstheorie](files/slides/2017-wissenschaftstheorie.pdf)  
-[Research in practice: Learning factories](https://www.uni-siegen.de/smi/aktuelles/734625.html) (see Fab Lab Siegen slides from 2016)  
-[Workshop on digital fabrication in education](https://mittelstandstagung.de/fileadmin/user_upload/Programmheft.pdf) (similar to 2017 FAB101 slides)  
+[Using technology creatively](https://www.uni-siegen.de/smi/aktuelles/2016_fablab_ukus.compressed.pdf)  
+[Workshop on digital fabrication in education](https://mittelstandstagung.de/fileadmin/user_upload/Programmheft.pdf) (similar to 2019 WS on culture labs)  
 [Children's university talk on how to make stuff](files/slides/2017-kinderuni-fablab.pdf)  
 Introduction to HCI (semester-long lecture & tutorial): [German](files/slides/2017-introduction-to-hci_de.pdf) / [English](files/slides/2017-introduction-to-hci_en.pdf)
 
