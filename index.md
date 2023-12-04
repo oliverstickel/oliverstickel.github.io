@@ -274,7 +274,7 @@ These might or might not be continued at some point. Thoughts and feedback are w
 
 ## Talks & slides
 
-Like most real work, the materials linked here have not been created alone. Thank you to all collaborators!  
+Like most real work, the materials linked here have not been created alone. **Thank you to all collaborators!**  
 
 `2023`
 [Introduction to soldering](files/slides/2023-soldering.pdf)  
