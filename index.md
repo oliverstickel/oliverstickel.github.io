@@ -338,18 +338,18 @@ Workshop on Usability & User Experience: [one day](files/slides/2015-uux-worksho
 [3D printers as boundary (negotiating) artifacts](files/slides/2014-3dprinters-boundary-objects.pdf)  
 
 `2013`
+[On Fab Labs](files/slides/2013-fablabs.pdf) ([Handout](files/slides/2013-fablabs-handout.pdf))  
 [Social Flashcards learning app concept](files/slides/2013-social-flashcards-slides.pdf)  
 [Synchronous and asynchronous collaboration](files/slides/2013-syncasync.pdf)  
 [HackDock - a 3d printed Macbook accessory](files/slides/2013-hackdock.pdf)  
 [KUSi - launch of the Siegen usability competence center](files/slides/2013-kusi.pdf)  
 [Tutorial development for an exergame for the elderly](files/2013-istoppfalls-tutorial.pdf)  
 [HCI-Lab Siegen (predecessor of Fab Lab Siegen)](files/slides/2013-hcilab.pdf)  
-[On Fab Labs](files/slides/2013-fablabs.pdf) ([Handout](files/slides/2013-fablabs-handout.pdf))
 
 `2012`
+[On User Experience](files/slides/2012-ux.pdf)  
 [Clifford Nass - the man who lied to his laptop](files/slides/2012-nass.pdf)  
 [John Dewey - art as experience](files/slides/2012-dewey.pdf)  
-[On User Experience](files/slides/2012-ux.pdf) 
 
 `2011`
 [Educational game prototype "Food Balance"](files/slides/2011-foodbalance-game.pdf) ([poster](files/2011-foodbalance-poster.pdf))  
@@ -360,8 +360,8 @@ Workshop on Usability & User Experience: [one day](files/slides/2015-uux-worksho
 `2010`
 [OpArt](files/slides/2010-opart.pdf)  
 [Das (schwarze) Quadrat](files/slides/2010-quadrat.pdf)  
-[The perfect thing - Imco lighters](files/slides/2010-tpt-imco.pdf)  
 [(Web-)Typografie](files/slides/2010-webtypo.pdf) ([Handout](files/slides/2010-webtypo-handout.pdf)) 
+[The perfect thing - Imco lighters](files/slides/2010-tpt-imco.pdf)  
 
 ## Additional links
 
