@@ -311,7 +311,7 @@ Guest lecture & workshop on [*Arduino in a nutshell*](https://hci.rwth-aachen.de
 [Project FAB101](files/slides/2017-fab101.pdf)  
 [Project ZEIT.RAUM Siegen](files/slides/2017-zeitraum.pdf)  
 [Wissenschaftstheorie](files/slides/2017-wissenschaftstheorie.pdf)  
-[Using technology creatively](https://www.uni-siegen.de/smi/aktuelles/2016_fablab_ukus.compressed.pdf)  
+[Using technology creatively](https://www.uni-siegen.de/smi/aktuelles/2016_fablab_ukus.compressed.pdf) for SMI/IHK Siegen  
 [Digital Fabrication in education](https://mittelstandstagung.de/fileadmin/user_upload/Programmheft.pdf) (similar to 2019 WS on culture labs)  
 [Children's university talk on how to make stuff](files/slides/2017-kinderuni-fablab.pdf)  
 Introduction to HCI (semester-long lecture & tutorial): [German](files/slides/2017-introduction-to-hci_de.pdf) / [English](files/slides/2017-introduction-to-hci_en.pdf)
@@ -332,7 +332,7 @@ Workshop on Usability & User Experience: [one day](files/slides/2015-uux-worksho
 [Praktiken der Nutzerintegration im Entwicklungsprozess von KMU](files/slides/2015_muc-praktiken.pdf)  
 
 `2014`
-[Makers@Palestine](files/slides/2014-makers-at-palestine.pdf) (talks at MakerFaire Hannover, [Hackspace Siegen](https://hasi.it/), others)  
+[Makers@Palestine](files/slides/2014-makers-at-palestine.pdf) (at MakerFaire Hannover, [Hackspace Siegen](https://hasi.it/), others)  
 [Video of a talk about Fab Lab Siegen at WUD Siegen 2014](https://www.youtube.com/watch?v=DJb3l-8QlJQ)  
 3D printing for beginners at MakerFaire Dortmund (see 2015 seminar)  
 [3D printers as boundary (negotiating) artifacts](files/slides/2014-3dprinters-boundary-objects.pdf)  
