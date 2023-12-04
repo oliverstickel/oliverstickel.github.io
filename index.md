@@ -377,25 +377,17 @@ Workshop on Usability & User Experience: [one day](files/slides/2015-uux-worksho
 
 [yallah.exchange](https://yallah.exchange) / [exhibition.yallah.exchange](https://exhibition.yallah.exchange)  
 
-[WAZ news article on RUB-Makerspace at Mark51/7](https://www.waz.de/staedte/bochum/exklusiv-blick-auf-mark-51-7-wahnsinn-was-sich-getan-hat-id239011815.html) 
-
-["Nachtbetrieb auf Mark 51/7" with a look at RUB-Makerspace on pp. 8-9](https://ruhrtal-verlag.de/wp-content/uploads/halloboOST_011_5.pdf)   
-
-[Interview "Deutsche Welle" about Fab Labs](https://www.dw.com/de/fablab-gemeinsam-t%C3%BCftelts-sich-leichter/a-49714943)
-
-[WP news article on 3D printing with children](https://www.wp.de/staedte/siegerland/kinder-drucken-in-kreuztaler-stadtbibliothek-in-3d-id11160424.html)  
-
-[News article on working with refugees at Fab Lab Siegen](https://www.3d-grenzenlos.de/magazin/kurznachrichten/projekts-learnspaces-uni-siegen-fuer-fluechtlinge-27340123/)
-
-[News article on Fab Lab Siegen moving into the city center](https://siegerland18.rssing.com/chan-16077931/article8552-live.html)
-
-[Interview "Deutschlandfunk Kultur" on Makers](https://www.deutschlandfunkkultur.de/maker-faire-ruhr-in-dortmund-bastler-war-frueher-maker-ist-100.html)
-
 [Usability Method Finder](https://www.usability-siegen.de/)  
 
 [wiki.zeitraum-siegen.de](https://wiki.zeitraum-siegen.de)
 
 [World Usability Day Siegen](https://www.wud-siegen.de/)  
+
+RUB-Makerspace: [news article on RUB-Makerspace at Mark51/7](https://www.waz.de/staedte/bochum/exklusiv-blick-auf-mark-51-7-wahnsinn-was-sich-getan-hat-id239011815.html), ["Nachtbetrieb auf Mark 51/7" with a look at RUB-Makerspace on pp. 8-9](https://ruhrtal-verlag.de/wp-content/uploads/halloboOST_011_5.pdf)   
+
+Interviews: ["Deutschlandfunk Kultur" on Makers](https://www.deutschlandfunkkultur.de/maker-faire-ruhr-in-dortmund-bastler-war-frueher-maker-ist-100.html), ["Deutsche Welle" about Fab Labs](https://www.dw.com/de/fablab-gemeinsam-t%C3%BCftelts-sich-leichter/a-49714943)
+
+[News articles: [3D printing with children](https://www.wp.de/staedte/siegerland/kinder-drucken-in-kreuztaler-stadtbibliothek-in-3d-id11160424.html), [working with refugees at Fab Lab Siegen](https://www.3d-grenzenlos.de/magazin/kurznachrichten/projekts-learnspaces-uni-siegen-fuer-fluechtlinge-27340123/), [Fab Lab Siegen moving into the city center](https://siegerland18.rssing.com/chan-16077931/article8552-live.html)
 
 [My old blog posts on the Fab Lab Siegen website](https://fablab-siegen.de/author/oliver_dummy/)  
 
