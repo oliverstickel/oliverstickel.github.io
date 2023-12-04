@@ -291,7 +291,7 @@ General Fab Lab / Makerspace introduction and safety: [German](files/slides/2023
 
 `2021`
 [How to develop workshops in/for Makerspaces](files/slides/2021-workshops-in-makerspaces.pdf)  
-[Introduction to and safety in the digital/electronics lab](files/slides/2021-unterweisung-digitallabor.pdf) ([web-view](https://makerspace.ruhr-uni-bochum.de/slides/unterweisung-digitallabor/))  
+[Introduction to and safety in digital/electronics labs](files/slides/2021-unterweisung-digitallabor.pdf) ([web-view](https://makerspace.ruhr-uni-bochum.de/slides/unterweisung-digitallabor/))  
 [Q&A and 360-tour through RUB-Makerspace at Aachen Maker Meetup](https://hci.rwth-aachen.de/amm-210721)
 
 `2019`
@@ -302,7 +302,7 @@ General Fab Lab / Makerspace introduction and safety: [German](files/slides/2023
 [Das Schaffen in Fab Labs](files/slides/2019_das-schaffen-in-fab-labs.pdf)
 
 `2018`
-[Fab Labs and additive manufacturing seminar session](files/slides/2018_additive-manufacturing-in-fablabs.pdf)  
+[Fab Labs and 3D printing](files/slides/2018_additive-manufacturing-in-fablabs.pdf) guest lecture for the faculty of engineering at Uni Siegen  
 Guest lecture & workshop on [*Arduino in a nutshell*](https://hci.rwth-aachen.de/arduino) with the [Media Computing Group](https://hci.rwth-aachen.de/) from RWTH Aachen at Folkwang Universität  
 [Socio-Informatics](files/slides/2018-socio-informatics.pdf) guest lecture for [Current Topics in Media Computing and HCI](https://hci.rwth-aachen.de/cthci-ss2018) at RWTH Aachen ([podcast](https://podcasts.apple.com/us/podcast/12-socio-informatiks-oliver-stickel/id1374020313?i=1000416862043))  
 
