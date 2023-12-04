@@ -292,6 +292,7 @@ General Fab Lab / Makerspace introduction and safety: [German](files/slides/2023
 `2021`
 [How to develop workshops in/for Makerspaces](files/slides/2021-workshops-in-makerspaces.pdf)  
 [Introduction to and safety in digital/electronics labs](files/slides/2021-unterweisung-digitallabor.pdf) ([web-view](https://makerspace.ruhr-uni-bochum.de/slides/unterweisung-digitallabor/))  
+[Guest lecture & workshop on Arduino for *Female Entrepreneurs at RUB*](https://face.rub.de/projektseminarmakerspace/) (see 2019 Arduino seminar slides)  
 [Q&A and 360-tour through RUB-Makerspace at Aachen Maker Meetup](https://hci.rwth-aachen.de/amm-210721)
 
 `2019`
@@ -299,7 +300,7 @@ General Fab Lab / Makerspace introduction and safety: [German](files/slides/2023
 [Prototyping with Arduino (semester-long seminar, English)](files/slides/2019-prototyping-with-arduino_en.pdf)  
 [Makerspaces, Fab Labs and Lab Managers in Academia](files/slides/2019-fab101-fablearn.pdf)  
 [Fab Lab stories](files/slides/2019-fablabs.pdf) guest lecture for [Folkwang Fab Diplom](https://id.folkwang-uni.de/projekte/folkwang-fabdiplom-2019/) at Folkwang Universität  
-[Das Schaffen in Fab Labs](files/slides/2019_das-schaffen-in-fab-labs.pdf)
+[Talk & workshop on Fab Labs as culture labs](files/slides/2019_das-schaffen-in-fab-labs.pdf)
 
 `2018`
 [Fab Labs and 3D printing](files/slides/2018_additive-manufacturing-in-fablabs.pdf) guest lecture for the faculty of engineering at Uni Siegen  
@@ -310,11 +311,16 @@ Guest lecture & workshop on [*Arduino in a nutshell*](https://hci.rwth-aachen.de
 [Project FAB101](files/slides/2017-fab101.pdf)  
 [Project ZEIT.RAUM Siegen](files/slides/2017-zeitraum.pdf)  
 [Wissenschaftstheorie](files/slides/2017-wissenschaftstheorie.pdf)  
+[Research in practice: Learning factories](https://www.uni-siegen.de/smi/aktuelles/734625.html) (see Fab Lab Siegen slides from 2016)  
+[Workshop on digital fabrication in education](https://mittelstandstagung.de/fileadmin/user_upload/Programmheft.pdf) (similar to 2017 FAB101 slides)  
 [Children's university talk on how to make stuff](files/slides/2017-kinderuni-fablab.pdf)  
 Introduction to HCI (semester-long lecture & tutorial): [German](files/slides/2017-introduction-to-hci_de.pdf) / [English](files/slides/2017-introduction-to-hci_en.pdf)
 
 `2016`
 [Fab Lab Siegen](files/slides/2016-fablabsiegen.pdf)  
+[3D printing for beginners talk & workshop](https://www.makerfaire-ruhr.com/workshop-das-kleine-einmaleins-des-3d-drucks/) at MakerFaire Ruhr (see 2015 3D printing seminar slides)  
+[Demo session on user projects from Fab Lab Siegen](https://events.ihk-siegen.de/attachments/1494575104_391300c2f07b3798557b.pdf) for IHK Siegen (some of the projects see 2019 slides on culture labs)  
+[3D printing for beginners workshop](https://16.re-publica.com/16/session/3d-printing-beginners.html) at re:publica 2016 (see 2015 3D printing seminar slides)  
 [Interaction Design with Arduino (semester-long seminar, German)](files/slides/2016-interaction-design-with-arduino.pdf)
 
 `2015`
@@ -326,8 +332,9 @@ Workshop on Usability & User Experience: [one day](files/slides/2015-uux-worksho
 [Praktiken der Nutzerintegration im Entwicklungsprozess von KMU](files/slides/2015_muc-praktiken.pdf)  
 
 `2014`
-[Makers at Palestine](files/slides/2014-makers-at-palestine.pdf) (talk at [Hackspace Siegen](https://hasi.it/), among others)  
+[Makers at Palestine](files/slides/2014-makers-at-palestine.pdf) (talks at MakerFaire Hannover, [Hackspace Siegen](https://hasi.it/) and others)  
 [Video of a talk about Fab Lab Siegen at WUD Siegen 2014](https://www.youtube.com/watch?v=DJb3l-8QlJQ)  
+3D printing for beginners talk & workshop at MakerFaire Dortmund (see 2015 3D printing seminar slides)  
 [3D printers as boundary (negotiating) artifacts](files/slides/2014-3dprinters-boundary-objects.pdf)  
 
 `2013`
@@ -379,6 +386,8 @@ Workshop on Usability & User Experience: [one day](files/slides/2015-uux-worksho
 [WP news article on 3D printing with children](https://www.wp.de/staedte/siegerland/kinder-drucken-in-kreuztaler-stadtbibliothek-in-3d-id11160424.html)  
 
 [News article on working with refugees at Fab Lab Siegen](https://www.3d-grenzenlos.de/magazin/kurznachrichten/projekts-learnspaces-uni-siegen-fuer-fluechtlinge-27340123/)
+
+[News article on Fab Lab Siegen moving into the city center](https://siegerland18.rssing.com/chan-16077931/article8552-live.html)
 
 [Interview "Deutschlandfunk Kultur" on Makers](https://www.deutschlandfunkkultur.de/maker-faire-ruhr-in-dortmund-bastler-war-frueher-maker-ist-100.html)
 
