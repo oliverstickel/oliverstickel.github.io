@@ -302,7 +302,7 @@ General Fab Lab / Makerspace introduction and safety: [German](files/slides/2023
 
 `2018`
 [Fab Labs and additive manufacturing seminar session](files/slides/2018_additive-manufacturing-in-fablabs.pdf)  
-[Socio-Informatics](files/slides/2018-socio-informatics.pdf) guest lecture for [Current Topics in Media Computing and Human–Computer Interaction](https://hci.rwth-aachen.de/cthci-ss2018) at RWTH Aachen ([podcast](https://podcasts.apple.com/us/podcast/12-socio-informatiks-oliver-stickel/id1374020313?i=1000416862043))  
+[Socio-Informatics](files/slides/2018-socio-informatics.pdf) guest lecture for [Current Topics in Media Computing and HCI](https://hci.rwth-aachen.de/cthci-ss2018) at RWTH Aachen ([podcast](https://podcasts.apple.com/us/podcast/12-socio-informatiks-oliver-stickel/id1374020313?i=1000416862043))  
 
 `2017`
 [Project FAB101](files/slides/2017-fab101.pdf)  
