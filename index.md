@@ -118,11 +118,11 @@ I enjoy camping, water, (working on) motorbikes, cooking and books.
 *Volunteer work, hardware donations and enough local funding for student aids to cover daily opening hours.*
 
 `2013-today`
-**Fab Lab Siegen** was *[my baby](https://fablab-siegen.de)* for many years and my first real experience in regards to being a founder and the world of fundraising. My old team is still running and growing the Lab and it has become [local](files/flyer-lab-in-der-stadt.pdf) infrastructure.  
+**Fab Lab Siegen** [*was my baby](https://fablab-siegen.de)* for many years and my first real experience in regards to being a founder and the world of fundraising. My old team is still running and growing the Lab and it has become [local](files/flyer-lab-in-der-stadt.pdf) infrastructure.  
 *Calls for student projects, donations, other sources, about 100.000€ in money and more in hardware donations during the first three years. Later, funding strategies changed when the project became official university infrastructure. The spaces for the lab were and are co-sponsored by private-public partnerships.*
 
 `2012-2015`
-**[CUBES](files/cubes-faktenblatt.pdf)** was a research project on community-based innovation in software and usability for small and medium sized enterprises. I was involved as a student, then researcher, then (interim) project manager for the [project reporting and closing](https://www.tib.eu/de/suchen?tx_tibsearch_search%5Baction%5D=download&tx_tibsearch_search%5Bcontroller%5D=Download&tx_tibsearch_search%5Bdocid%5D=TIBKAT%3A872262936&cHash=7d56fa41baf92a721f58064874672f4a#download-mark).  
+**CUBES** [was a research project](files/cubes-faktenblatt.pdf) on community-based innovation in software and usability for small and medium sized enterprises. I was involved as a student, then researcher, then (interim) project manager for the [project reporting and closing](https://www.tib.eu/de/suchen?tx_tibsearch_search%5Baction%5D=download&tx_tibsearch_search%5Bcontroller%5D=Download&tx_tibsearch_search%5Bdocid%5D=TIBKAT%3A872262936&cHash=7d56fa41baf92a721f58064874672f4a#download-mark).  
 *Federal Ministry for Economic Affairs and Energy, about 800.000€.*
 
 ## Awards and honors
