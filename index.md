@@ -237,7 +237,7 @@ I enjoy camping, water, (working on) motorbikes, cooking and books.
 [**Customer Feedback and UCD in Agile Software Development**](https://www.researchgate.net/profile/Oliver-Stickel/publication/267481136_Customer_Feedback_and_UCD_in_Agile_Software_Development/links/5450b43e0cf201441e938e65/Customer-Feedback-and-UCD-in-Agile-Software-Development.pdf) by Oliver Stickel, Sebastian Draxler, Gunnar Stevens. *Workshop Proceedings of the NordiCHI '14.* 
 
 `2014`
-[**Come_IN: Expanding Computer Clubs Towards Tinkering and Making**](https://www.researchgate.net/profile/Oliver-Stickel/publication/267481683_Come_IN_Expanding_Computer_Clubs_Towards_Tinkering_and_Making/links/5450b4db0cf249aa53dac3d6/Come-IN-Expanding-Computer-Clubs-Towards-Tinkering-and-Making.pdf?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InB1YmxpY2F0aW9uIiwicGFnZSI6InB1YmxpY2F0aW9uIn19) by Oliver Stickel, Dominik Hornung, Volkmar Pipek, Volker Wulf. *Workshop Proceedings of the NordiCHI '14.* 
+[**Come_IN: Expanding Computer Clubs Towards Tinkering and Making**](https://www.researchgate.net/publication/267481683_Come_IN_Expanding_Computer_Clubs_Towards_Tinkering_and_Making) by Oliver Stickel, Dominik Hornung, Volkmar Pipek, Volker Wulf. *Workshop Proceedings of the NordiCHI '14.*
 
 `2012`
 [**Page navigation in touch based interfaces**](files/ba-thesis.pdf). *My bachelor thesis at the Interactive Systems research group, University of Duisburg-Essen.*
