@@ -292,7 +292,7 @@ General Fab Lab / Makerspace introduction and safety: [German](files/slides/2023
 `2021`
 [How to develop workshops in/for Makerspaces](files/slides/2021-workshops-in-makerspaces.pdf)  
 [Introduction to and safety in digital/electronics labs](files/slides/2021-unterweisung-digitallabor.pdf) ([web-view](https://makerspace.ruhr-uni-bochum.de/slides/unterweisung-digitallabor/))  
-[Guest lecture & workshop on Arduino for *Female Entrepreneurs at RUB*](https://face.rub.de/projektseminarmakerspace/)  
+[Guest lecture & workshop on Arduino for Female Entrepreneurs at RUB](https://face.rub.de/projektseminarmakerspace/)  
 [Q&A and 360-tour through RUB-Makerspace at Aachen Maker Meetup](https://hci.rwth-aachen.de/amm-210721)
 
 `2019`
