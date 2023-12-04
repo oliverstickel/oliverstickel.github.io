@@ -318,9 +318,9 @@ Introduction to HCI (semester-long lecture & tutorial): [German](files/slides/20
 
 `2016`
 [Fab Lab Siegen](files/slides/2016-fablabsiegen.pdf)  
-[3D printing for beginners at MakerFaire Ruhr](https://www.makerfaire-ruhr.com/workshop-das-kleine-einmaleins-des-3d-drucks/) (see 2015 3D printing seminar)  
+[3D printing for beginners at MakerFaire Ruhr](https://www.makerfaire-ruhr.com/workshop-das-kleine-einmaleins-des-3d-drucks/) (see 2015 seminar)  
 [Demo session on user projects from Fab Lab Siegen](https://events.ihk-siegen.de/attachments/1494575104_391300c2f07b3798557b.pdf) for IHK Siegen (some of the projects see 2019 slides on culture labs)  
-[3D printing for beginners at re:publica 2016](https://16.re-publica.com/16/session/3d-printing-beginners.html) (see 2015 3D printing seminar)  
+[3D printing for beginners at re:publica 2016](https://16.re-publica.com/16/session/3d-printing-beginners.html) (see 2015 seminar)  
 [Interaction Design with Arduino (semester-long seminar, German)](files/slides/2016-interaction-design-with-arduino.pdf)
 
 `2015`
@@ -334,7 +334,7 @@ Workshop on Usability & User Experience: [one day](files/slides/2015-uux-worksho
 `2014`
 [Makers@Palestine](files/slides/2014-makers-at-palestine.pdf) (talks at MakerFaire Hannover, [Hackspace Siegen](https://hasi.it/), others)  
 [Video of a talk about Fab Lab Siegen at WUD Siegen 2014](https://www.youtube.com/watch?v=DJb3l-8QlJQ)  
-3D printing for beginners at MakerFaire Dortmund (see 2015 3D printing seminar)  
+3D printing for beginners at MakerFaire Dortmund (see 2015 seminar)  
 [3D printers as boundary (negotiating) artifacts](files/slides/2014-3dprinters-boundary-objects.pdf)  
 
 `2013`
