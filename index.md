@@ -360,7 +360,7 @@ Workshop on Usability & User Experience: [one day](files/slides/2015-uux-worksho
 `2010`
 [OpArt](files/slides/2010-opart.pdf)  
 [Das (schwarze) Quadrat](files/slides/2010-quadrat.pdf)  
-[(Web-)Typografie](files/slides/2010-webtypo.pdf) ([Handout](files/slides/2010-webtypo-handout.pdf)) 
+[(Web-)Typografie](files/slides/2010-webtypo.pdf) ([Handout](files/slides/2010-webtypo-handout.pdf))   
 [The perfect thing - Imco lighters](files/slides/2010-tpt-imco.pdf)  
 
 ## Additional links
