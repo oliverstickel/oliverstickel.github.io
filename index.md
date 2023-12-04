@@ -312,15 +312,15 @@ Guest lecture & workshop on [*Arduino in a nutshell*](https://hci.rwth-aachen.de
 [Project ZEIT.RAUM Siegen](files/slides/2017-zeitraum.pdf)  
 [Wissenschaftstheorie](files/slides/2017-wissenschaftstheorie.pdf)  
 [Using technology creatively](https://www.uni-siegen.de/smi/aktuelles/2016_fablab_ukus.compressed.pdf)  
-[Workshop on digital fabrication in education](https://mittelstandstagung.de/fileadmin/user_upload/Programmheft.pdf) (similar to 2019 WS on culture labs)  
+[Digital Fabrication in education](https://mittelstandstagung.de/fileadmin/user_upload/Programmheft.pdf) (similar to 2019 WS on culture labs)  
 [Children's university talk on how to make stuff](files/slides/2017-kinderuni-fablab.pdf)  
 Introduction to HCI (semester-long lecture & tutorial): [German](files/slides/2017-introduction-to-hci_de.pdf) / [English](files/slides/2017-introduction-to-hci_en.pdf)
 
 `2016`
 [Fab Lab Siegen](files/slides/2016-fablabsiegen.pdf)  
-[3D printing for beginners talk & workshop](https://www.makerfaire-ruhr.com/workshop-das-kleine-einmaleins-des-3d-drucks/) at MakerFaire Ruhr (see 2015 3D printing seminar slides)  
+[3D printing for beginners at MakerFaire Ruhr](https://www.makerfaire-ruhr.com/workshop-das-kleine-einmaleins-des-3d-drucks/) (see 2015 3D printing seminar)  
 [Demo session on user projects from Fab Lab Siegen](https://events.ihk-siegen.de/attachments/1494575104_391300c2f07b3798557b.pdf) for IHK Siegen (some of the projects see 2019 slides on culture labs)  
-[3D printing for beginners workshop](https://16.re-publica.com/16/session/3d-printing-beginners.html) at re:publica 2016 (see 2015 3D printing seminar slides)  
+[3D printing for beginners at re:publica 2016](https://16.re-publica.com/16/session/3d-printing-beginners.html) (see 2015 3D printing seminar)  
 [Interaction Design with Arduino (semester-long seminar, German)](files/slides/2016-interaction-design-with-arduino.pdf)
 
 `2015`
@@ -332,9 +332,9 @@ Workshop on Usability & User Experience: [one day](files/slides/2015-uux-worksho
 [Praktiken der Nutzerintegration im Entwicklungsprozess von KMU](files/slides/2015_muc-praktiken.pdf)  
 
 `2014`
-[Makers at Palestine](files/slides/2014-makers-at-palestine.pdf) (talks at MakerFaire Hannover, [Hackspace Siegen](https://hasi.it/) and others)  
+[Makers@Palestine](files/slides/2014-makers-at-palestine.pdf) (talks at MakerFaire Hannover, [Hackspace Siegen](https://hasi.it/), others)  
 [Video of a talk about Fab Lab Siegen at WUD Siegen 2014](https://www.youtube.com/watch?v=DJb3l-8QlJQ)  
-3D printing for beginners talk & workshop at MakerFaire Dortmund (see 2015 3D printing seminar slides)  
+3D printing for beginners at MakerFaire Dortmund (see 2015 3D printing seminar)  
 [3D printers as boundary (negotiating) artifacts](files/slides/2014-3dprinters-boundary-objects.pdf)  
 
 `2013`
