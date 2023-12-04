@@ -326,7 +326,7 @@ Introduction to HCI (semester-long lecture & tutorial): [German](files/slides/20
 `2015`
 Workshop on Usability & User Experience: [one day](files/slides/2015-uux-workshop.pdf) / [two days](files/slides/2015-uux-workshop-2d.pdf)  
 [3D printing (semester-long seminar, German)](files/slides/2015-3d-druck-seminar.pdf)  
-[Making@Palestine talk & 3D printing workshop at re:publica 2016](http://archiv-15.re-publica.com/en/member/3257)  
+[Making@Palestine talk & 3D printing workshop at re:publica 2015](http://archiv-15.re-publica.com/en/member/3257)  
 [Industrie 4.0 meets Making](files/slides/2015-industrie40-meets-making.pdf)  
 [Appropriating digital fabrication: A study of two 3D printing communities](files/slides/2015_iconf_3dp_slides.pdf)  
 [Praktiken der Nutzerintegration im Entwicklungsprozess von KMU](files/slides/2015_muc-praktiken.pdf)  
