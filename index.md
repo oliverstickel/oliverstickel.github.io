@@ -366,7 +366,7 @@ Workshop on Usability & User Experience: [one day](files/slides/2015-uux-worksho
 
 [fab-universe.de](https://fab-universe.de) / [on GitHub](https://github.com/fabuniverse/)
 
-[yallah.exchange](https://yallah.exchange) / [exhibition.yallah.exchange](https://exhibition.yallah.exchange)
+[yallah.exchange](https://yallah.exchange) / [exhibition.yallah.exchange](https://exhibition.yallah.exchange)  
 
 [WAZ news article on RUB-Makerspace at Mark51/7](https://www.waz.de/staedte/bochum/exklusiv-blick-auf-mark-51-7-wahnsinn-was-sich-getan-hat-id239011815.html) 
 
@@ -381,6 +381,8 @@ Workshop on Usability & User Experience: [one day](files/slides/2015-uux-worksho
 [Interview "Deutschlandfunk Kultur" on Makers](https://www.deutschlandfunkkultur.de/maker-faire-ruhr-in-dortmund-bastler-war-frueher-maker-ist-100.html)
 
 [Usability Method Finder](https://www.usability-siegen.de/)  
+
+[wiki.zeitraum-siegen.de](https://wiki.zeitraum-siegen.de)
 
 [World Usability Day Siegen](https://www.wud-siegen.de/)  
 
