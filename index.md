@@ -157,7 +157,7 @@ I enjoy camping, water, (working on) motorbikes, cooking and books.
 [**Fab Lab Education in German Academia**](https://zenodo.org/record/1344438) by Oliver Stickel, Anke Brocker, Melanie Stilz, Antje Möbus, Iris Bockermann, Jan Borchers, Volkmar Pipek. *Proceedings from the Fab14 Conference '18, pp. 39-46.*
 
 `2018`
-[**Praxisorientierte Projektstudie zur transdisziplinären Entwicklung innovativer Produkte**](files/2018-poster-pe3.pdf) by Oliver Stickel, Stefan Krick, Timo Scherer, Tamara Reinicke, Volkmar Pipek. *Regional conference on innovative teachning.*
+[**Praxisorientierte Projektstudie zur transdisziplinären Entwicklung innovativer Produkte**](files/2018-poster-pe3.pdf) by Oliver Stickel, Stefan Krick, Timo Scherer, Tamara Reinicke, Volkmar Pipek. *Regional conference on innovative teaching.*
 
 
 `2018`
