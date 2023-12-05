@@ -383,9 +383,9 @@ Workshop on Usability & User Experience: [one day](files/slides/2015-uux-worksho
 
 [World Usability Day Siegen](https://www.wud-siegen.de/)  
 
-Interviews: [Deutschlandfunk Kultur: Makers](https://www.deutschlandfunkkultur.de/maker-faire-ruhr-in-dortmund-bastler-war-frueher-maker-ist-100.html) / [Deutsche Welle: Fab Labs](https://www.dw.com/de/fablab-gemeinsam-t%C3%BCftelts-sich-leichter/a-49714943)
+Interviews: [Deutschlandfunk Kultur on "Makers"](https://www.deutschlandfunkkultur.de/maker-faire-ruhr-in-dortmund-bastler-war-frueher-maker-ist-100.html) / [Deutsche Welle on "Fab Labs"](https://www.dw.com/de/fablab-gemeinsam-t%C3%BCftelts-sich-leichter/a-49714943) / [Radius 92.1](https://radius921.de/fab-lab-siegen/)  
 
-News articles: [RUB-Makerspace at Mark51/7](https://www.waz.de/staedte/bochum/exklusiv-blick-auf-mark-51-7-wahnsinn-was-sich-getan-hat-id239011815.html) / ["Nachtbetrieb auf Mark 51/7" - RUB-Makerspace on pp. 8-9](https://ruhrtal-verlag.de/wp-content/uploads/halloboOST_011_5.pdf) / [3D printing with children](https://www.wp.de/staedte/siegerland/kinder-drucken-in-kreuztaler-stadtbibliothek-in-3d-id11160424.html) / [working with refugees at Fab Lab Siegen](https://www.3d-grenzenlos.de/magazin/kurznachrichten/projekts-learnspaces-uni-siegen-fuer-fluechtlinge-27340123/) / [Fab Lab Siegen moving into the city](https://siegerland18.rssing.com/chan-16077931/article8552-live.html)
+News articles: [RUB-Makerspace at Mark51/7](https://www.waz.de/staedte/bochum/exklusiv-blick-auf-mark-51-7-wahnsinn-was-sich-getan-hat-id239011815.html) / ["Nachtbetrieb auf Mark 51/7" - RUB-Makerspace on pp. 8-9](https://ruhrtal-verlag.de/wp-content/uploads/halloboOST_011_5.pdf) / [3D printing with children](https://www.wp.de/staedte/siegerland/kinder-drucken-in-kreuztaler-stadtbibliothek-in-3d-id11160424.html) / [working with refugees at Fab Lab Siegen](https://www.3d-grenzenlos.de/magazin/kurznachrichten/projekts-learnspaces-uni-siegen-fuer-fluechtlinge-27340123/) / [Fab Lab Siegen moving into the city](https://www.vdsm.net/wronline/das-fab-lab-ist-im-herzen-von-siegen-angekommen/)
 
 [My old blog posts on the Fab Lab Siegen website](https://fablab-siegen.de/author/oliver_dummy/)   
 
