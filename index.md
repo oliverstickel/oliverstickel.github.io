@@ -277,10 +277,12 @@ These might or might not be continued at some point.
 
 Like most real work, the materials linked here have not been created alone. **Thank you to all collaborators!**  
 
-`2022`
+`2023`
 [Introduction to soldering](files/slides/2023-soldering.pdf)  
 [Introduction to plastic recyling / Precious Plastic](files/slides/2023-preciousplastic.pdf)  
 General Fab Lab / Makerspace introduction and safety: [German](files/slides/2023-siu-rub-makerspace_de.pdf) / [English](files/slides/2023-siu-rub-makerspace_en.pdf)  
+
+`2022`
 [Build your own air quality sensor](files/slides/2022-luftdatensensor.pdf) ([web-view](https://makerspace.ruhr-uni-bochum.de/slides/ws-luftdaten/))  
 [Introduction to Mixed Reality](files/slides/2022-mr.pdf)  
 [Microcontroller Basics](files/slides/2022-microcontroller.pdf) ([web-view](https://makerspace.ruhr-uni-bochum.de/slides/ws-microcontroller/))  
