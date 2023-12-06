@@ -110,8 +110,8 @@ I enjoy camping, water, (working on) motorbikes, cooking and books.
 *German Academic Exchange Service (DAAD), about 225.000€.*
 
 `2016-2018`
-**ZEIT.RAUM Siegen** [was a project](files/zeitraum-paper.pdf) between a museum, three university chairs and [Fab Lab Siegen](https://fablab-siegen.de/projekte/zeitraum-siegen/) to [develop](https://github.com/FabLabSiegen/zeitraum) a 3D-printed, interactive city model and a [regional Wiki](https://wiki.zeitraum-siegen.de/) for a museum installation. I coordinated the ideation phase, wrote most of the proposals, was part of the negotiation team, built the first prototypes for model and wiki and recruited the project staff.  
-*Regional societies, University of Siegen, other sources, about 190.000€ ([funding brochure I designed](files/zeitraum-siegen-broschuere.pdf)).*
+**ZEIT.RAUM Siegen** [was a project](files/zeitraum-paper.pdf) between a museum, three university chairs and [Fab Lab Siegen](https://fablab-siegen.de/projekte/zeitraum-siegen/) to [develop](https://github.com/FabLabSiegen/zeitraum) a 3D-printed, interactive city model and a [regional Wiki](https://wiki.zeitraum-siegen.de/) for a museum installation. I coordinated the ideation phase, wrote most of the [proposals](files/zeitraum-siegen-broschuere.pdf), was part of the negotiation team, built the first prototypes for model and wiki and recruited the project staff.  
+*Regional societies, University of Siegen, other sources, about 190.000€.*
 
 `2015-2016`
 **Internet-Cafe4Refugees** was a project we set up when Uni Siegen housed hundreds of refugees. We provided tech support, hardware and internet connection together with the local [freifunk.net](https://freifunk.net/) community.   
@@ -277,11 +277,10 @@ These might or might not be continued at some point.
 
 Like most real work, the materials linked here have not been created alone. **Thank you to all collaborators!**  
 
-`2023`
-[Introduction to soldering](files/slides/2023-soldering.pdf)  
-General Fab Lab / Makerspace introduction and safety: [German](files/slides/2023-siu-rub-makerspace_de.pdf) / [English](files/slides/2023-siu-rub-makerspace_en.pdf)
-
 `2022`
+[Introduction to soldering](files/slides/2023-soldering.pdf)  
+[Introduction to plastic recyling / Precious Plastic](files/slides/2023-preciousplastic.pdf)  
+General Fab Lab / Makerspace introduction and safety: [German](files/slides/2023-siu-rub-makerspace_de.pdf) / [English](files/slides/2023-siu-rub-makerspace_en.pdf)  
 [Build your own air quality sensor](files/slides/2022-luftdatensensor.pdf) ([web-view](https://makerspace.ruhr-uni-bochum.de/slides/ws-luftdaten/))  
 [Introduction to Mixed Reality](files/slides/2022-mr.pdf)  
 [Microcontroller Basics](files/slides/2022-microcontroller.pdf) ([web-view](https://makerspace.ruhr-uni-bochum.de/slides/ws-microcontroller/))  
