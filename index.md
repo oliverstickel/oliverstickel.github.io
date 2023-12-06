@@ -7,13 +7,17 @@ Fab Lab manager, researcher, founder
 
 <a href="mailto:kontakt@oliverstickel.de"><i class="fas fa-user"></i> kontakt@oliverstickel.de</a> / <a href="mailto:info@meta-lab-rhein-ruhr.de"><i class="fas fa-wrench"></i> info@mlrr.de </a><br/> 
 <a href="tel:+4923452004912"><i class="fas fa-phone"></i> +49 (0)234 5200 4912</a> |  <i class="fas fa-fax"></i> 03222998662337 <br/> 
+<i class="fas fa-comments"></i> Matrix: @oli:vow.chat <br/> 
 
 <div id="webaddress">
-  <a href="https://oliverstickel.de"><i class="fas fa-home"></i> oliverstickel.de </a><br/> 
+  <a href="https://oliverstickel.de"><i class="fas fa-home"></i> oliverstickel.de </a><br/> / <a href="https://github.com/oliverstickel"><i class="fab fa-github"></i> github.com/oliverstickel </a><br/> 
   <a href="https://oliverstickel.de/cv-full.pdf"><i class="fas fa-file-pdf"></i> cv-full.pdf</a> / <a href="https://oliverstickel.de/cv-onepage.pdf"><i class="fas fa-file-pdf"></i> cv-onepage.pdf</a><br/>
   <a href="https://orcid.org/0009-0009-2787-4975"><i class="fas fa-graduation-cap"></i> ORCID </a> / <a href="https://scholar.google.de/citations?user=K1WQRFsAAAAJ"><i class="fab fa-google"></i> Scholar </a> / <a href="https://researchgate.net/profile/oliver-stickel"><i class="fab fa-researchgate"></i> ResearchGate </a><br/>
-  <a href="https://github.com/oliverstickel"><i class="fab fa-github"></i> github.com/oliverstickel </a><br/> 
 </div>
+
+
+
+far fa-comments
 
 ## Experience
 
@@ -72,9 +76,9 @@ I've also developed and held lots of safety and infrastructure introductions.
 
 **Making** - Makerspace operation / management / safety. Rapid Prototyping (many different methods), CAD/CAM, general (basic) coding, (traditional) web development, electronics and integrated systems for rapid prototyping, basic skills in different crafts / workshop and lab areas.
 
-**Human Centered Design** - UX design, HCI, usability methods, design thinking, convergence of agile and user centered methods. 
+**Human Centered Design** - HCI, participatory design, UCD, CSCW, Design Thinking, convergence of agile and UCD. 
 
-**Projects and People** - Project development, social innovation, fundraising, agility / Skunkworks, community and team development, operations (with)in public service and public administration. 
+**Projects and People** - Project development, social innovation, fundraising, agility / "Skunkworks", community and team development, operations (with)in public service and public administration. 
 
 **Methods** - Constructionism, human-centered teaching and learning, mixed-methods, action and field research, participatory methods and participatory action research, (Maker-)space(s) as a method.
 
