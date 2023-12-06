@@ -252,7 +252,8 @@ I enjoy camping, water, (working on) motorbikes, cooking and books.
 
 ## Unpublished work
 
-These might or might not be continued at some point. Thoughts and feedback are welcome!  
+These might or might not be continued at some point.   
+**Thoughts and feedback are welcome!**  
 
 [Towards a conceptual model of HCI and Making](files/unpublished_hci-and-making-researchagenda.pdf)  
 
