@@ -87,7 +87,7 @@ German: native, English: fluent, French: rudimentaire, Latin: obliviscebam.
 I enjoy camping, water, (working on) motorbikes, cooking and books.  
 
 
-## Projects and funding
+## Projects & funding
 
 `2023-today`
 **Maker in Residence** is an effort at RUB-Makerspace to invite *Makers* from different disciplines to share knowledge. I co-led the first two funding rounds and managed the 2023 residency.  
@@ -125,7 +125,7 @@ I enjoy camping, water, (working on) motorbikes, cooking and books.
 **CUBES** [was a research project](files/cubes-faktenblatt.pdf) on community-based innovation in software and usability for small and medium sized enterprises. I was involved as a student, then researcher, then (interim) project manager for the [project reporting and closing](https://www.tib.eu/de/suchen?tx_tibsearch_search%5Baction%5D=download&tx_tibsearch_search%5Bcontroller%5D=Download&tx_tibsearch_search%5Bdocid%5D=TIBKAT%3A872262936&cHash=7d56fa41baf92a721f58064874672f4a#download-mark).  
 *Federal Ministry for Economic Affairs and Energy, about 800.000€.*
 
-## Awards and honors
+## Awards & honors
 
 `2015`
 **Honorable Mention Paper Award**, "Mensch und Computer" (M&C) conference for *Praktiken der Nutzerintegration im Entwicklungsprozess von KMU* (see below), German Informatics Society (GI).
@@ -250,7 +250,7 @@ I enjoy camping, water, (working on) motorbikes, cooking and books.
 
 
 
-## Unpublished work
+## Unpublished
 
 These might or might not be continued at some point.   
 **Thoughts and feedback are welcome!**  
