@@ -385,7 +385,7 @@ Workshop on Usability & User Experience: [one day](files/slides/2015-uux-worksho
 
 [World Usability Day Siegen](https://www.wud-siegen.de/)  
 
-Interviews: [Deutschlandfunk Kultur](https://www.deutschlandfunkkultur.de/maker-faire-ruhr-in-dortmund-bastler-war-frueher-maker-ist-100.html) / [Deutsche Welle](https://www.dw.com/de/fablab-gemeinsam-t%C3%BCftelts-sich-leichter/a-49714943) / [Radius 92.1](https://radius921.de/fab-lab-siegen/)  
+Interviews: [Deutschlandfunk Kultur](https://www.deutschlandfunkkultur.de/maker-faire-ruhr-in-dortmund-bastler-war-frueher-maker-ist-100.html) / [Deutsche Welle](https://www.dw.com/de/fablab-gemeinsam-t%C3%BCftelts-sich-leichter/a-49714943) / [UPA](https://germanupa.de/berufsverband-german-upa/aktuelles/g-upa-mitglied-halbwoche-oliver-stickel) / [Radius 92.1](https://radius921.de/fab-lab-siegen/)  
 
 News articles: [RUB-Makerspace at Mark51/7](https://www.waz.de/staedte/bochum/exklusiv-blick-auf-mark-51-7-wahnsinn-was-sich-getan-hat-id239011815.html) / ["Nachtbetrieb auf Mark 51/7" (pp. 8-9)](https://ruhrtal-verlag.de/wp-content/uploads/halloboOST_011_5.pdf) / [3D printing with children](https://www.wp.de/staedte/siegerland/kinder-drucken-in-kreuztaler-stadtbibliothek-in-3d-id11160424.html) / [refugees at Fab Lab Siegen](https://www.3d-grenzenlos.de/magazin/kurznachrichten/projekts-learnspaces-uni-siegen-fuer-fluechtlinge-27340123/) / [Fab Lab Siegen moving into the city](https://www.vdsm.net/wronline/das-fab-lab-ist-im-herzen-von-siegen-angekommen/)
 
