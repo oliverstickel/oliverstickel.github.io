@@ -143,7 +143,7 @@ I enjoy camping, water, (working on) motorbikes, cooking and books.
 **Scholarship** *Summer School on research methods in Human-Computer interaction,* Tallinn, Estonia.
 
 `2013`
-**First Prize** German Informatics Society *Student Usability Challenge* for [Social Flashcards](files/2013-social-flashcards.pdf). 
+**First Prize** German Informatics Society *Student Usability Challenge* for ["Social Flashcards"](files/2013-social-flashcards.pdf). 
 
 ## Publications
 
