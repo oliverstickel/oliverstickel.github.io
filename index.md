@@ -128,22 +128,22 @@ I enjoy camping, water, (working on) motorbikes, cooking and books.
 ## Awards & honors
 
 `2015`
-**Honorable Mention Paper Award**, "Mensch und Computer" (M&C) conference for *Praktiken der Nutzerintegration im Entwicklungsprozess von KMU* (see below), German Informatics Society (GI).
+**Honorable Mention Paper Award**, "Mensch und Computer" (M&C) conference for *Praktiken der Nutzerintegration im Entwicklungsprozess von KMU* (see below), German Informatics Society (GI). 
 
 `2015`
-**Arthur-Woll award** for an exemplary master thesis , University of Siegen and association for the support of the economic faculty.
+**Arthur-Woll award** for an exemplary master thesis. 
 
 `2015`
-**pwc award** for best graduate of the faculty, University of Siegen and PricewaterhouseCoopers.
+**pwc award** for best graduate of the faculty. 
 
 `2015`
-**Scholarship** for *EUSSET Summer School on Computer Supported Cooperative Work,* Como, Italy.
+**Scholarship** *EUSSET Summer School on Computer Supported Cooperative Work,* Como, Italy. 
 
 `2014`
-**Scholarship** for *Summer School on research methods in Human-Computer interaction,* Tallinn, Estonia.
+**Scholarship** *Summer School on research methods in Human-Computer interaction,* Tallinn, Estonia.
 
 `2013`
-**First Prize** "Student Usability Challenge" for [*Social Flashcards*](files/2013-social-flashcards.pdf), German Informatics Society (GI).
+**First Prize** German Informatics Society *Student Usability Challenge* for [Social Flashcards](files/2013-social-flashcards.pdf). 
 
 ## Publications
 
