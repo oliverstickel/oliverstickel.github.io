@@ -136,8 +136,11 @@ I enjoy camping, water, (working on) motorbikes, cooking and books.
 `2015`
 **pwc award** for best graduate of the faculty, University of Siegen and PricewaterhouseCoopers.
 
+`2015`
+**Scholarship** *EUSSET Summer School on Computer Supported Cooperative Work,* Como, Italy.
+
 `2014`
-**Scholarship** *Tallinn Summer School on research methods in Human-Computer interaction*, University of Siegen.
+**Scholarship** *Summer School on research methods in Human-Computer interaction,* Tallinn, Estonia.
 
 `2013`
 **First Prize** "Student Usability Challenge" for [*Social Flashcards*](files/2013-social-flashcards.pdf), German Informatics Society (GI).
