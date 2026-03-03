@@ -92,6 +92,18 @@ I enjoy camping, water, (working on) motorbikes and cars, cooking as well as boo
 
 ## Projects & funding
 
+`2024-2026`
+**4R -- Repair - Reuse - Reduce - Recycle** focused on building up sustainability practices and structures (Repair Cafés, machines and tools, teaching and learning formats) at Uni Stuttgart Makerspace. I was project lead. 
+*Stiftung Innovation in der Hochschullehre ('foundation for digital teaching in academia'), about 400.000€.*
+
+`2024-today`
+**Mediaspace** transforms a vacant, old bank bulding on campus at Uni Stuttgart into a Makerspace-inspired, open multimedia studio for video, photo, sound, VR/AR and motion tracking. I was part of the management team and did all purchases for the initial infrastructure.   
+*Private foundation for initial infrastructure, about 300.000€.*
+
+`2024-2026`
+**S4S** and **FILL** were education-focused projects on learning in and with (virtual) laboratories and building up capabilities for multimedia production. I managed both projects finances in their second half.  
+*Stiftung Innovation in der Hochschullehre ('foundation for digital teaching in academia'), about 420.000€ and 400.000€.*
+
 `2023-today`
 **Maker in Residence** is an effort at RUB-Makerspace to invite *Makers* from different disciplines to share knowledge. I co-led the first two funding rounds and managed the 2023 residency.  
 *Regional donors, 20-40.000€ p.a.*
