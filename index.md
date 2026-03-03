@@ -14,6 +14,8 @@ Fab Lab manager, researcher, founder
   <a href="https://orcid.org/0009-0009-2787-4975"><i class="fas fa-graduation-cap"></i> ORCID </a> / <a href="https://scholar.google.de/citations?user=K1WQRFsAAAAJ"><i class="fab fa-google"></i> Scholar </a> / <a href="https://researchgate.net/profile/oliver-stickel"><i class="fab fa-researchgate"></i> ResearchGate </a><br/>
 </div>
 
+<br/>
+
 <i class="fas fa-level-down-alt"></i> jump to: <a href="#slides">download slides from seminars, workshops and talks</a> / <a href="#publications">download publications</a>
 
 ## Experience
