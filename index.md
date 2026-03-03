@@ -9,14 +9,14 @@ Fab Lab manager, researcher, founder
 <a href="tel:+4923452004912"><i class="fas fa-phone"></i> +49 (0)234 5200 4912</a> |  <i class="fas fa-fax"></i> 03222998662337 <br/>  
 
 <div id="webaddress">
-  <a href="https://oliverstickel.de"><i class="fas fa-home"></i> oliverstickel.de </a> / <a href="https://github.com/oliverstickel"><i class="fab fa-github"></i> GitHub </a><br/> 
+  <a href="https://oliverstickel.de"><i class="fas fa-home"></i> oliverstickel.de </a> |  <a href="https://github.com/oliverstickel"><i class="fab fa-github"></i> GitHub </a><br/> 
   <a href="https://oliverstickel.de/cv-onepage.pdf"><i class="fas fa-file-pdf"></i> cv-onepage.pdf</a><br/>
-  <a href="https://orcid.org/0009-0009-2787-4975"><i class="fas fa-graduation-cap"></i> ORCID </a> / <a href="https://scholar.google.de/citations?user=K1WQRFsAAAAJ"><i class="fab fa-google"></i> Scholar </a> / <a href="https://researchgate.net/profile/oliver-stickel"><i class="fab fa-researchgate"></i> ResearchGate </a><br/>
+  <a href="https://orcid.org/0009-0009-2787-4975"><i class="fas fa-graduation-cap"></i> ORCID </a> |  <a href="https://scholar.google.de/citations?user=K1WQRFsAAAAJ"><i class="fab fa-google"></i> Scholar </a> |  <a href="https://researchgate.net/profile/oliver-stickel"><i class="fab fa-researchgate"></i> ResearchGate </a><br/>
 </div>
 
 <br/>
 
-<i class="fas fa-level-down-alt"></i> jump to: <a href="#slides">download slides from seminars, workshops and talks</a> / <a href="#publications">download publications</a>
+<i class="fas fa-level-down-alt"></i> jump to: <a href="#slides">download slides from seminars, workshops and talks</a> |  <a href="#publications">download publications</a>
 
 ## Experience
 
