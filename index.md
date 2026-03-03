@@ -18,7 +18,7 @@ Fab Lab manager, researcher, founder
 ## Experience
 
 `2024-2026`
-**Project manager / lab leader**. I work at the [Makerspace](https://uni-stuttgart.de/makerspace) at Uni Stuttgart on daily operations and extending the space towards more sustainability-focused activities (Reduce - Repair - Reuse - Recycle). *University of Stuttgart*.
+**Project manager / lab leader**. I worked at the [Makerspace](https://uni-stuttgart.de/makerspace) at Uni Stuttgart on management, daily operations and on multiple projects (see below). *University of Stuttgart*.
 
 `2020-2023`
 **Lab leader**. I was involved in the setup of [RUB-Makerspace](https://makerspace.rub.de) as deputy general manager as well as lab leader for the Digital Lab and the Plastics Lab. RUB-Makerspace is a 2000sqm space with a team of 16 people and multiple (sub-)labs. *Ruhr-Universität Bochum*.
