@@ -14,6 +14,10 @@ Fab Lab manager, researcher, founder
   <a href="https://orcid.org/0009-0009-2787-4975"><i class="fas fa-graduation-cap"></i> ORCID </a> / <a href="https://scholar.google.de/citations?user=K1WQRFsAAAAJ"><i class="fab fa-google"></i> Scholar </a> / <a href="https://researchgate.net/profile/oliver-stickel"><i class="fab fa-researchgate"></i> ResearchGate </a><br/>
 </div>
 
+<br/>
+
+Jump to <a href="#slides">download slides from seminars, workshops and talks</a> / <a href="#publications">download publications</a>
+
 ## Experience
 
 `2024-2026`
@@ -161,6 +165,7 @@ I enjoy camping, water, (working on) motorbikes and cars, cooking as well as boo
 `2013`
 **First Prize** German Informatics Society *Student Usability Challenge* for ["Social Flashcards"](files/2013-social-flashcards.pdf). 
 
+<a name="publications" ></a>
 ## Publications
 
 `2021`
@@ -291,6 +296,7 @@ These might or might not be continued at some point. **Thoughts and feedback are
 
 [Proposal for a cultural probe study about domestic digital fabrication](files/unpublished_domestic-3d-printing.pdf)   
 
+<a name="slides" ></a>
 ## Talks & slides
 
 Like most real work, the materials linked here have not been created alone. **Thank you to all collaborators!**  
