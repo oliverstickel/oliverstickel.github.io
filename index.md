@@ -93,7 +93,7 @@ I enjoy camping, water, (working on) motorbikes and cars, cooking as well as boo
 ## Projects & funding
 
 `2024-2026`
-**4R -- Repair - Reuse - Reduce - Recycle** focused on building up sustainability practices and structures (Repair Cafés, machines and tools, teaching and learning formats) at Uni Stuttgart Makerspace. I was project lead. 
+**4R -- Repair - Reuse - Reduce - Recycle** focused on building up sustainability practices and structures (Repair Cafés, machines and tools, teaching and learning formats) at Uni Stuttgart Makerspace. I was project lead.   
 *Stiftung Innovation in der Hochschullehre ('foundation for digital teaching in academia'), about 400.000€.*
 
 `2024-today`
