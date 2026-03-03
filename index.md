@@ -17,7 +17,7 @@ Fab Lab manager, researcher, founder
 
 ## Experience
 
-`2024-today`
+`2024-2026`
 **Project manager / lab leader**. I work at the [Makerspace](https://uni-stuttgart.de/makerspace) at Uni Stuttgart on daily operations and extending the space towards more sustainability-focused activities (Reduce - Repair - Reuse - Recycle). *University of Stuttgart*.
 
 `2020-2023`
