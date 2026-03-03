@@ -106,7 +106,7 @@ I enjoy camping, water, (working on) motorbikes and cars, cooking as well as boo
 *Private foundation for initial infrastructure, about 300.000€.*
 
 `2024-2026`
-**S4S** and **FILL** were education-focused projects on learning in and with (virtual) laboratories and building up capabilities for multimedia production. I managed both projects finances in their second half.  
+**S4S** and **FILL** were education-focused projects on learning in and with (virtual) laboratories and building up capabilities for multimedia production. I managed both projects' finances in their second half.  
 *Stiftung Innovation in der Hochschullehre ('foundation for digital teaching in academia'), about 420.000€ and 400.000€.*
 
 `2023-today`
