@@ -5,7 +5,7 @@ title: Oliver Stickel
 # Oliver Stickel
 Fab Lab manager, researcher, founder
 
-<a href="mailto:kontakt@oliverstickel.de"><i class="fas fa-user"></i> kontakt@oliverstickel.de</a><br/> 
+<a href="mailto:kontakt@oliverstickel.de"><i class="fas fa-user"> </i>kontakt@oliverstickel.de</a><br/> 
 
 <div id="webaddress">
   <a href="https://oliverstickel.de/cv-onepage.pdf"><i class="fas fa-file-pdf"></i> cv-onepage.pdf</a><br/>  
