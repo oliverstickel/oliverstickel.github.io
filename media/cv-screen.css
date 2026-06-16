@@ -16,180 +16,245 @@ article, aside, canvas, details, embed,
 figure, figcaption, footer, header, hgroup, 
 menu, nav, output, ruby, section, summary,
 time, mark, audio, video {
-	margin: 0;
-	padding: 0;
-	border: 0;
-	font-size: 100%;
-	font: inherit;
-	vertical-align: baseline;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
 }
 /* HTML5 display-role reset for older browsers */
 article, aside, details, figcaption, figure, 
 footer, header, hgroup, menu, nav, section {
-	display: block;
+    display: block;
 }
 body {
-	line-height: 1;
+    line-height: 1;
 }
 ol, ul {
-	list-style: none;
+    list-style: none;
 }
 blockquote, q {
-	quotes: none;
+    quotes: none;
 }
 blockquote:before, blockquote:after,
 q:before, q:after {
-	content: '';
-	content: none;
+    content: '';
+    content: none;
 }
 table {
-	border-collapse: collapse;
-	border-spacing: 0;
+    border-collapse: collapse;
+    border-spacing: 0;
 }
 
 /* end of reset */
 
 
+/* ==========================================================================
+   MOBILE FIRST (Basis-Layout für Smartphones)
+   ========================================================================== */
 
 body {
-	font: normal normal 400;
-	font-size: 100%;
-	line-height: 1.5em;
-	/*also written as...  font: normal normal 400 100%/1.5em;*/
-	font-family: Avenir,Verdana,sans-serif;
-	margin-top: 1em;
-	margin-left: 1em;
+    font: normal normal 400;
+    font-size: 100%;
+    line-height: 1.5em;
+    font-family: Avenir, Verdana, sans-serif;
+    margin: 1.5em; /* Angenehmer Abstand zum Bildschirmrand auf Handys */
+    box-sizing: border-box;
 }
 
 p {
-	position: relative;
-	left: 25%;
-	margin-bottom: 0.7em;
-	margin-right: 0;
-	width: 55%;
+    margin-bottom: 1em;
+    width: 100%; /* Volle Breite auf dem Handy */
 }
 
 code {
-	font: normal normal;
-	font-size: 90%;
-	/*line-height: 1em;*/
-	font-family: Monaco,Menlo,monospace,sans-serif;
-	color: #aaa;
+    font: normal normal;
+    font-size: 90%;
+    font-family: Monaco, Menlo, monospace, sans-serif;
+    color: #aaa;
 }
 
 p code {
-	position: absolute;
-	text-align: right;
-	right: -20%;
+    display: block; /* Auf Handys stehen die Jahreszahlen über dem Job/Text */
+    font-weight: bold;
+    color: #bc412b; /* Minimaler Farbakzent zur besseren Trennung auf dem Handy */
+    margin-bottom: 0.2em;
 }
-
 
 ul { 
-	position: relative;
-	left: 25%;
-	width: 75%;
-	margin-bottom: 1.5em;
-	margin-top: -0.5em;
+    width: 100%;
+    margin-bottom: 1.5em;
+    padding-left: 1em; /* Einrückung der Listenpunkte auf Mobilgeräten */
 }
 
-/*uncomment to get dashes in the list*/
-/*li:before {
-	content: "-";
-	position: relative;
-	left: -0.25em;
-}*/
-
 li {
-	/*second line indent*/
-	padding-left: 1.25em;
-	text-indent: -1.25em;
-	/*color: #777;*/
+    margin-bottom: 0.5em;
+    line-height: 1.4em;
 }
 
 li ul {
-	position: relative;
-	left: 0;
-	width: 100%;
-	margin-top: 0.25em;
+    width: 100%;
+    margin-top: 0.25em;
 }
 
-h1,h2,h3,h4 {
-	font-weight: 400;
-	font-family: Avenir,Cousine,Verdana,sans-serif;
-	width: 80%;
+h1, h2, h3, h4 {
+    font-weight: 400;
+    font-family: Avenir, Cousine, Verdana, sans-serif;
+    width: 100%;
 }
 
 h1 {
-	text-align: left;
-	font-size: 3em;
-	line-height: 1em;
-	position: relative;
-	left: 25%;
+    text-align: left;
+    font-size: 2.5em; /* Minimal kleiner für Handys, damit es nicht umbricht */
+    line-height: 1.2em;
+    margin-bottom: 0.2em;
 }
 
-h1+p { 
-	/*subtitle*/
-	font-style: italic;
-	font-size: 110%;
+h1 + p { 
+    font-style: italic;
+    font-size: 110%;
+    margin-bottom: 2em;
 }
 
 h2 {
-	font-size: 1.1em;
-	color: #bc412b;
-	margin-top: 3em;
-	position: relative;
-	top: 1.4em;
-	text-align: right;
-	width: 20%;
+    font-size: 1.3em;
+    color: #bc412b;
+    margin-top: 2em;
+    margin-bottom: 0.5em;
+    border-bottom: 1px solid #eee; /* Subtile Linie zur Strukturierung auf Handys */
+    padding-bottom: 0.3em;
 }
 
 h3 {
-	font-size: 1em;
-	line-height: 2em; 
-	position: relative;
-	top: 1.7em;
-	text-align: right;
-	width: 20%;
+    font-size: 1.1em;
+    font-weight: bold;
+    margin-top: 1.5em;
+    margin-bottom: 0.5em;
 }
 
 a {
-	color: inherit;
-	/*text-decoration:none*/
+    color: inherit;
 }
 
 a:hover {
-	color:#39f
+    color:#39f;
 }
 
 #webaddress {
-	margin-top: 1em;
-	position: relative;
-	left: 25%;
-	color: #bc412b;
-	font-family: Monaco,Menlo,monospace,sans-serif;
-	font-size: 100%;
+    margin-top: 1.5em;
+    color: #bc412b;
+    font-family: Monaco, Menlo, monospace, sans-serif;
+    font-size: 90%;
+    line-height: 1.8em;
 }
 
 #webaddress a {
-	text-decoration: none;
+    text-decoration: none;
 }
 
 em {
-	/* font-weight: bold; */
-	font-style: italic;
+    font-style: italic;
 }
 
 strong {
-	font-weight: bold;
+    font-weight: bold;
 }
 
 #address {
-	display: none;
+    display: none;
 }
 
 
+/* ==========================================================================
+   DESKTOP-LAYOUT (Greift erst ab Tablets/Laptops, min-width: 768px)
+   ========================================================================== */
 
-/*
-@media only screen and (max-width: 480px) {
-	make one column somehow...
-}*/
+@media screen and (min-width: 768px) {
+    body {
+        margin-top: 1em;
+        margin-left: 1em;
+    }
+
+    p {
+        position: relative;
+        left: 25%;
+        margin-bottom: 0.7em;
+        margin-right: 0;
+        width: 55%;
+    }
+
+    p code {
+        position: absolute;
+        display: inline;
+        text-align: right;
+        right: -20%;
+        color: #aaa;
+        font-weight: normal;
+    }
+
+    ul { 
+        position: relative;
+        left: 25%;
+        width: 75%;
+        margin-bottom: 1.5em;
+        margin-top: -0.5em;
+        padding-left: 0;
+    }
+
+    li {
+        padding-left: 1.25em;
+        text-indent: -1.25em;
+        margin-bottom: 0;
+    }
+
+    li ul {
+        position: relative;
+        left: 0;
+        width: 100%;
+        margin-top: 0.25em;
+    }
+
+    h1, h2, h3, h4 {
+        width: 80%;
+    }
+
+    h1 {
+        font-size: 3em;
+        line-height: 1em;
+        position: relative;
+        left: 25%;
+        margin-bottom: 0;
+    }
+
+    h2 {
+        font-size: 1.1em;
+        margin-top: 3em;
+        position: relative;
+        top: 1.4em;
+        text-align: right;
+        width: 20%;
+        border-bottom: none;
+        padding-bottom: 0;
+    }
+
+    h3 {
+        font-size: 1em;
+        line-height: 2em; 
+        position: relative;
+        top: 1.7em;
+        text-align: right;
+        width: 20%;
+        font-weight: 400;
+        margin-top: 0;
+        margin-bottom: 0;
+    }
+
+    #webaddress {
+        margin-top: 1em;
+        position: relative;
+        left: 25%;
+        font-size: 100%;
+        line-height: 1.5em;
+    }
+}

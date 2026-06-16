@@ -3,13 +3,12 @@ layout: cv
 title: Oliver Stickel
 ---
 # Oliver Stickel
-Fab Lab manager, researcher, founder
+Innovation Manager, Infrastructure Expert, Researcher & Founder
 
-<a href="mailto:kontakt@oliverstickel.de"><i class="fas fa-user"></i> kontakt@oliverstickel.de</a><br/> 
+<a href="mailto:kontakt@oliverstickel.de"><i class="fas fa-user"></i> kontakt@oliverstickel.de</a><br/>
 
 <div id="webaddress">
-  <a href="https://oliverstickel.de/cv-onepage.pdf"><i class="fas fa-file-pdf"></i> cv-onepage.pdf</a><br/>  
-  <a href="https://oliverstickel.de"><i class="fas fa-home"></i> oliverstickel.de </a> |  <a href="https://github.com/oliverstickel"><i class="fab fa-github"></i> GitHub </a><br/> 
+  <a href="https://oliverstickel.de"><i class="fas fa-home"></i> oliverstickel.de </a> |  <a href="https://github.com/oliverstickel"><i class="fab fa-github"></i> GitHub </a><br/>
   <a href="https://orcid.org/0009-0009-2787-4975"><i class="fas fa-graduation-cap"></i> ORCID </a> |  <a href="https://scholar.google.de/citations?user=K1WQRFsAAAAJ"><i class="fab fa-google"></i> Scholar </a> |  <a href="https://researchgate.net/profile/oliver-stickel"><i class="fab fa-researchgate"></i> ResearchGate </a>
 </div>
 
@@ -19,23 +18,23 @@ Fab Lab manager, researcher, founder
 
 ## Experience
 
-`2024-2026`
-**Project manager / lab leader**. I worked at the [Makerspace](https://uni-stuttgart.de/makerspace) at Uni Stuttgart on management, daily operations and on multiple projects (see below). *University of Stuttgart*.
+`2024-2025`
+**Project and Lab Manager**. Strategic development, management, and daily operations of the Makerspace. Focus on infrastructure, public procurement, and the establishment of safe operational concepts. Project work/lead on creating a new sustainability lab and a new Mixed-Reality lab. *University of Stuttgart*.
 
 `2020-2023`
-**Lab leader**. I was involved in the setup of [RUB-Makerspace](https://makerspace.rub.de) as deputy general manager as well as lab leader for the Digital Lab and the Plastics Lab. RUB-Makerspace is a 2000sqm space with a team of 16 people and multiple (sub-)labs. *Ruhr-Universität Bochum*.
+**Deputy General Manager / Lab Leader**. Operational setup and management of a 2,000 sqm innovation space, including technical and disciplinary leadership of a 15-person team. Core responsibilities included project management, budgeting, execution of public procurement processes, and the implementation of comprehensive compliance and safety concepts. *Ruhr-Universität Bochum*.
 
 `2015-today`
-**Self-employed researcher, consultant, educator**. Consultation work for organizations interested in Fab Labs, Makerspaces and Community Innovation Spaces. Public and private grant proposals. Teaching. Book project "[Handbuch Fab Labs](https://www.bombini-verlag.de/shop/handbuch-fab-labs/)".
+**Self-employed researcher, consultant, educator**. Consultation work for organizations interested in Fab Labs, Makerspaces and Community Innovation Spaces. Public and private grant proposals. Teaching. Book project "[Handbuch Fab Labs](https://www.bombini-verlag.de/beratung/handbuch-fab-labs/)".
 
 `2015-2019`
 **Researcher, project manager, educator**. After graduating, I stayed at Uni Siegen to continue building [Fab Lab Siegen](https://fablab-siegen.de) into a sustainable infrastructure. Apart from the Lab, I worked on/in in different projects (see below), published and did a lot of teaching. *University of Siegen*.
 
 `2014-2019`
-**Guest researcher, consultant**. Field research, consultations and development of joint project proposals in/with collaborators from the Middle East. *University of Birzeit, Univ. of Technology Oman, Goethe Institute, others*, (mostly) Palestine.
+**Guest researcher, consultant**. Field research, consultations and development of joint project proposals in/with collaborators from the Middle East. *University of Birzeit, Univ. of Technology Oman, Goethe Institute, others*.
 
 `2013-2019`
-**Founder and manager**. I founded [Fab Lab Siegen](https://fablab-siegen.de) and managed it on its journey from a student initiative in a literal storage room on campus outside the city through many locations to a big, wonderful, colorful, open and community-oriented space with a funded team and filled with people, ideas, tools and machines right in the city center. *Siegen*.
+**Founder and Manager**. I founded [Fab Lab Siegen](https://fablab-siegen.de) and managed it on its journey from a student initiative in a literal storage room on campus to a fully funded 250 sqm facility right in the city center. It was *my baby*, and I oversaw everything from initial grant proposals and procurement to team leadership, building it into a big, wonderful, colorful, and community-oriented space. *University of Siegen*.
 
 `2009-2015`
 **TA, student researcher**. Teaching assistant (mostly in HCI), research assistant (mostly with qualitative field work), IT and media tech support/maintenance. *Universities of Siegen and Duisburg-Essen*.
@@ -45,7 +44,6 @@ Fab Lab manager, researcher, founder
 `2015-today`
 **(Occasional) dissertation work** - About (Fab) Labs as public infrastructure. *University of Siegen and self-employed*.
 
-
 `2012-2015`
 **M.Sc. Human Computer Interaction** (honors) - Socio-technical systems design based on qualitative methods. *University of Siegen*.
 
@@ -54,9 +52,9 @@ Fab Lab manager, researcher, founder
 
 ## Community roles
 
-I (co-)chaired [Fab:UNIverse](https://fab-universe.de) - the conference of Fab Lab managers at German universities - multiple times and help maintain its website. I've also (co-)organized many gatherings such as temporary (Maker)spaces at other events or meetups like the [World Usability Day Siegen](https://www.wud-siegen.de/) (2014-2018).  
+I (co-)chaired [Fab:UNIverse](https://fabuniverse.github.io/website/) - the conference of Fab Lab managers at German universities - multiple times and help maintain its website. I've also (co-)organized many gatherings such as temporary (Maker)spaces at other events or meetups like the [World Usability Day Siegen](https://www.wud-siegen.de/) (2014-2018).  
 
-In academic service, I was reviewer/chair for conferences and journals like [CHI](https://dl.acm.org/conference/chi/proceedings), [JCSCW](https://www.springer.com/journal/10606), [C&T](https://dl.acm.org/conference/c-n-t) or [M&C](https://mensch-und-computer.de/). Occasionally, I've been asked to join committees, mostly on (community) innovation spaces or student issues. I've also been an elected member of different bodies of (self)-governance such as the Senate commission on Strategic University Development and examination boards at Uni Siegen or head of the student representatives ("Fachschaftsräte") at Uni Duisburg-Essen and Uni Siegen respectively. 
+In academic service, I was reviewer/chair for conferences and journals like [CHI](https://dl.acm.org/conference/chi/proceedings), [JCSCW](https://www.springer.com/journal/10606), [C&T](https://dl.acm.org/conference/c-n-t) or [M&C](https://mensch-und-computer.de/). Occasionally, I've been asked to join committees, mostly on (community) innovation spaces or student issues. I've also been an elected member of different bodies of (self)-governance such as the Senate commission on Strategic University Development and examination boards at Uni Siegen or head of the student representatives ("Fachschaftsräte") at Uni Duisburg-Essen and Uni Siegen respectively. Additionally, I have served as an official safety officer, gaining profound experience in cooperating with occupational health and safety insurances ("Unfallkassen") to ensure safe and compliant lab environments.
 
 *Memberships:* [Verbund Offener Werkstätten](https://www.offene-werkstaetten.org), [Chaos Computer Club](https://www.ccc.de/), [ver.di](https://www.verdi.de), [Fab Lab Network](https://fablabs.io), [FIfF](https://blog.fiff.de). *Past:* [UPA](https://germanupa.de/), [GIG](https://globalinnovationgathering.org/), [Hasi](https://hackspace-siegen.de/), [GI](https://gi.de/).  
 
@@ -64,12 +62,11 @@ In academic service, I was reviewer/chair for conferences and journals like [CHI
 
 I enjoy teaching and learning a lot. I've always made it a point to try and be open in teaching and have frequently had students from other faculties or external guests in my seminars.  
 
-At Uni Siegen, I've been responsible for most elements of the annual [mandatory introduction to Human Computer Interaction](https://hci-siegen.de/order-of-study/) for years. This included lectures and mentoring up to 40 students per iteration through big, semester-long projects ending in submissions to and [wins in](https://www.uni-siegen.de/start/news/oeffentlichkeit/654454.html) national [student challenges](https://hci-siegen.de/tag/usability-challenge/). Additionally, I've held many different [seminars](https://fablab-siegen.de/veranstaltungen/lehr-angebote-fab-lab-siegen-sommersemester-2017/) ranging from reading classes on literature about "Making" to very [practical seminars](https://fablab-siegen.de/veranstaltungen/lv-3d-druck-1516/) on [rapid prototyping methods](https://fablab-siegen.de/veranstaltungen/lv-arduino-1516/). Over the years, we have also built up more and more supervised Fab Lab open hours for work on projects as the backbone of all teaching in the Makerspace. These open hours are split into times for students and times where the general public is also welcome.   
+At Uni Siegen, I've been responsible for most elements of the annual [mandatory introduction to Human Computer Interaction](https://hci-siegen.de/curriculum) for years. This included lectures and mentoring up to 40 students per iteration through big, semester-long projects ending in submissions to and [wins in](https://www.uni-siegen.de/start/news/oeffentlichkeit/654454.html) national [student challenges](https://fb-mci.gi.de/angebote/fuer-studierende). Additionally, I've held many different [seminars](https://fablab-siegen.de/veranstaltungen/lehr-angebote-fab-lab-siegen-sommersemester-2017/) ranging from reading classes on literature about "Making" to very [practical seminars](https://fablab-siegen.de/veranstaltungen/lv-3d-druck-1516/) on [rapid prototyping methods](https://fablab-siegen.de/veranstaltungen/lv-arduino-1516/). Over the years, we have also built up more and more supervised Fab Lab open hours for work on projects as the backbone of all teaching in the Makerspace. These open hours are split into times for students and times where the general public is also welcome.   
 
+At Uni Bochum, I was less involved in structured, academic teaching but tought and learned whatever was needed to help [many different](https://makerspace.ruhr-uni-bochum.de/ort/) individual Makerspace users and small groups with their projects. As an entrepreneurship-focused space, teaching, introductory courses and open hours were -- unfortunately -- not a priority.  
 
-At Uni Bochum, I was less involved in structured, academic teaching but tought and learned whatever was needed to help many different individual Makerspace users and small groups with their projects. As an entrepreneurship-focused space, teaching, introductory courses and open hours were -- unfortunately -- not a priority.  
-
-At Uni Stuttgart, we as a team collectively ran one (always overbooked) Makerspace-focused seminar per semester on our own and additionally were constantly booked as guest lecturers in all sorts of seminars from all faculties that offered sessions in cooperation with the Makerspace. In addition, we hosted daily courses and open hours for Makerspace safety and basic operations of the machines and tools.  
+At Uni Stuttgart, we as a team collectively ran one (always overbooked) [Makerspace-focused](https://uni-stuttgart.de/maked-digital) seminar per semester on our own and additionally were constantly booked as guest lecturers in all sorts of seminars from all faculties that offered sessions in cooperation with the Makerspace. In addition, we hosted daily courses and open hours for Makerspace safety and basic operations of the machines and tools.  
 
 As a thesis advisor and co-advisor, I have accompanied about 8 Bachelor and Master Students along their paths to graduation. Topics have varied from participatory-design-oriented field investigations to studies about Makerspaces in teacher training to engineering and fabrication of additive tools for industrial processes. Additionally, I've been involved in co-advising state-certified technicians as a pilot project between a university and a technical vocational college. Occasionally, I've contributed to revisions of examination regulations and similar regulatory structures.     
 
@@ -78,6 +75,8 @@ I've also developed and held lots of safety and infrastructure introductions.
 ## Skills in Keywords
 
 **Making** - Makerspace operation / management / safety. Rapid Prototyping (many different methods), CAD/CAM, general (basic) coding, (traditional) web development, electronics and integrated systems for rapid prototyping, basic skills in different crafts / workshop and lab areas.
+
+**Operations & Compliance** - "White Hat Bureaucracy Hacking", public sector procurement (VgV, UVgO), occupational health and safety regulations (DGUV), budget management, and transitioning prototyping spaces into audit-proof regular operations.
 
 **Human Centered Design** - HCI, participatory design, UCD, CSCW, Design Thinking, convergence of agile and UCD. 
 
@@ -93,7 +92,6 @@ German: native, English: fluent, French: rudimentaire, Latin: obliviscebam.
 
 I enjoy camping, water, (working on) motorbikes and cars, cooking as well as books.  
 
-
 ## Projects & funding
 
 `2024-2026`
@@ -105,7 +103,7 @@ I enjoy camping, water, (working on) motorbikes and cars, cooking as well as boo
 *Private foundation for initial infrastructure, about 300.000€.*
 
 `2024-2026`
-**S4S** and **FILL** were education-focused projects on learning in and with (virtual) laboratories and building up capabilities for multimedia production. I managed both projects' finances in their second half.  
+**S4S** and **FILL** were education-focused projects on learning in and with (virtual) laboratories and building up capabilities for multimedia production. I was responsible for the financial management and budget controlling of both projects in their second half.  
 *Stiftung Innovation in der Hochschullehre ('foundation for digital teaching in academia'), about 420.000€ and 400.000€.*
 
 `2023-today`
@@ -125,7 +123,7 @@ I enjoy camping, water, (working on) motorbikes and cars, cooking as well as boo
 *Federal Ministry of Education and Research, about 1.2m€.* 
 
 `2016-2018`
-**YALLAH** - "You All Are Hackers" [was a student exchange / hackathon project](https://yallah.exchange/). Students from Palestine and Germany visited each other and worked on socio-economical issues and art using "maker-methods" ([info slides from 2017](files/slides/2017-yallah.pdf)). I developed the core idea after my own visits to Palestine as a student, led the proposal and helped recruit and set up the staff who took over.
+**YALLAH** - "You All Are Hackers" [was a student exchange / hackathon project](https://fablab-siegen.de/aktivitaeten/lab-projekte/yallah-exhibition/). Students from Palestine and Germany visited each other and worked on socio-economical issues and art using "maker-methods" ([info slides from 2017](files/slides/2017-yallah.pdf)). I developed the core idea after my own visits to Palestine as a student, led the proposal and helped recruit and set up the staff who took over.
 *German Academic Exchange Service (DAAD), about 225.000€.*
 
 `2016-2018`
@@ -135,10 +133,6 @@ I enjoy camping, water, (working on) motorbikes and cars, cooking as well as boo
 `2015-2016`
 **Internet-Cafe4Refugees** was a project we set up when Uni Siegen housed hundreds of refugees. We provided tech support, hardware and internet connection together with the local [freifunk.net](https://freifunk.net/) community.   
 *Volunteer work, hardware donations and enough local funding for student aids to cover daily opening hours.*
-
-`2013-today`
-**Fab Lab Siegen** [*was my baby*](https://fablab-siegen.de) for many years and my first real experience in regards to being a founder and the world of fundraising. My old team is still running and growing the Lab and it has become local infrastructure.  
-*Calls for student projects, donations, other sources, about 100.000€ in money and more in hardware donations during the first three years. Later, funding strategies changed when the project became official university infrastructure. The spaces for the lab were and are co-sponsored by private-public partnerships.*
 
 `2012-2015`
 **CUBES** [was a research project](files/cubes-faktenblatt.pdf) on community-based innovation in software and usability for small and medium sized enterprises. I was involved as a student, then researcher, then (interim) project manager for the [project reporting and closing](https://www.tib.eu/de/suchen?tx_tibsearch_search%5Baction%5D=download&tx_tibsearch_search%5Bcontroller%5D=Download&tx_tibsearch_search%5Bdocid%5D=TIBKAT%3A872262936&cHash=7d56fa41baf92a721f58064874672f4a#download-mark).  
@@ -168,10 +162,10 @@ I enjoy camping, water, (working on) motorbikes and cars, cooking as well as boo
 ## Publications
 
 `2021`
-[**Handbuch Fab Labs: Einrichtung, Finanzierung, Betrieb, Forschung & Lehre**](https://www.bombini-verlag.de/shop/handbuch-fab-labs/) by Iris Bockermann, Jan Borchers, Anke Brocker, Marcel Lahaye, Antje Moebus, Stefan Neudecker, Oliver Stickel, Melanie Stilz, Daniel Wilkens, René Bohne, Volkmar Pipek, Heidi Schelhowe. *Bombini-Verlag.* 
+[**Handbuch Fab Labs: Einrichtung, Finanzierung, Betrieb, Forschung & Lehre**](https://www.bombini-verlag.de/beratung/handbuch-fab-labs) by Iris Bockermann, Jan Borchers, Anke Brocker, Marcel Lahaye, Antje Moebus, Stefan Neudecker, Oliver Stickel, Melanie Stilz, Daniel Wilkens, René Bohne, Volkmar Pipek, Heidi Schelhowe. *Bombini-Verlag.*
 
 `2021`
-[**shARe-IT: Ad hoc Remote Troubleshooting through Augmented Reality**](https://link.springer.com/article/10.1007/s10606-021-09393-5) by Thomas Ludwig, Oliver Stickel, Peter Tolmie, Malte Sellmer. *Journal on Computer Supported Cooperative Work 30, pp. 119–167.* 
+[**shARe-IT: Ad hoc Remote Troubleshooting through Augmented Reality**](https://link.springer.com/article/10.1007/s10606-021-09393-5) by Thomas Ludwig, Oliver Stickel, Peter Tolmie, Malte Sellmer. *Journal on Computer Supported Cooperative Work 30, pp. 119–167.*
 
 `2019`
 [**Fab:UNIverse - Makerspaces, Fab Labs and Lab Managers in Academia**](files/10.1145-3335055.3335074.pdf) ([slides](files/slides/2019-fab101-fablearn.pdf)) by Oliver Stickel, Melanie Stilz, Anke Brocker, Jan Borchers, Volkmar Pipek. *Workshop at Fab Learn Europe Conference '19.*
@@ -187,7 +181,7 @@ I enjoy camping, water, (working on) motorbikes and cars, cooking as well as boo
 [**Fab Labs and Interdisciplinary Academic Teaching: A research agenda**](files/10.1145-3213818.3213835.pdf) ([poster](files/2018_fablearn_fab101_poster.pdf)) by Oliver Stickel, Melanie Stilz, Volkmar Pipek. *Proceedings from the Fab Learn Europe Conference '18, pp. 104-105.*
 
 `2017`
-[**Computerclubs und Flüchtlingslager - Ein Diskussionsbeitrag zur Forschungs- und Bildungsarbeit aus praxistheoretischer Perspektive**](files/10.14361-9783839433508-008.pdf) by Oliver Stickel, Konstantin Aal, Marén Schorch, Dominik Hornung, Alexander Boden, Volker Wulf, Volkmar Pipek. *In: Langreiter, N., Löffler, K. (eds.) - Do it! Yourself? Fragen zu (Forschungs-)Praktiken des Selbermachens. transcript.*  
+[**Computerclubs und Flüchtlingslager - Ein Diskussionsbeitrag zur Forschungs- und Bildungsarbeit aus praxistheoretischer Perspektive**](files/10.14361-9783839433508-008.pdf) by Oliver Stickel, Konstantin Aal, Marén Schorch, Dominik Hornung, Alexander Boden, Volker Wulf, Volkmar Pipek. *In: Langreiter, N., Löffler, K. (eds.) - Do it! Yourself? Fragen zu (Forschungs-)Praktiken des Selbermachens. transcript.*
 
 `2017`
 [**3D printing/digital fabrication for education and the common good**](http://www.digifab-commongood.fab101.de/images/2017_ws3dp_ct_proposal.pdf) by Oliver Stickel, Konstantin Aal, Verena Fuchsberger, Sarah Rüller, Victoria Wenzelmann, Volkmar Pipek, Volker Wulf, Manfred Tscheligi. *[Workshop](http://www.digifab-commongood.fab101.de/) at Communities & Technologies conference '17.*
@@ -199,7 +193,7 @@ I enjoy camping, water, (working on) motorbikes and cars, cooking as well as boo
 [**User Integration in Agile Software Development Processes: Practices and Challenges in Small and Medium Sized Enterprises**](files/10.1007-978-3-319-32165-3_2.pdf) by Oliver Stickel, Corinna Ogonowkski, Timo Jacobi, Gunnar Stevens, Volkmar Pipek, Volker Wulf. *In: Cockton, G., Lárusdóttir, M., Gregory, P., Cajander, Å. (eds) - Integrating User-Centred Design in Agile Development. Springer.*
 
 `2016`
-[**Infrastructuring & Digital Fabrication**](https://subs.emis.de/LNI/Proceedings/Proceedings259.html) by Oliver Stickel, Volkmar Pipek. *In: Mayr, H., Pinzger, M. (eds.) - INFORMATIK 2016, Lecture Notes in Informatics (LNI). Gesellschaft für Informatik.*
+[**Infrastructuring & Digital Fabrication**](https://dl.gi.de/items/b08573a5-b39a-47cd-a8e2-fdf6b2022099) by Oliver Stickel, Volkmar Pipek. *In: Mayr, H., Pinzger, M. (eds.) - INFORMATIK 2016, Lecture Notes in Informatics (LNI). Gesellschaft für Informatik.*
 
 `2016`
 [**Usability Quartett (Neuauflage und Erweiterung)**](https://germanupa.de/berufsverband-german-upa/aktuelles/usability-quartett-neuer-auflage) by GermanUPA, Oliver Stickel, Alisha Tilsner, Elisabeth Schwerdtner, Susanne Speh, Cindy Waldinger. *Method Cards, GermanUPA (see [pitch](files/usability-quartett-pitch.pdf)).*
@@ -228,7 +222,6 @@ I enjoy camping, water, (working on) motorbikes and cars, cooking as well as boo
 `2015`
 [**(Open) Usability Method Toolkit**](https://www.usability-siegen.de/). *Open library of Usability and User Experience methods, originally in German as "CUBES-Methodenfinder". Has since been expanded on and translated by students at Fab Lab Siegen.*  
 
-
 `2014`
 [**Bottom-Up Kultur in Siegen: Ein Bericht über aktuelle Strukturen, Entwicklungen und Umnutzungsprozesse**](files/10.14220-digo.2014.35.1.55.pdf) by Oliver Stickel, Alexander Boden, Gunnar Stevens, Volkmar Pipek, Volker Wulf. *In: Habscheid, S., Hoch, G. , Schröteler-v. Brandt, H., Stein, V. (eds.) - DIAGONAL Jahrgang 2014: Umnutzung - Alte Sachen, neue Zwecke. V&R unipress.*
 
@@ -239,7 +232,7 @@ I enjoy camping, water, (working on) motorbikes and cars, cooking as well as boo
 [**Towards Sociable Technologies: An Empirical Study on Designing Appropriation Infrastructures for 3D Printing**](files/10.1145-2598510.2598528.pdf) by Thomas Ludwig, Oliver Stickel, Alexander Boden, Volkmar Pipek. *Proceedings of the Designing Interactive Systems Conference (DIS) '14, pp. 835–844.* 
 
 `2014`
-[**Computer supported urban gardening**](http://hci-siegen.de/wp-uploads/2014/05/3-draft-urban-gardening-paper.pdf) ([poster](files/2014-poster-csug.pdf)) by Oliver Stickel, Thomas Ludwig. *Proceedings of the Designing Interactive Systems Conference (DIS) '14, pp. 77–80.*
+[**Computer supported urban gardening**](files/2014-draft-urban-gardening-paper.pdf) ([poster](files/2014-poster-csug.pdf)) by Oliver Stickel, Thomas Ludwig. *Proceedings of the Designing Interactive Systems Conference (DIS) '14, pp. 77–80.*
 
 `2014`
 [**Nutzerintegration in Softwareprojekte durch Multi-Channel Feedback.**](https://dl.gi.de/bitstream/handle/20.500.12116/7532/Draxler_Stickel_Winter_Stevens_2014.pdf?sequence=2&isAllowed=y) by Sebastian Draxler, Oliver Stickel, Dominique Winter, Gunnar Stevens. *Tagungsband der Mensch & Computer Konferenz (MuC) '14, pp. 175-184.*
@@ -271,34 +264,32 @@ I enjoy camping, water, (working on) motorbikes and cars, cooking as well as boo
 `2005`
 [**XESCOE - x-tendable environment for soundcard operated experiments**](files/2005-xescoe-documentation.pdf) ([user handbook](files/2005-xescoe-handbook.pdf), [slides](files/slides/2005-xescoe-slides.pdf)) by Benedikt Rudolph, Oliver Stickel, Niklas Reisser. *Land Baden-Württemberg at [Landesbildungsserver](https://de.wikipedia.org/wiki/Landesbildungsserver_Baden-W%C3%BCrttemberg) (offline since 2019).*
 
-
-
 ## Unpublished
 
-These might or might not be continued at some point. **Thoughts and feedback are welcome!**  
+These might or might not be continued at some point. **Thoughts and feedback are welcome!**
 
-[Towards a conceptual model of HCI and Making](files/unpublished_hci-and-making-researchagenda.pdf)  
+[Towards a conceptual model of HCI and Making](files/unpublished_hci-and-making-researchagenda.pdf)
 
-[HCI motivations for establishing, positioning and operating a Fab Lab](files/unpublished_hci-motivation-for-fablabs.pdf)  
+[HCI motivations for establishing, positioning and operating a Fab Lab](files/unpublished_hci-motivation-for-fablabs.pdf)
 
-[Poster draft on HCI and Fab Labs](files/unpublished_poster-hci-fablabs.pdf)  
+[Poster draft on HCI and Fab Labs](files/unpublished_poster-hci-fablabs.pdf)
 
-[On self-expression through 3D printing / digital fabrication](files/unpublished_self-expression-through-digifab.pdf)  
+[On self-expression through 3D printing / digital fabrication](files/unpublished_self-expression-through-digifab.pdf)
 
-[Literature review draft on Fab Labs and Makerspaces in academia](files/unpublished_2019-fab101-litreview.pdf)  
+[Literature review draft on Fab Labs and Makerspaces in academia](files/unpublished_2019-fab101-litreview.pdf)
 
-[On better interfaces for (educational) 3D modeling tools](files/unpublished_better-tools-for-3d-modeling.pdf)  
+[On better interfaces for (educational) 3D modeling tools](files/unpublished_better-tools-for-3d-modeling.pdf)
 
-[Der große Bruder in uns?](files/unpublished_2010-orwellish.pdf)  
+[Der große Bruder in uns?](files/unpublished_2010-orwellish.pdf)
 
-[Study proposal on the institutionalization of shared machine shops](files/unpublished_institutionalization-shared-machineshops.pdf)  
+[Study proposal on the institutionalization of shared machine shops](files/unpublished_institutionalization-shared-machineshops.pdf)
 
-[Proposal for a cultural probe study about domestic digital fabrication](files/unpublished_domestic-3d-printing.pdf)   
+[Proposal for a cultural probe study about domestic digital fabrication](files/unpublished_domestic-3d-printing.pdf)
 
 <a name="slides" ></a>
 ## Talks & slides
 
-Like most real work, the materials linked here have not been created alone. **Thank you to all collaborators!**  
+Like most real work, the materials linked here have not been created alone. **Thank you to all collaborators!**
 
 `2023`
 [Introduction to soldering](files/slides/2023-soldering.pdf)  
@@ -306,26 +297,26 @@ Like most real work, the materials linked here have not been created alone. **Th
 General Fab Lab / Makerspace introduction and safety: [German](files/slides/2023-siu-rub-makerspace_de.pdf) / [English](files/slides/2023-siu-rub-makerspace_en.pdf)  
 
 `2022`
-[Build your own air quality sensor](files/slides/2022-luftdatensensor.pdf) ([web-view](https://makerspace.ruhr-uni-bochum.de/slides/ws-luftdaten/))  
+[Build your own air quality sensor](files/slides/2022-luftdatensensor.pdf)   
 [Introduction to Mixed Reality](files/slides/2022-mr.pdf)  
-[Microcontroller Basics](files/slides/2022-microcontroller.pdf) ([web-view](https://makerspace.ruhr-uni-bochum.de/slides/ws-microcontroller/))  
-[Introduction to CAD (two days)](files/slides/2022-cad-2d.pdf)  
+[Microcontroller Basics](files/slides/2022-microcontroller.pdf)   
+[Introduction to CAD (two days)](files/slides/2022-cad-2dws.pdf)  
 [Introduction to measuring for electronics](files/slides/2022-messen.pdf)  
 [Introduction to making PCBs](files/slides/2022-pcbs.pdf)  
 [Introduction to CNC milling](files/slides/2022-cnc.pdf)  
 
 `2021`
 [How to develop workshops in/for Makerspaces](files/slides/2021-workshops-in-makerspaces.pdf)  
-[Introduction to and safety in digital/electronics labs](files/slides/2021-unterweisung-digitallabor.pdf) ([web-view](https://makerspace.ruhr-uni-bochum.de/slides/unterweisung-digitallabor/))  
+[Introduction to and safety in digital/electronics labs](files/slides/2021-unterweisung-digitallabor.pdf)   
 [Guest lecture & workshop on Arduino for Female Entrepreneurs at RUB](https://face.rub.de/projektseminarmakerspace/)  
-[Q&A and 360-tour through RUB-Makerspace at Aachen Maker Meetup](https://hci.rwth-aachen.de/amm-210721)
+[Q&A and 360-tour through RUB-Makerspace at Aachen Maker Meetup](https://hci.rwth-aachen.de/amm-210721)  
 
 `2019`
 [WTF is Fab Lab (Siegen)?](files/slides/2019-wtf-fablab.pdf) (extended version: [What is a Fab Lab](files/slides/2019-what-is-a-fablab.pdf))  
 [Prototyping with Arduino (semester-long seminar, English)](files/slides/2019-prototyping-with-arduino_en.pdf)  
 [Makerspaces, Fab Labs and Lab Managers in Academia](files/slides/2019-fab101-fablearn.pdf)  
 [Fab Lab](files/slides/2019-fablabs.pdf) guest lecture for [Folkwang Fab Diplom](https://id.folkwang-uni.de/projekte/folkwang-fabdiplom-2019/) at Folkwang Universität  
-[Talk & workshop on Fab Labs as culture labs](files/slides/2019_das-schaffen-in-fab-labs.pdf)
+[Talk & workshop on Fab Labs as culture labs](files/slides/2019_das-schaffen-in-fab-labs.pdf)  
 
 `2018`
 [Fab Labs & 3D printing](files/slides/2018_additive-manufacturing-in-fablabs.pdf) guest lecture, faculty of engineering at Uni Siegen  
@@ -339,19 +330,19 @@ Guest lecture & workshop on [*Arduino in a nutshell*](https://hci.rwth-aachen.de
 [Using technology creatively](https://www.uni-siegen.de/smi/aktuelles/2016_fablab_ukus.compressed.pdf) for SMI/IHK Siegen  
 [Digital Fabrication in education](https://mittelstandstagung.de/fileadmin/user_upload/Programmheft.pdf) (similar to 2019 WS on culture labs)  
 [Children's university talk on how to make stuff](files/slides/2017-kinderuni-fablab.pdf)  
-Introduction to HCI (semester-long lecture & tutorial): [German](files/slides/2017-introduction-to-hci_de.pdf) / [English](files/slides/2017-introduction-to-hci_en.pdf)
+Introduction to HCI (semester-long lecture & tutorial): [German](files/slides/2017-introduction-to-hci_de.pdf) / [English](files/slides/2017-introduction-to-hci_en.pdf)  
 
 `2016`
 [Fab Lab Siegen](files/slides/2016-fablabsiegen.pdf)  
-[3D printing for beginners at MakerFaire Ruhr](https://www.makerfaire-ruhr.com/workshop-das-kleine-einmaleins-des-3d-drucks/) (see 2015 seminar)  
+3D printing for beginners at MakerFaire Ruhr (see 2015 seminar)  
 [Demo session on user projects from Fab Lab Siegen](https://events.ihk-siegen.de/attachments/1494575104_391300c2f07b3798557b.pdf) for IHK Siegen (some of the projects see 2019 slides on culture labs)  
 [3D printing for beginners at re:publica 2016](https://16.re-publica.com/16/session/3d-printing-beginners.html) (see 2015 seminar)  
-[Interaction Design with Arduino (semester-long seminar, German)](files/slides/2016-interaction-design-with-arduino.pdf)
+[Interaction Design with Arduino (semester-long seminar, German)](files/slides/2016-interaction-design-with-arduino.pdf)  
 
 `2015`
 Workshop on Usability & User Experience: [one day](files/slides/2015-uux-workshop.pdf) / [two days](files/slides/2015-uux-workshop-2d.pdf)  
 [3D printing (semester-long seminar, German)](files/slides/2015-3d-druck-seminar.pdf)  
-[Making@Palestine talk & 3D printing workshop at re:publica 2015](http://archiv-15.re-publica.com/en/member/3257)  
+Making@Palestine talk & 3D printing workshop at re:publica 2015  
 [Industrie 4.0 meets Making](files/slides/2015-industrie40-meets-making.pdf)  
 [Appropriating digital fabrication: A study of two 3D printing communities](files/slides/2015_iconf_3dp_slides.pdf)  
 [Praktiken der Nutzerintegration im Entwicklungsprozess von KMU](files/slides/2015_muc-praktiken.pdf)  
@@ -380,14 +371,13 @@ Workshop on Usability & User Experience: [one day](files/slides/2015-uux-worksho
 [Educational game prototype "Food Balance"](files/slides/2011-foodbalance-game.pdf) ([poster](files/2011-foodbalance-poster.pdf))  
 [Cindy Sherman](files/slides/2011-cindysherman.pdf)  
 [Pathological Internet Use](files/slides/2011-pathological-internet-use.pdf)  
-[3D animation project "Star Trek TOS"](files/slides/2011-star-trek-tos-animation-slides.pdf) ([the animation](files/3d/star-trek-tos-animation.mp4))
+[3D animation project "Star Trek TOS"](files/slides/2011-star-trek-tos-animation-slides.pdf) ([the animation](files/3d/star-trek-tos-animation.mp4))  
 
 `2010`
 [OpArt](files/slides/2010-opart.pdf)  
 [Das (schwarze) Quadrat](files/slides/2010-quadrat.pdf)  
-[(Web-)Typografie](files/slides/2010-webtypo.pdf) ([Handout](files/slides/2010-webtypo-handout.pdf))   
-[The perfect thing - Imco lighters](files/slides/2010-tpt-imco.pdf)  
-
+[(Web-)Typografie](files/slides/2010-webtypo.pdf) ([Handout](files/slides/2010-webtypo-handout.pdf))  
+[The perfect thing - Imco lighters](files/slides/2010-tpt-imco.pdf)
 ## Additional links
 
 **Other files:** Linked files from above and more [are available here](https://github.com/oliverstickel/oliverstickel.github.io/tree/master/files).
@@ -400,17 +390,16 @@ Workshop on Usability & User Experience: [one day](files/slides/2015-uux-worksho
 
 [fab-universe.de](https://fab-universe.de) / [on GitHub](https://github.com/fabuniverse/)
 
-[yallah.exchange](https://yallah.exchange) / [exhibition.yallah.exchange](https://exhibition.yallah.exchange)  
+[yallah.exchange](https://yallah.exchange) / [exhibition.yallah.exchange](https://exhibition.yallah.exchange)
 
-[Usability Method Finder](https://www.usability-siegen.de/)  
+[Usability Method Finder](https://www.usability-siegen.de/)
 
 [wiki.zeitraum-siegen.de](https://wiki.zeitraum-siegen.de)
 
-[World Usability Day Siegen](https://www.wud-siegen.de/)  
+[World Usability Day Siegen](www.wud-siegen.de/)
 
-Interviews: [Deutschlandfunk Kultur](https://www.deutschlandfunkkultur.de/maker-faire-ruhr-in-dortmund-bastler-war-frueher-maker-ist-100.html) / [Deutsche Welle](https://www.dw.com/de/fablab-gemeinsam-t%C3%BCftelts-sich-leichter/a-49714943) / [UPA](https://germanupa.de/berufsverband-german-upa/aktuelles/g-upa-mitglied-halbwoche-oliver-stickel) / [Radius 92.1](https://radius921.de/fab-lab-siegen/)  
+Interviews: [Deutschlandfunk Kultur](https://www.deutschlandfunkkultur.de/maker-faire-ruhr-in-dortmund-bastler-war-frueher-maker-ist-100.html) / [Deutsche Welle](https://www.dw.com/de/fablab-gemeinsam-t%C3%BCftelts-sich-leichter/a-49714943) / [UPA](https://germanupa.de/berufsverband-german-upa/aktuelles/g-upa-mitglied-halbwoche-oliver-stickel) / [Radius 92.1](https://radius921.de/fab-lab-siegen/)
 
 News articles: [RUB-Makerspace at Mark51/7](https://www.waz.de/staedte/bochum/exklusiv-blick-auf-mark-51-7-wahnsinn-was-sich-getan-hat-id239011815.html) / ["Nachtbetrieb auf Mark 51/7" (pp. 8-9)](https://ruhrtal-verlag.de/wp-content/uploads/halloboOST_011_5.pdf) / [3D printing with children](https://www.wp.de/staedte/siegerland/kinder-drucken-in-kreuztaler-stadtbibliothek-in-3d-id11160424.html) / [refugees at Fab Lab Siegen](https://www.3d-grenzenlos.de/magazin/kurznachrichten/projekts-learnspaces-uni-siegen-fuer-fluechtlinge-27340123/) / [Fab Lab Siegen moving into the city](https://www.vdsm.net/wronline/das-fab-lab-ist-im-herzen-von-siegen-angekommen/)
 
-[My old blog posts on the Fab Lab Siegen website](https://fablab-siegen.de/author/oliver_dummy/)   
-
+[My old blog posts on the Fab Lab Siegen website](https://fablab-siegen.de/author/oliver_dummy/)
