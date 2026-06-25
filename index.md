@@ -52,7 +52,7 @@ Innovation Manager, Infrastructure Expert, Researcher & Founder
 
 ## Community roles
 
-I (co-)chaired [Fab:UNIverse](https://fabuniverse.github.io/website/) - the conference of Fab Lab managers at German universities - multiple times and help maintain its website. I've also (co-)organized many gatherings such as temporary (Maker)spaces at other events or meetups like the [World Usability Day Siegen](https://www.wud-siegen.de/) (2014-2018).  
+I (co-)chaired [Fab:UNIverse](https://fabuniverse.github.io/website/) - the conference of Fab Lab managers at German universities - multiple times and I've (co-)organized many gatherings such as temporary (Maker)spaces at other events or meetups like the [World Usability Day Siegen](https://www.wud-siegen.de/) (2014-2018).  
 
 In academic service, I was reviewer/chair for conferences and journals like [CHI](https://dl.acm.org/conference/chi/proceedings), [JCSCW](https://www.springer.com/journal/10606), [C&T](https://dl.acm.org/conference/c-n-t) or [M&C](https://mensch-und-computer.de/). Occasionally, I've been asked to join committees, mostly on (community) innovation spaces or student issues. I've also been an elected member of different bodies of (self)-governance such as the Senate commission on Strategic University Development and examination boards at Uni Siegen or head of the student representatives ("Fachschaftsräte") at Uni Duisburg-Essen and Uni Siegen respectively. Additionally, I have served as an official safety officer, gaining profound experience in cooperating with occupational health and safety insurances ("Unfallkassen") to ensure safe and compliant lab environments.
 
