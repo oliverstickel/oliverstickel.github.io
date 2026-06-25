@@ -123,7 +123,7 @@ I enjoy camping, water, (working on) motorbikes and cars, cooking as well as boo
 *Federal Ministry of Education and Research, about 1.2m€.* 
 
 `2016-2018`
-**YALLAH** - "You All Are Hackers" [was a student exchange / hackathon project](https://fablab-siegen.de/aktivitaeten/lab-projekte/yallah-exhibition/). Students from Palestine and Germany visited each other and worked on socio-economical issues and art using "maker-methods" ([info slides from 2017](files/slides/2017-yallah.pdf)). I developed the core idea after my own visits to Palestine as a student, led the proposal and helped recruit and set up the staff who took over.
+**YALLAH** - "You All Are Hackers" [was a student exchange / hackathon project](https://fablab-siegen.de/aktivitaeten/lab-projekte/yallah-exhibition/). Students from Palestine and Germany visited each other and worked on socio-economical issues and art using "maker-methods" ([info slides from 2017](files/slides/2017-yallah.pdf)). I developed the core idea after my own visits to Palestine as a student, co-led the proposal and helped recruit and set up the staff who took over.
 *German Academic Exchange Service (DAAD), about 225.000€.*
 
 `2016-2018`
