@@ -115,7 +115,7 @@ I enjoy camping, water, (working on) motorbikes and cars, cooking as well as boo
 *Stiftung Innovation in der Hochschullehre ('foundation for digital teaching in academia'), about 20.000€.*
 
 `2019-2022`
-**SMAPS** [- the center for smart production systems](https://www.smaps.org/) - was a research-infrastructure project on additive fabrication and smart systems for industrial tooling (mainly forming processes). I was part of the proposal team and briefly involved in the ramp-up and procurement phase.  
+**SMAPS** [- the center for smart production systems](https://www.smaps.org/) - was a research-infrastructure project on additive fabrication and smart systems for industrial tooling (mainly forming processes). I was part of the proposal team and involved in the ramp-up and procurement phase.  
 *European EFRE-fund (EFRE.NRW), about 3m€.* 
 
 `2017-2020`
