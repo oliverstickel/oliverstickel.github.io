@@ -3,7 +3,7 @@ layout: cv
 title: Oliver Stickel
 ---
 # Oliver Stickel
-Innovation Manager, Infrastructure Expert, Researcher & Founder
+Infrastructure & IT Expert, Innovation Manager, Researcher 
 
 <a href="mailto:kontakt@oliverstickel.de"><i class="fas fa-user"></i> kontakt@oliverstickel.de</a><br/>
 
@@ -19,16 +19,16 @@ Innovation Manager, Infrastructure Expert, Researcher & Founder
 ## Experience
 
 `2024-2025`
-**Project and Lab Manager**. Strategic development, management, and daily operations of the Makerspace. Focus on infrastructure, public procurement, and the establishment of safe operational concepts. Project work/lead on creating a new sustainability lab and a new Mixed-Reality lab. *University of Stuttgart*.
+**Project and Lab Manager**. Strategic development, management, and daily operations of the Makerspace as part of the central IT and communication services (TIK). Focus on infrastructure management, public procurement, budget controlling, and the establishment of robust operational safety concepts. Financial management and project lead for multi-million euro grant projects (e.g., sustainability labs, Mediaspace). *University of Stuttgart*.
 
 `2020-2023`
-**Deputy General Manager / Lab Leader**. Operational setup and management of a 2,000 sqm innovation space, including technical and disciplinary leadership of a 15-person team. Core responsibilities included project management, budgeting, execution of public procurement processes, and the implementation of comprehensive compliance and safety concepts. *Ruhr-Universität Bochum*.
+**Deputy General Manager / Head of IT & Digital Lab**. Operational setup and management of a 2,000 sqm innovation space, including technical and disciplinary leadership of a 15-person team. Core responsibilities included project management, budget execution, strict adherence to public procurement processes (VgV/UVgO), and the implementation of comprehensive compliance and occupational safety concepts (DGUV). *Ruhr-Universität Bochum*.
 
 `2015-today`
-**Self-employed researcher, consultant, educator**. Consultation work for organizations interested in Fab Labs, Makerspaces and Community Innovation Spaces. Public and private grant proposals. Teaching. Book project "[Handbuch Fab Labs](https://www.bombini-verlag.de/beratung/handbuch-fab-labs/)".
+**Self-employed researcher, consultant, educator**. Consultation work for organizations interested in establishing compliant and safe infrastructure for Fab Labs and Innovation Spaces. Public and private grant proposals. Book project "[Handbuch Fab Labs](https://www.bombini-verlag.de/beratung/handbuch-fab-labs/)".
 
 `2015-2019`
-**Researcher, project manager, educator**. After graduating, I stayed at Uni Siegen to continue building [Fab Lab Siegen](https://fablab-siegen.de) into a sustainable infrastructure. Apart from the Lab, I worked on/in in different projects (see below), published and did a lot of teaching. *University of Siegen*.
+**Researcher, project manager, educator**. After graduating, I stayed at Uni Siegen to continue building [Fab Lab Siegen](https://fablab-siegen.de) into a sustainable, fully-funded infrastructure. Managed millions in grant funds (BMBF, BMWi, DAAD) and oversaw procurement processes while publishing and teaching. *University of Siegen*.
 
 `2014-2019`
 **Guest researcher, consultant**. Field research, consultations and development of joint project proposals in/with collaborators from the Middle East. *University of Birzeit, Univ. of Technology Oman, Goethe Institute, others*.
@@ -45,10 +45,23 @@ Innovation Manager, Infrastructure Expert, Researcher & Founder
 **(Occasional) dissertation work** - About (Fab) Labs as public infrastructure. *University of Siegen and self-employed*.
 
 `2012-2015`
-**M.Sc. Human Computer Interaction** (honors) - Socio-technical systems design based on qualitative methods. *University of Siegen*.
+**M.Sc. Human Computer Interaction** (graduated top of class, honors) - Socio-technical systems design, empirical methods, and process analysis. *University of Siegen*.
 
 `2009-2012`
-**B.Sc. Applied Cognitive and Media Sciences** - Computer Science and Psychology (without advanced engineering and clinical aspects), grounded in quantitative methods. *University of Duisburg-Essen*.
+**B.Sc. Applied Cognitive and Media Sciences** - Computer Science, Psychology, and quantitative methods (including statistics and business law). *University of Duisburg-Essen*.
+
+
+## Skills in Keywords
+
+**Operations, Compliance & Procurement** - Translating complex technological needs into public sector procurement processes (VgV, UVgO), occupational health and safety regulations (DGUV), strict budget management, and transitioning prototyping spaces into audit-proof regular operations.
+
+**Information Technology & Human Centered Design** - HCI, socio-technical systems evaluation, empirical research methods, Usability/UX, general coding, and IT administration for distributed systems.
+
+**Projects and People** - Leading interdisciplinary teams, crisis management, teaching, budget planning, grant acquisition, and operations within public service and administration.
+
+**Making** - Workshop and laboratory operation. Rapid Prototyping (many different methods), CAD/CAM, electronics and integrated systems for prototypes, basic skills in a wide range of crafts and trades.
+
+
 
 ## Community roles
 
@@ -58,31 +71,6 @@ In academic service, I was reviewer/chair for conferences and journals like [CHI
 
 *Memberships:* [Verbund Offener Werkstätten](https://www.offene-werkstaetten.org), [Chaos Computer Club](https://www.ccc.de/), [ver.di](https://www.verdi.de), [Fab Lab Network](https://fablabs.io), [FIfF](https://blog.fiff.de). *Past:* [UPA](https://germanupa.de/), [GIG](https://globalinnovationgathering.org/), [Hasi](https://hackspace-siegen.de/), [GI](https://gi.de/).  
 
-## Teaching
-
-I enjoy teaching and learning a lot. I've always made it a point to try and be open in teaching and have frequently had students from other faculties or external guests in my seminars.  
-
-At Uni Siegen, I've been responsible for most elements of the annual [mandatory introduction to Human Computer Interaction](https://hci-siegen.de/curriculum) for years. This included lectures and mentoring up to 40 students per iteration through big, semester-long projects ending in submissions to and [wins in](https://www.uni-siegen.de/start/news/oeffentlichkeit/654454.html) national [student challenges](https://fb-mci.gi.de/angebote/fuer-studierende). Additionally, I've held many different [seminars](https://fablab-siegen.de/veranstaltungen/lehr-angebote-fab-lab-siegen-sommersemester-2017/) ranging from reading classes on literature about "Making" to very [practical seminars](https://fablab-siegen.de/veranstaltungen/lv-3d-druck-1516/) on [rapid prototyping methods](https://fablab-siegen.de/veranstaltungen/lv-arduino-1516/). Over the years, we have also built up more and more supervised Fab Lab open hours for work on projects as the backbone of all teaching in the Makerspace. These open hours are split into times for students and times where the general public is also welcome.   
-
-At Uni Bochum, I was less involved in structured, academic teaching but tought and learned whatever was needed to help [many different](https://makerspace.ruhr-uni-bochum.de/ort/) individual Makerspace users and small groups with their projects. As an entrepreneurship-focused space, teaching, introductory courses and open hours were -- unfortunately -- not a priority.  
-
-At Uni Stuttgart, we as a team collectively ran one (always overbooked) [Makerspace-focused](https://uni-stuttgart.de/maked-digital) seminar per semester on our own and additionally were constantly booked as guest lecturers in all sorts of seminars from all faculties that offered sessions in cooperation with the Makerspace. In addition, we hosted daily courses and open hours for Makerspace safety and basic operations of the machines and tools.  
-
-As a thesis advisor and co-advisor, I have accompanied about 8 Bachelor and Master Students along their paths to graduation. Topics have varied from participatory-design-oriented field investigations to studies about Makerspaces in teacher training to engineering and fabrication of additive tools for industrial processes. Additionally, I've been involved in co-advising state-certified technicians as a pilot project between a university and a technical vocational college. Occasionally, I've contributed to revisions of examination regulations and similar regulatory structures.     
-
-I've also developed and held lots of safety and infrastructure introductions. 
-
-## Skills in Keywords
-
-**Making** - Makerspace operation / management / safety. Rapid Prototyping (many different methods), CAD/CAM, general (basic) coding, (traditional) web development, electronics and integrated systems for rapid prototyping, basic skills in different crafts / workshop and lab areas.
-
-**Operations & Compliance** - "White Hat Bureaucracy Hacking", public sector procurement (VgV, UVgO), occupational health and safety regulations (DGUV), budget management, and transitioning prototyping spaces into audit-proof regular operations.
-
-**Human Centered Design** - HCI, participatory design, UCD, CSCW, Design Thinking, convergence of agile and UCD. 
-
-**Projects and People** - Project development, social innovation, fundraising, agility / "Skunkworks", community and team development, operations (with)in public service and public administration. 
-
-**Methods** - Constructionism, human-centered teaching and learning, mixed-methods, action and field research, participatory methods and participatory action research, (Maker-)space(s) as a method.
 
 ## Personal
 
@@ -286,6 +274,20 @@ These might or might not be continued at some point. **Thoughts and feedback are
 
 [Proposal for a cultural probe study about domestic digital fabrication](files/unpublished_domestic-3d-printing.pdf)
 
+## Teaching
+
+I enjoy teaching and learning a lot. I've always made it a point to try and be open in teaching and have frequently had students from other faculties or external guests in my seminars.  
+
+At Uni Siegen, I've been responsible for most elements of the annual [mandatory introduction to Human Computer Interaction](https://hci-siegen.de/curriculum) for years. This included lectures and mentoring up to 40 students per iteration through big, semester-long projects ending in submissions to and [wins in](https://www.uni-siegen.de/start/news/oeffentlichkeit/654454.html) national [student challenges](https://fb-mci.gi.de/angebote/fuer-studierende). Additionally, I've held many different [seminars](https://fablab-siegen.de/veranstaltungen/lehr-angebote-fab-lab-siegen-sommersemester-2017/) ranging from reading classes on literature about "Making" to very [practical seminars](https://fablab-siegen.de/veranstaltungen/lv-3d-druck-1516/) on [rapid prototyping methods](https://fablab-siegen.de/veranstaltungen/lv-arduino-1516/). Over the years, we have also built up more and more supervised Fab Lab open hours for work on projects as the backbone of all teaching in the Makerspace. These open hours are split into times for students and times where the general public is also welcome.   
+
+At Uni Bochum, I was less involved in structured, academic teaching but tought and learned whatever was needed to help [many different](https://makerspace.ruhr-uni-bochum.de/ort/) individual Makerspace users and small groups with their projects. As an entrepreneurship-focused space, teaching, introductory courses and open hours were -- unfortunately -- not a priority.  
+
+At Uni Stuttgart, we as a team collectively ran one (always overbooked) [Makerspace-focused](https://uni-stuttgart.de/maked-digital) seminar per semester on our own and additionally were constantly booked as guest lecturers in all sorts of seminars from all faculties that offered sessions in cooperation with the Makerspace. In addition, we hosted daily courses and open hours for Makerspace safety and basic operations of the machines and tools.  
+
+As a thesis advisor and co-advisor, I have accompanied about 8 Bachelor and Master Students along their paths to graduation. Topics have varied from participatory-design-oriented field investigations to studies about Makerspaces in teacher training to engineering and fabrication of additive tools for industrial processes. Additionally, I've been involved in co-advising state-certified technicians as a pilot project between a university and a technical vocational college. Occasionally, I've contributed to revisions of examination regulations and similar regulatory structures.     
+
+I've also developed and held lots of safety and infrastructure introductions. 
+
 <a name="slides" ></a>
 ## Talks & slides
 
@@ -378,6 +380,7 @@ Making@Palestine talk & 3D printing workshop at re:publica 2015
 [Das (schwarze) Quadrat](files/slides/2010-quadrat.pdf)  
 [(Web-)Typografie](files/slides/2010-webtypo.pdf) ([Handout](files/slides/2010-webtypo-handout.pdf))  
 [The perfect thing - Imco lighters](files/slides/2010-tpt-imco.pdf)
+
 ## Additional links
 
 **Other files:** Linked files from above and more [are available here](https://github.com/oliverstickel/oliverstickel.github.io/tree/master/files).
