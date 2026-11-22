@@ -18,6 +18,9 @@ Infrastructure & IT Expert, Innovation Manager, Researcher
 
 ## Experience
 
+`2026-today` 
+**Specialist, Requirements and Data** at *FITKO (German Federal IT Cooperation)*.
+
 `2024-2025`
 **Project and Lab Manager**. Strategic development, management, and daily operations of the Makerspace as part of the central IT and communication services (TIK). Focus on infrastructure management, public procurement, budget controlling, and the establishment of robust operational safety concepts. Financial management and project lead for multi-million euro grant projects (e.g., sustainability labs, Mediaspace). *University of Stuttgart*.
 
